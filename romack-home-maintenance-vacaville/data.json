@@ -1,0 +1,362 @@
+{
+  "slug": "romack-home-maintenance-vacaville",
+  "siteUrl": "https://leger-web-studio.github.io/romack-home-maintenance-vacaville/",
+  "name": "Romack Home Maintenance Services",
+  "monogram": "R",
+  "niche": "home",
+  "schemaType": "HomeAndConstructionBusiness",
+  "theme": {
+    "bg": "#fbf8f4",
+    "surface": "#f4ece2",
+    "card": "#ffffff",
+    "text": "#231a12",
+    "muted": "#6f6254",
+    "line": "#eadfce",
+    "accent": "#b45309",
+    "accentInk": "#fff",
+    "stripe": "linear-gradient(90deg,#b45309,#f59f00)",
+    "heroFallback": "linear-gradient(135deg,#7c2d12,#b45309)",
+    "ctaBg": "linear-gradient(135deg,#7c2d12,#b45309)"
+  },
+  "eyebrow": "Handyman · Vacaville, CA · Rowmack Inc.",
+  "tagline": "The handyman that can. Bob Mackert brings 25+ years of experience to repairs, installs and carpentry around your home, one project at a time.",
+  "seoTitle": "Romack Home Maintenance Services (Rowmack Inc.) | Handyman in Vacaville, CA",
+  "description": "Romack Home Maintenance Services (Rowmack Inc.), Vacaville handyman Robert \"Bob\" Mackert. Sheetrock, texturing, doors, flooring, furniture assembly, fixtures and repairs. Rated 4.9 on Google. (707) 317-8126.",
+  "phone": "+17073178126",
+  "phoneDisplay": "(707) 317-8126",
+  "address": {
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95687"
+  },
+  "serviceArea": "Vacaville, CA",
+  "rating": {
+    "value": 4.9,
+    "count": 39,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "call",
+    "label": "Call or text Bob",
+    "short": "Call"
+  },
+  "heroImage": "images/cedar-steps.jpg",
+  "ogImage": "images/cedar-steps.jpg",
+  "highlights": [
+    "4.9★ on Google (39 reviews)",
+    "25+ years experience",
+    "Often same-day response",
+    "Cleans up after every job",
+    "Credit cards accepted",
+    "Open Saturdays"
+  ],
+  "about": {
+    "kicker": "Meet Bob",
+    "title": "One project at a time.",
+    "body": [
+      "Romack Home Maintenance Services, also known as Rowmack Inc., is Vacaville handyman Robert \"Bob\" Mackert. In his own words he has over 25 years of experience, and if your project involves wood and/or houses, his list of skills goes on, from simple to custom.",
+      "Customers say Bob responds fast, often the same day, shows up on time, charges fair prices and cleans up behind himself. Many call him back for project after project around the house."
+    ],
+    "facts": [
+      {
+        "value": "4.9★",
+        "label": "Google (39)"
+      },
+      {
+        "value": "25+ yrs",
+        "label": "Experience"
+      },
+      {
+        "value": "Mon–Sat",
+        "label": "Open 6 days"
+      }
+    ],
+    "image": "images/entry-steps.jpg",
+    "imageAlt": "Wood entry steps with railing"
+  },
+  "servicesTitle": "What Bob does",
+  "servicesKicker": "Services",
+  "services": [
+    {
+      "name": "Sheetrock & texturing",
+      "desc": "Sheetrock repairs and ceiling texturing.",
+      "source": "Owner's Yelp bio and listings"
+    },
+    {
+      "name": "Door installation & repair",
+      "desc": "Interior, exterior and side garage doors installed, adjusted and fixed.",
+      "source": "Verified by the business on Yelp"
+    },
+    {
+      "name": "Flooring installation & repair",
+      "desc": "Laminate floors and baseboards.",
+      "source": "Verified by the business on Yelp"
+    },
+    {
+      "name": "Furniture assembly",
+      "desc": "Desks and more, put together fast.",
+      "source": "Verified by the business on Yelp"
+    },
+    {
+      "name": "Carpentry",
+      "desc": "Wood projects from simple to custom.",
+      "source": "Verified by the business on Yelp"
+    },
+    {
+      "name": "Dry rot removal & replacement",
+      "source": "Owner's Yelp bio"
+    },
+    {
+      "name": "Caulking",
+      "source": "Verified by the business on Yelp"
+    },
+    {
+      "name": "Plumbing repairs",
+      "desc": "Shower heads and other fixture swaps.",
+      "source": "BestProsInTown listing"
+    },
+    {
+      "name": "Fixture & appliance installs",
+      "desc": "Ceiling fans and over-the-range microwaves, with old appliances hauled away.",
+      "source": "Mentioned in customer reviews"
+    }
+  ],
+  "servicesNote": "No prices are posted online. Reviewers describe Bob's pricing as fair and reasonable. Call or text (707) 317-8126 to talk through your project.",
+  "galleryTitle": "Recent projects",
+  "galleryNote": "Photos from the business's public listings.",
+  "gallery": [
+    {
+      "src": "images/tile-shower.jpg",
+      "alt": "Tiled shower wall"
+    },
+    {
+      "src": "images/fireplace-wall.jpg",
+      "alt": "Stone fireplace wall"
+    },
+    {
+      "src": "images/deck-rebuild.jpg",
+      "alt": "Wood deck under construction"
+    },
+    {
+      "src": "images/treehouse-deck.jpg",
+      "alt": "Raised wooden deck"
+    },
+    {
+      "src": "images/shed.jpg",
+      "alt": "Storage shed"
+    },
+    {
+      "src": "images/garden-bench.jpg",
+      "alt": "Wooden garden bench"
+    },
+    {
+      "src": "images/laminate-floor.jpg",
+      "alt": "Wood-look flooring in a hallway"
+    },
+    {
+      "src": "images/entry-steps.jpg",
+      "alt": "Wood entry steps"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 4.9,
+      "count": 39,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "source": "Yelp",
+      "value": 4.5,
+      "count": 12,
+      "url": "https://www.yelp.com/biz/rowmack-vacaville-3"
+    }
+  ],
+  "reviews": [
+    {
+      "text": "He is the best handyman I’ve ever hired. Very professional and kind. We are very satisfied.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jan 2026",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "I am absolutely thrilled to write a review for Robert, who recently installed a ceiling fan in my home. From start to finish, the experience was nothing short of exceptional. Robert is the epitome of professionalism. He arrived precisely on time, which I greatly appreciate, and immediately got to work. Beyond his punctuality, his demeanor was incredibly pleasant, and he even had a great sense of humor that made the whole process enjoyable. What truly set Robert apart was his keen eye and observant nature. He noticed a small detail about the wiring that could have caused an issue down the line…",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jul 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "My husband text Bob, today Sunday March 2, 2025 to replace a shower head in one of our bathrooms. Bob, responded immediately and said that he’d be out today, he arrived within the hour and replaced the shower head within a few minutes. He’s quick, reasonably priced and more importantly, he cleans up behind himself. We use Bob on a regular basis for various repairs around the house.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Mar 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Bob is very helpful, very affordable and upfront. I called and he showed up within an hour and a half. I had one project that I called him out for, but after having him look at the main project, I intend on using his services for all of my other projects that need to be taken care of.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2024",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "I called ROWMACK today and spoke with Robert Mackert. I will be working from home starting tomorrow and my desk was still in the box!!! Bob came to my house and within an hour my desk was complete. He is also very nice. So if you need someone to put your furniture together, please call my new handy man at ROWMACK INC! Trust me, you will be glad you did!!!",
+      "author": "BestProsInTown reviewer",
+      "source": "BestProsInTown",
+      "date": "Jan 2024",
+      "url": "https://www.bestprosintown.com/ca/vacaville/rowmack-inc-/"
+    },
+    {
+      "text": "Robert responded the same day. He arrived on time and went to work. Completed task in a reasonable time and charged a fair fee for a difficult job. Cleaned up his work area. I am very pleased and would not hesitate to hire him again.",
+      "author": "BestProsInTown reviewer",
+      "source": "BestProsInTown",
+      "date": "Sep 2023",
+      "url": "https://www.bestprosintown.com/ca/vacaville/rowmack-inc-/"
+    },
+    {
+      "text": "Bob is an excellent worker. Shows up when he says he will and makes sure whatever he is working on is repaired correctly. We’ve had three different people work on our door, but they never fixed it. Bob put in the time to make sure it was done correctly. He is reasonable in his pricing and very kind. We will definitely be using his services in the future!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2022",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Bob of Rowmack Inc Handyman Services did a side garage door install. He knew exactly what was required to start and finish the project in a timely matter. His professional talent produced outstanding results. I am more than pleased with his work. I have already ask Bob to schedule me in for another install in the kitchen. Highly Recommended",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Mar 2022",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Such great service received today. I found Bob's information while searching for someone to install my over the range microwave. I reached out to Bob and he was very responsive and was able to get me all set up this morning. Bob even recommended an earlier time. I really can say what quality work and Bob hauled away the old appliance as well. I will recommend Bob to anyone and even make use of him again for other things needed to be done in my house. If I could have given 10 stars I would.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2021",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Bob knows his stuff! He did an awesome job installing our lament flooring and baseboards, he also was so fast at texturing my ceilings, and did some great electrical work for us. I love how flexible he is with our schedule and overall really fun to work with, I would highly recommend for any construction job!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Apr 2018",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
+    }
+  ],
+  "reviewsNote": "Quoted word for word from public Google and BestProsInTown reviews; “…” marks where the public excerpt was cut off. Google doesn't show reviewer names in the public excerpts we used.",
+  "press": [
+    {
+      "title": "From Bob's Yelp profile",
+      "text": "Handyman services, With the one project at a time attitude. laminate floor installation, Doors installed, With over 25 yrs experience, If your project involves wood and/or houses, My list of skills goes on, From simple to custom, You get what you want with Rowmack .inc Simply put, The handyman that can.",
+      "source": "Robert Mackert, owner (Yelp)",
+      "url": "https://www.yelp.com/biz/rowmack-vacaville-3"
+    }
+  ],
+  "pressTitle": "In Bob's words",
+  "pressKicker": "The owner",
+  "amenitiesTitle": "Good to know",
+  "amenities": [
+    {
+      "label": "Credit cards accepted",
+      "note": "Per Yelp and BestProsInTown"
+    },
+    {
+      "label": "Fast response",
+      "note": "Reviewers report same-day and within-the-hour visits"
+    },
+    {
+      "label": "Cleans up the work area",
+      "note": "Mentioned across reviews"
+    },
+    {
+      "label": "Old appliances hauled away",
+      "note": "Per a Google review"
+    },
+    {
+      "label": "Open Saturdays",
+      "note": "9 AM–3 PM"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Romack the same as Rowmack Inc.?",
+      "a": "Yes. Owner Robert \"Bob\" Mackert's business appears as Romack Home Maintenance Services on Google and as Rowmack Inc. on Yelp and in reviews."
+    },
+    {
+      "q": "What kinds of jobs do you take?",
+      "a": "Sheetrock repair and texturing, doors, laminate flooring and baseboards, furniture assembly, carpentry, dry rot repair, caulking, plumbing fixture swaps, ceiling fans and appliance installs. If it involves wood and/or houses, ask."
+    },
+    {
+      "q": "How quickly can you come out?",
+      "a": "Often fast. Reviewers describe same-day responses, and visits within an hour or an hour and a half."
+    },
+    {
+      "q": "How much does it cost?",
+      "a": "Prices aren't posted online. Customers describe the pricing as fair, affordable and upfront. Call or text (707) 317-8126 to describe your project."
+    },
+    {
+      "q": "What are your hours?",
+      "a": "Monday–Friday 7 AM–6 PM and Saturday 9 AM–3 PM. Closed Sunday."
+    },
+    {
+      "q": "Do you take credit cards?",
+      "a": "Yes, credit cards are accepted."
+    },
+    {
+      "q": "How much experience do you have?",
+      "a": "Bob says he has over 25 years of experience."
+    }
+  ],
+  "socials": [
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687",
+      "label": "Google"
+    },
+    {
+      "type": "yelp",
+      "url": "https://www.yelp.com/biz/rowmack-vacaville-3",
+      "label": "Yelp"
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "open": "07:00",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Sat"
+      ],
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "days": [
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Hours as listed on Google. Call or text to schedule a visit.",
+  "finalCta": {
+    "title": "Got a project list?",
+    "text": "Call or text Bob at (707) 317-8126 and get it handled, one project at a time."
+  }
+}

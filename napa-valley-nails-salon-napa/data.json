@@ -1,0 +1,338 @@
+{
+  "slug": "napa-valley-nails-salon-napa",
+  "siteUrl": "https://leger-web-studio.github.io/napa-valley-nails-salon-napa/",
+  "name": "Napa Valley Nails Salon",
+  "monogram": "NV",
+  "niche": "salon",
+  "schemaType": "NailSalon",
+  "eyebrow": "Nail salon · Trancas St, Napa",
+  "tagline": "Manicures, pedicures, gel, dip and acrylics on Trancas Street, from a friendly team regulars have trusted for years.",
+  "seoTitle": "Napa Valley Nails Salon | Manicures, Pedicures & Acrylics in Napa, CA",
+  "description": "Napa Valley Nails Salon at 706 Trancas St, Napa. Manicures, pedicures, gel, dip powder, acrylics and nail art. Rated 4.8 on Google. Walk-ins welcome. (707) 252-4551.",
+  "phone": "+17072524551",
+  "phoneDisplay": "(707) 252-4551",
+  "address": {
+    "street": "706 Trancas St, Ste A",
+    "city": "Napa",
+    "state": "CA",
+    "zip": "94558"
+  },
+  "geo": {
+    "lat": 38.324831,
+    "lng": -122.290386
+  },
+  "rating": {
+    "value": 4.8,
+    "count": 69,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "call",
+    "label": "Call to book",
+    "short": "Call"
+  },
+  "heroImage": "images/salon-interior.jpg",
+  "ogImage": "images/salon-interior.jpg",
+  "highlights": [
+    "4.8★ on Google (69 reviews)",
+    "Walk-ins welcome",
+    "Manicures & pedicures",
+    "Gel, dip & acrylics",
+    "Nail art",
+    "Credit cards accepted",
+    "Private lot parking"
+  ],
+  "about": {
+    "kicker": "The salon",
+    "title": "Clean, friendly, and relaxing.",
+    "body": [
+      "Napa Valley Nails Salon is a full-service nail salon at 706 Trancas Street in Napa, doing manicures, pedicures, gel, dip powder, acrylics, extensions and nail art for both women and men.",
+      "Reviewers describe the salon as clean and hygienic with a huge variety of colors, and they keep coming back for relaxing pedicures, foot massages and thin, natural-looking acrylics. Regulars mention techs by name, including Ann, Lee, Joe, Kenny, Kevin and Kim."
+    ],
+    "facts": [
+      {
+        "value": "4.8★",
+        "label": "Google (69)"
+      },
+      {
+        "value": "Nextdoor",
+        "label": "Neighborhood Favorite"
+      },
+      {
+        "value": "6 days",
+        "label": "Open Mon–Sat"
+      }
+    ],
+    "image": "images/red-manicure.jpg",
+    "imageAlt": "Fresh red manicure"
+  },
+  "servicesTitle": "Services",
+  "servicesKicker": "Menu",
+  "services": [
+    {
+      "name": "Manicure",
+      "desc": "Classic manicures, plus a men's manicure.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Pedicure",
+      "desc": "Reviewers rave about the relaxing pedicures and foot massages. Men's pedicures too.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Manicure & Pedicure",
+      "desc": "Both together in one visit.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Gel Nails",
+      "desc": "Neighbors on Nextdoor say the gel nails are perfect.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Dip Powder Nails",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Acrylic Nails",
+      "desc": "Thin, natural-looking acrylics that neighbors say last 3–4 weeks without lifting.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Gel Nail Extensions & Nail Extensions",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Nail Art",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Nail Polish",
+      "desc": "A huge variety of colors to choose from, per reviewers.",
+      "source": "Fresha listing"
+    },
+    {
+      "name": "Waxing",
+      "source": "Listed category (BestProsInTown)"
+    },
+    {
+      "name": "Skin Care",
+      "source": "Listed category (BestProsInTown)"
+    }
+  ],
+  "servicesNote": "The salon doesn't post prices online. Call (707) 252-4551 for current pricing.",
+  "galleryTitle": "Recent sets",
+  "galleryNote": "Photos from the salon's public business listings.",
+  "gallery": [
+    {
+      "src": "images/gel-colors.jpg",
+      "alt": "Multicolor gel manicure"
+    },
+    {
+      "src": "images/red-nail-art.jpg",
+      "alt": "Red nail art set"
+    },
+    {
+      "src": "images/silver-glitter.jpg",
+      "alt": "Silver glitter nails"
+    },
+    {
+      "src": "images/classic-red.jpg",
+      "alt": "Classic red manicure"
+    },
+    {
+      "src": "images/lace-nails.jpg",
+      "alt": "Long white nails"
+    },
+    {
+      "src": "images/lilac-gel.jpg",
+      "alt": "Lilac gel nails"
+    },
+    {
+      "src": "images/natural-nude.jpg",
+      "alt": "Natural nude manicure"
+    },
+    {
+      "src": "images/lavender-nails.jpg",
+      "alt": "Lavender manicure"
+    }
+  ],
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 4.8,
+      "count": 69,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    }
+  ],
+  "reviews": [
+    {
+      "text": "Love 💕 this nail salon. The team does a great job (just what I ask for) and are welcoming and can almost always fit me in at the last minute. Thank you Ann for years of service and friendship.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "The nail salon employees here are very nice, and take good care of your nails. They give great massages and are hygienic.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Aug 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "My wife and I both got a nice relaxing pedicure on vacation! I mean, when she uses that buffer kind of roughly, I'm crawling up the back of the chair... But my feet feel so nice now! The foot massage was wonderful. Thank you!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2024",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "Lee did an exceptional service, my feet are so clean, relaxed and painted! I’m so excited they look great! I’m falling asleep being so comfortable and relaxed I couldn’t help it!! I’m coming back for more !!!",
+      "author": "BestProsInTown reviewer",
+      "source": "BestProsInTown",
+      "date": "Jul 2024",
+      "stars": 5,
+      "url": "https://www.bestprosintown.com/ca/napa/napa-valley-nails-salon-/"
+    },
+    {
+      "text": "They did a wonderful job, charge very reasonably, and do a great acrylics.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jun 2024",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "Ann did my pedicure and my manicure! Not only did she do such a stunning job, she was so sweet and kind. I really enjoyed our time together and our little chats :) she’s an absolute doll and truly made my nail appointment an experience. Please please please go here and ask for her if she’s in! Calling ahead is a good idea to make sure she can take you. Thank you, Ann!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Mar 2023",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "I have finally made Napa Valley Nails my place !! My experience has always been pleasurable. Anna is so sweet and does an amazing and detailed job.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2019",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    },
+    {
+      "text": "I just went to this shop yesterday and will definitely be coming back! This place is so clean and carries a huge variety of colors to choose from. My nail tech Anna did an amazing job. She was very kind and pleasant to me. I absolutely love it here and will come back very soon.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jun 2019",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558"
+    }
+  ],
+  "reviewsNote": "Quoted word for word from public Google and BestProsInTown reviews. Google doesn't show reviewer names in the public excerpts we used.",
+  "press": [
+    {
+      "title": "Nextdoor Neighborhood Favorite",
+      "text": "NAPA Valley Nails is a Neighborhood Favorite in 1 neighborhood. It also won in 2020, 2022 and 2023.",
+      "source": "Nextdoor Fave Awards",
+      "url": "https://nextdoor.com/pages/napa-valley-nails-napa-ca/"
+    }
+  ],
+  "pressTitle": "Neighbors' pick",
+  "pressKicker": "Recognition",
+  "amenitiesTitle": "Good to know",
+  "amenities": [
+    {
+      "label": "Walk-ins welcome",
+      "note": "Calling ahead helps if you want a specific tech"
+    },
+    {
+      "label": "Credit cards accepted"
+    },
+    {
+      "label": "Private lot parking"
+    },
+    {
+      "label": "Bike parking"
+    },
+    {
+      "label": "Gender-neutral restrooms"
+    },
+    {
+      "label": "Services for men",
+      "note": "Men's manicures and pedicures"
+    }
+  ],
+  "amenitiesNote": "Details as listed on the salon's BestProsInTown and Fresha profiles (Oct 2026).",
+  "faq": [
+    {
+      "q": "Do I need an appointment?",
+      "a": "Walk-ins are welcome, and regulars say the team can almost always fit them in at the last minute. If you'd like a specific tech, a reviewer recommends calling ahead at (707) 252-4551."
+    },
+    {
+      "q": "What services do you offer?",
+      "a": "Manicures, pedicures, gel nails, dip powder, acrylics, gel and regular nail extensions, nail art and polish, plus men's manicures and pedicures. Waxing and skin care are also listed."
+    },
+    {
+      "q": "What are your hours?",
+      "a": "Monday–Friday 9:30 AM–6:30 PM, Saturday 9:30 AM–6 PM. Closed Sunday."
+    },
+    {
+      "q": "Where are you located?",
+      "a": "706 Trancas St, Suite A, Napa, CA 94558, with private lot parking."
+    },
+    {
+      "q": "Do you take credit cards?",
+      "a": "Yes, credit cards are accepted."
+    },
+    {
+      "q": "How much do services cost?",
+      "a": "Prices aren't posted online. Reviewers describe the pricing as very reasonable. Call (707) 252-4551 for current prices."
+    }
+  ],
+  "socials": [
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/1144273802310676",
+      "label": "Facebook"
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=Napa%20Valley%20Nails%20Salon%20706%20Trancas%20St%20Napa%20CA%2094558",
+      "label": "Google"
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "open": "09:30",
+      "close": "18:30"
+    },
+    {
+      "days": [
+        "Sat"
+      ],
+      "open": "09:30",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Walk-ins welcome. Call to book a specific tech.",
+  "finalCta": {
+    "title": "Treat yourself this week.",
+    "text": "Call (707) 252-4551 or stop by 706 Trancas St, Monday through Saturday."
+  }
+}
