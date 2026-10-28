@@ -1,0 +1,168 @@
+{
+  "slug": "cs-cuts-fairfield",
+  "name": "C's Cuts",
+  "monogram": "C's",
+  "niche": "barber",
+  "schemaType": "BarberShop",
+  "eyebrow": "Barbershop · Fairfield, CA · Since 2010",
+  "tagline": "Clean fades, sharp line-ups, and barbers who take their time. Fairfield's neighborhood shop since 2010.",
+  "description": "C's Cuts (C's Barber Shop) at 2240 N Texas St, Fairfield, CA. Fades, tapers, crew cuts, trims and razor line-ups. Rated 4.8 on Google. Walk-ins welcome. Call (707) 673-7601.",
+  "seoTitle": "C's Cuts | Barbershop in Fairfield, CA, Fades, Tapers & Line-Ups",
+  "phone": "+17076737601",
+  "phoneDisplay": "(707) 673-7601",
+  "address": {
+    "street": "2240 N Texas St",
+    "city": "Fairfield",
+    "state": "CA",
+    "zip": "94533"
+  },
+  "rating": {
+    "value": 4.8,
+    "count": 135,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "call",
+    "label": "Call to get in",
+    "short": "Call"
+  },
+  "heroImage": "images/storefront.jpg",
+  "ogImage": "images/shop-photo.jpg",
+  "highlights": [
+    "Est. 2010",
+    "Walk-ins welcome",
+    "Cash or Zelle",
+    "Kids' cuts",
+    "Private lot parking",
+    "Wheelchair accessible"
+  ],
+  "about": {
+    "kicker": "The shop",
+    "title": "No rush. Just a great cut.",
+    "body": [
+      "C's Cuts (you'll also see it listed as C's Barber Shop) has been cutting hair on North Texas Street since 2010. The specialties are fresh cuts, tapers, fades, crew cuts, trims and razor line-ups.",
+      "Reviewers keep saying the same thing about Chris, Christine and the crew: they take their time, pay attention to detail, and are easy to talk to. Plenty of reviews come from parents bringing their kids in too."
+    ],
+    "facts": [
+      {
+        "value": "4.8★",
+        "label": "Google rating"
+      },
+      {
+        "value": "135",
+        "label": "Google reviews"
+      },
+      {
+        "value": "2010",
+        "label": "Established"
+      }
+    ],
+    "image": "images/fade-cut.jpg",
+    "imageAlt": "Fresh fade at C's Cuts"
+  },
+  "servicesTitle": "Cuts & Services",
+  "servicesKicker": "In the chair",
+  "servicesIntro": "The shop's listed specialties. Ask your barber for anything custom.",
+  "services": [
+    {
+      "name": "Fresh Cuts",
+      "desc": "Your regular cut, cleaned up and shaped the way you like it."
+    },
+    {
+      "name": "Fades",
+      "desc": "Low, mid, high, and bald fades blended clean."
+    },
+    {
+      "name": "Tapers",
+      "desc": "Clean tapers at the neckline and temples."
+    },
+    {
+      "name": "Crew Cuts",
+      "desc": "Short, classic and low-maintenance."
+    },
+    {
+      "name": "Trims",
+      "desc": "Keep your length and tighten everything up."
+    },
+    {
+      "name": "Razor Line-Ups",
+      "desc": "Crisp edges with a straight razor finish."
+    },
+    {
+      "name": "Kids' Cuts",
+      "desc": "Patient barbers for little ones (and picky parents)."
+    }
+  ],
+  "servicesNote": "Pricing isn't posted online. Call (707) 673-7601 for current prices. Payment: cash or Zelle only.",
+  "galleryTitle": "From the shop",
+  "gallery": [
+    {
+      "src": "images/fade-cut.jpg",
+      "alt": "Skin fade with a sharp line-up"
+    },
+    {
+      "src": "images/textured-cut.jpg",
+      "alt": "Fade with longer textured top"
+    },
+    {
+      "src": "images/storefront.jpg",
+      "alt": "C's Cuts storefront at 2240 N Texas St"
+    },
+    {
+      "src": "images/storefront-2.jpg",
+      "alt": "C's Cuts entrance with barber pole"
+    }
+  ],
+  "galleryNote": "Photos from the shop's public business listing.",
+  "reviewsTitle": "Fairfield's go-to chair",
+  "reviews": [
+    {
+      "text": "Just got a cut from Chris and it was honestly one of the best I've had. He took his time, paid attention to every detail, and the fade came out super clean.",
+      "author": "Google reviewer",
+      "source": "May 2025"
+    },
+    {
+      "text": "Best haircut I've had in my two years in Cali and I'll definitely be here every month… a legit cut for a legit price.",
+      "author": "T'Arris B."
+    },
+    {
+      "text": "C's cuts has been my go-to place for almost 15 years for my hair cut needs.",
+      "author": "Google reviewer",
+      "source": "Oct 2024"
+    },
+    {
+      "text": "Found my new go to barber in Fairfield. Chris and Christine are cool people, and all the barbers know what they're doing.",
+      "author": "Thomas A."
+    },
+    {
+      "text": "I have two young boys and I can be very picky on who cuts their hair… Let me just say that I'm very impressed!!",
+      "author": "Jeanette A."
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "open": "10:00",
+      "close": "17:00"
+    },
+    {
+      "days": [
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Hours from the shop's Google listing. Some directories show later closing times, so call ahead to confirm.",
+  "finalCta": {
+    "title": "Need a fresh cut?",
+    "text": "Walk in, or call ahead to grab a spot. Cash or Zelle."
+  },
+  "siteUrl": "https://leger-web-studio.github.io/cs-cuts-fairfield/"
+}

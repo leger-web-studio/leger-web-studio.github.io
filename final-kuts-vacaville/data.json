@@ -1,0 +1,197 @@
+{
+  "name": "Final Kuts",
+  "monogram": "FK",
+  "niche": "barber",
+  "schemaType": "BarberShop",
+  "eyebrow": "Barbershop · Downtown Vacaville",
+  "tagline": "Downtown Vacaville's 5-star barbershop. Clean cuts, good conversation, and barbers who are great with kids.",
+  "seoTitle": "Final Kuts Barbershop | Barber in Downtown Vacaville, CA",
+  "description": "Final Kuts Barbershop at 348 Merchant St Ste A, Vacaville, CA. Rated 5.0 on Google. Haircuts, beard work, kids' cuts. Walk in or book online on Booksy. (707) 685-9136.",
+  "phone": "+17076859136",
+  "phoneDisplay": "(707) 685-9136",
+  "address": {
+    "street": "348 Merchant St Ste A",
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95688"
+  },
+  "rating": {
+    "value": 5,
+    "count": 227,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "book",
+    "label": "Book on Booksy",
+    "short": "Book",
+    "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+  },
+  "ogImage": "images/booksy-cover.jpg",
+  "theme": {
+    "accent": "#d62828",
+    "stripe": "repeating-linear-gradient(-45deg,#d62828 0 18px,#f3f4f6 18px 36px,#1d4ed8 36px 54px,#f3f4f6 54px 72px)"
+  },
+  "highlights": [
+    "5.0★ on Google",
+    "Walk-ins welcome",
+    "Book online with Booksy",
+    "Kids' cuts",
+    "Downtown on Merchant St"
+  ],
+  "about": {
+    "kicker": "The shop",
+    "title": "Good vibes on Merchant Street.",
+    "body": [
+      "Final Kuts is a downtown Vacaville barbershop with a 5.0 rating across more than 200 Google reviews. Customers talk about the lively atmosphere, the conversations, and barbers who take their time.",
+      "Bring the kids. Reviewers keep mentioning how patient the barbers are with children, from first haircuts to fresh fades. Walk in, or pick your barber and book a time on Booksy."
+    ],
+    "facts": [
+      {
+        "value": "5.0★",
+        "label": "Google rating"
+      },
+      {
+        "value": "227",
+        "label": "Google reviews"
+      },
+      {
+        "value": "401",
+        "label": "Booksy reviews"
+      }
+    ],
+    "image": "images/booksy-cover.jpg",
+    "imageAlt": "Final Kuts logo"
+  },
+  "servicesKicker": "In the chair",
+  "servicesTitle": "Cuts & Services",
+  "servicesIntro": "Each barber sets their own menu and prices on Booksy.",
+  "services": [
+    {
+      "name": "Haircuts",
+      "desc": "Fades, tapers, and classic cuts for every hair type."
+    },
+    {
+      "name": "Beard Work",
+      "desc": "Beard trims and shaping."
+    },
+    {
+      "name": "Haircut & Beard",
+      "desc": "The full clean-up in one visit."
+    },
+    {
+      "name": "Razor & Hot Towel",
+      "desc": "Face trim with a razor and a hot towel finish (select barbers)."
+    },
+    {
+      "name": "Kids' Cuts",
+      "desc": "Patient barbers for little ones, including first cuts."
+    },
+    {
+      "name": "Designs",
+      "desc": "Freestyle hair designs and parts."
+    }
+  ],
+  "servicesNote": "Prices vary by barber. See current prices and open times on Booksy, or call (707) 685-9136.",
+  "teamTitle": "Pick your barber",
+  "teamIntro": "Barbers currently listed on the shop's Booksy page.",
+  "team": [
+    {
+      "name": "Hollywood The Barber",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Patrick",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Marethebarber",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Luis",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+    }
+  ],
+  "galleryTitle": "From the shop",
+  "gallery": [
+    {
+      "src": "images/design-cut.jpg",
+      "alt": "Freestyle hair design"
+    },
+    {
+      "src": "images/afro-cut.jpg",
+      "alt": "Shaped afro and line-up"
+    }
+  ],
+  "galleryNote": "Photos from the shop's public business listing.",
+  "reviews": [
+    {
+      "text": "…Patrick is very GOODat what he does. I would recommend his services anytime. Very professional, kind and patient.",
+      "author": "Patrice J.",
+      "source": "Google"
+    },
+    {
+      "text": "This is a great barber shop, friendly professional and great cuts. Great for walk ins..",
+      "author": "Johnny C.",
+      "source": "Yelp"
+    },
+    {
+      "text": "Great atmosphere. My son got a regular hair cut from Paul. He was very attentive, asking questions to ensure he got what he wanted.",
+      "author": "Arminthia S.",
+      "source": "Yelp"
+    },
+    {
+      "text": "…Great service, Amare does a phenomenal job everytime. Definitely gotta check him out.",
+      "author": "Horace S.",
+      "source": "Yelp"
+    },
+    {
+      "text": "These guys really know how to cut hair. My son sees Brian but you really can't go wrong with any of the barbers.",
+      "author": "Richard B.",
+      "source": "Yelp"
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon"
+      ],
+      "open": "10:00",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "open": "10:00",
+      "close": "19:00"
+    },
+    {
+      "days": [
+        "Sat"
+      ],
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Hours from the shop's Google listing. Some directories list different hours, so check Booksy or call to confirm.",
+  "finalCta": {
+    "title": "Get on the books",
+    "text": "Pick your barber and grab a time on Booksy, or just walk in."
+  },
+  "slug": "final-kuts-vacaville",
+  "siteUrl": "https://leger-web-studio.github.io/final-kuts-vacaville/"
+}

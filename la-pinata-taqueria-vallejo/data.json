@@ -1,0 +1,175 @@
+{
+  "name": "La Piñata Taqueria",
+  "monogram": "LP",
+  "niche": "restaurant",
+  "schemaType": "Restaurant",
+  "eyebrow": "Taco truck · 809 Broadway · Vallejo",
+  "tagline": "The yellow taco truck on Broadway that made the San Francisco Chronicle's Top Burritos in the Bay Area list. Crunchy suadero, two great salsas, big super burritos.",
+  "seoTitle": "La Piñata Taqueria | Taco Truck & Burritos in Vallejo, CA",
+  "description": "La Piñata Taqueria, a taco truck at 809 Broadway, Vallejo, CA. Super burritos, tacos, nachos, quesadillas and tortas. Rated 4.7 on Google. Open Mon–Fri 11am–9pm. (707) 334-8381.",
+  "phone": "+17073348381",
+  "phoneDisplay": "(707) 334-8381",
+  "address": {
+    "street": "809 Broadway",
+    "city": "Vallejo",
+    "state": "CA",
+    "zip": "94590"
+  },
+  "rating": {
+    "value": 4.7,
+    "count": 276,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "call",
+    "label": "Call to order ahead",
+    "short": "Order"
+  },
+  "ogImage": "images/banner.jpg",
+  "theme": {
+    "accent": "#e8590c",
+    "stripe": "repeating-linear-gradient(90deg,#f2b705 0 40px,#e8590c 40px 80px,#2b8a3e 80px 120px)",
+    "heroFallback": "radial-gradient(circle at 80% 25%,rgba(242,183,5,.55),transparent 45%),radial-gradient(circle at 15% 80%,rgba(43,138,62,.45),transparent 45%),linear-gradient(135deg,#c2410c,#7c2d12)"
+  },
+  "highlights": [
+    "SF Chronicle Top Burritos list",
+    "Takeout & catering",
+    "Outdoor communal tables",
+    "Open Mon–Fri"
+  ],
+  "about": {
+    "kicker": "The truck",
+    "title": "Fresh ingredients. Big flavor. Fair prices.",
+    "body": [
+      "La Piñata is a yellow lonchera parked at 809 Broadway, serving authentic Mexican food made with fresh, quality ingredients: tacos, tortas, quesadillas, nachos, super burritos and shrimp dishes, plus horchata and agua de jamaica.",
+      "In November 2022 the San Francisco Chronicle put La Piñata on its list of Top Burritos in the Bay Area. Some customers drive in from San Francisco for it."
+    ],
+    "facts": [
+      {
+        "value": "4.7★",
+        "label": "Google rating"
+      },
+      {
+        "value": "276",
+        "label": "Google reviews"
+      },
+      {
+        "value": "M–F",
+        "label": "11 AM–9 PM"
+      }
+    ],
+    "image": "images/tacos.jpg",
+    "imageAlt": "Plate of La Piñata street tacos"
+  },
+  "servicesKicker": "Menu",
+  "servicesTitle": "Menu Favorites",
+  "servicesNav": "Menu",
+  "servicesIntro": "Pick your meat: Asada, Al Pastor, Suadero, Carnitas, Pollo, Lengua, Cabeza, or Chorizo.",
+  "services": [
+    {
+      "group": "Tacos",
+      "name": "Tacos",
+      "desc": "Your choice of meat with onion, cilantro & salsa."
+    },
+    {
+      "group": "Super Burritos",
+      "groupNote": "Choice of meat, rice, beans, cheese, sour cream, pico de gallo & salsa",
+      "name": "Super Burrito",
+      "desc": "Any meat. Comes with pickled veggies, chips, and red & green salsa."
+    },
+    {
+      "name": "Super Shrimp Burrito",
+      "price": "$17",
+      "desc": "With grilled onions & grilled bell peppers."
+    },
+    {
+      "name": "Super Veggie Burrito",
+      "price": "$13",
+      "desc": "Grilled onions, grilled bell peppers & lettuce."
+    },
+    {
+      "group": "More",
+      "name": "Nachos",
+      "desc": "Fan favorite: steak & shrimp nachos."
+    },
+    {
+      "name": "Quesadillas & Tortas",
+      "desc": "Ask at the window for today's options."
+    },
+    {
+      "group": "Drinks & Extras",
+      "name": "Medio Litro",
+      "price": "$4",
+      "desc": "Horchata or jamaica."
+    },
+    {
+      "name": "Can Soda",
+      "price": "$3"
+    },
+    {
+      "name": "Water",
+      "price": "$1"
+    },
+    {
+      "name": "Add Cheese, Sour Cream or Avocado",
+      "price": "$0.25 / $1",
+      "desc": "$0.25 on tacos, $1 on burritos."
+    }
+  ],
+  "servicesNote": "Menu and prices from public online menu listings (mid-2026). Prices may have changed, so call (707) 334-8381 to confirm.",
+  "reviewsTitle": "Worth the drive",
+  "reviews": [
+    {
+      "text": "A Suadero Super Burrito from La Piñata might be one of the best things to eat in Vallejo — it’s in the top five at least.",
+      "author": "San Francisco Chronicle",
+      "source": "Top Burritos in the Bay Area, Nov 2022"
+    },
+    {
+      "text": "La Piñata is so good. I come from San Francisco for it and always get it when I’m in the area. The owner and staff have amazing customer service and the food is always good and fresh.",
+      "author": "Google review",
+      "source": "Dec 2025"
+    },
+    {
+      "text": "This is by far the best burrito place in Vallejo hands down. In every bite of my steak and shrimp burrito you can taste the freshness of all the ingredients.",
+      "author": "Google review",
+      "source": "Dec 2025"
+    },
+    {
+      "text": "suadero super burrito 10/10 would recommend. best burrito i’ve had in a minute!",
+      "author": "Google review",
+      "source": "Jan 2026"
+    },
+    {
+      "text": "I got their lengua, cabeza and carnitas tacos. The most was so tender and flavorful.",
+      "author": "Google review",
+      "source": "Oct 2025"
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "open": "11:00",
+      "close": "21:00"
+    },
+    {
+      "days": [
+        "Sat",
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Closed weekends. Cards accepted (a reviewer notes an extra card charge). Catering available, so call to ask.",
+  "finalCta": {
+    "title": "Hungry yet?",
+    "text": "Call ahead and your order will be ready at the truck, Monday through Friday."
+  },
+  "slug": "la-pinata-taqueria-vallejo",
+  "siteUrl": "https://leger-web-studio.github.io/la-pinata-taqueria-vallejo/"
+}

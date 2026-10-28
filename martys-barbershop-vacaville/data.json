@@ -1,0 +1,242 @@
+{
+  "name": "Marty's Barbershop",
+  "monogram": "M",
+  "niche": "barber",
+  "schemaType": "BarberShop",
+  "eyebrow": "Barbershop · Nut Tree Rd · Vacaville",
+  "tagline": "Rustic-modern shop, a crew of talented barbers, and one philosophy: if you look good, you'll always feel good.",
+  "seoTitle": "Marty's Barbershop | Barber on Nut Tree Rd, Vacaville, CA",
+  "description": "Marty's Barbershop, 2611 Nut Tree Rd Ste E, Vacaville, CA. Rated 4.9 on Google and Booksy. Haircuts, fades, hot towel shaves, kids' cuts. Book online. (707) 660-8108.",
+  "phone": "+17076608108",
+  "phoneDisplay": "(707) 660-8108",
+  "address": {
+    "street": "2611 Nut Tree Rd Ste E",
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95687"
+  },
+  "rating": {
+    "value": 4.9,
+    "count": 176,
+    "source": "Google"
+  },
+  "cta": {
+    "type": "book",
+    "label": "Book on Booksy",
+    "short": "Book",
+    "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+  },
+  "heroImage": "images/storefront.jpg",
+  "ogImage": "images/storefront.jpg",
+  "theme": {
+    "accent": "#c8102e"
+  },
+  "highlights": [
+    "4.9★ Google · 4.9★ Booksy",
+    "Book online",
+    "Sundays by appointment",
+    "Kids & seniors",
+    "Free Wi-Fi",
+    "Wheelchair accessible"
+  ],
+  "about": {
+    "kicker": "The shop",
+    "title": "Not just a cut. An experience.",
+    "body": [
+      "Marty's is a rustic-modern barbershop on Nut Tree Road with a great vibe and a deep bench of barbers. The shop's philosophy: \"If you look good, you will always feel good.\"",
+      "Owner Marty and his team have more than 1,300 reviews on Booksy at a 4.9 average. Book your barber online, or call the shop."
+    ],
+    "facts": [
+      {
+        "value": "4.9★",
+        "label": "Google (176)"
+      },
+      {
+        "value": "1,331",
+        "label": "Booksy reviews"
+      },
+      {
+        "value": "9",
+        "label": "Barbers on Booksy"
+      }
+    ],
+    "image": "images/interior.jpg",
+    "imageAlt": "Inside Marty's Barbershop"
+  },
+  "servicesKicker": "Menu",
+  "servicesTitle": "Cuts & Prices",
+  "servicesIntro": "Sample prices from MartyTheBarber's Booksy menu. Each barber sets their own menu.",
+  "services": [
+    {
+      "name": "Haircut",
+      "price": "$40",
+      "desc": "Fades, tapers, burst fade, mohawk, comb over, and more."
+    },
+    {
+      "name": "Haircut & Beard Work",
+      "price": "$60"
+    },
+    {
+      "name": "Haircut & Traditional Shave",
+      "price": "$75",
+      "desc": "Any haircut plus a clean razor shave with hot towel, lather and steam."
+    },
+    {
+      "name": "Traditional Shave",
+      "price": "$40",
+      "desc": "Hot towel, steam, hot lather and straight razor."
+    },
+    {
+      "name": "Haircut & Shampoo",
+      "price": "$50"
+    },
+    {
+      "name": "The Full Service",
+      "price": "$100",
+      "desc": "Haircut and traditional shave plus two extras (brow wax, nose wax, hot towel, shampoo or facial massage)."
+    },
+    {
+      "name": "Haircut / Shear Work (2\"+ off the top)",
+      "price": "$50",
+      "desc": "Any length longer than an 8 guard, cut to the contour of the style you want."
+    },
+    {
+      "name": "LE / FD / Military",
+      "price": "$40"
+    },
+    {
+      "name": "Senior Haircut (65+)",
+      "price": "$30"
+    }
+  ],
+  "servicesNote": "Prices as listed on Booksy for MartyTheBarber. Other barbers' prices may differ, so check Booksy for current pricing.",
+  "teamTitle": "The crew",
+  "teamIntro": "Barbers currently listed on the shop's Booksy page.",
+  "team": [
+    {
+      "name": "MartyTheBarber",
+      "role": "Owner · Barber",
+      "url": "https://booksy.com/en-us/263621_martythebarber_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Fadezbyeli",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "FooFades",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "ThatBoy_Reezy",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Smoovehud",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Cutsbylyric",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "losblendzz",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Joe (Big Money) Lopez",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    },
+    {
+      "name": "Hercuts",
+      "role": "Barber",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    }
+  ],
+  "galleryTitle": "Inside Marty's",
+  "gallery": [
+    {
+      "src": "images/hot-towel-shave.jpg",
+      "alt": "Hot towel shave"
+    },
+    {
+      "src": "images/kids-fade.jpg",
+      "alt": "Kids' fade"
+    },
+    {
+      "src": "images/team.jpg",
+      "alt": "Barbers at the shop entrance"
+    },
+    {
+      "src": "images/interior.jpg",
+      "alt": "Barber stations inside the shop"
+    }
+  ],
+  "galleryNote": "Photos from the shop's public Booksy and business listings.",
+  "reviews": [
+    {
+      "text": "Marty's barbershop is truly a special place. The atmosphere and customer service is top notch, not to mention Marty is a great person. The best barbershop in Vacaville without a doubt.",
+      "author": "Google review",
+      "source": "Dec 2025"
+    },
+    {
+      "text": "Great people, amazing skills and overall amazing experience. It didn’t feel like going in to just get a cut. I got an experience.",
+      "author": "Google review",
+      "source": "Feb 2026"
+    },
+    {
+      "text": "Best barber shop ever(and I’ve been to a lot)! Viviana kills it every time, even my wife and daughter get their cuts by her. Great environment with even better barbers.",
+      "author": "Google review",
+      "source": "Nov 2025"
+    },
+    {
+      "text": "10/10 recommend this shop! Marty cuts my sons hair an always is quick, smooth and always makes my sons experience exceptional.",
+      "author": "Google review",
+      "source": "Nov 2025"
+    },
+    {
+      "text": "Marty is highly skilled, consistent and provides great hospitality. My Barber, Foofades is also outstanding, with great attention to detail and overall an amazing guy to talk to.",
+      "author": "Google review",
+      "source": "Feb 2026"
+    }
+  ],
+  "hours": [
+    {
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "open": "09:00",
+      "close": "18:00"
+    },
+    {
+      "days": [
+        "Sat"
+      ],
+      "open": "09:00",
+      "close": "15:00"
+    },
+    {
+      "days": [
+        "Sun"
+      ],
+      "closed": true
+    }
+  ],
+  "hoursNote": "Walk-in hours from Google. Per Booksy, Sundays are by appointment only.",
+  "finalCta": {
+    "title": "Look good. Feel good.",
+    "text": "Book your barber on Booksy in under a minute."
+  },
+  "slug": "martys-barbershop-vacaville",
+  "siteUrl": "https://leger-web-studio.github.io/martys-barbershop-vacaville/"
+}
