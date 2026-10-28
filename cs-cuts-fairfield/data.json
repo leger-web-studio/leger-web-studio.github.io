@@ -46,11 +46,11 @@
     "facts": [
       {
         "value": "4.8★",
-        "label": "Google rating"
+        "label": "Google (135)"
       },
       {
-        "value": "135",
-        "label": "Google reviews"
+        "value": "4.5★",
+        "label": "Yelp (34)"
       },
       {
         "value": "2010",
@@ -66,31 +66,38 @@
   "services": [
     {
       "name": "Fresh Cuts",
-      "desc": "Your regular cut, cleaned up and shaped the way you like it."
+      "desc": "Your regular cut, cleaned up and shaped the way you like it.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Fades",
-      "desc": "Low, mid, high, and bald fades blended clean."
+      "desc": "Low, mid, high, and bald fades blended clean.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Tapers",
-      "desc": "Clean tapers at the neckline and temples."
+      "desc": "Clean tapers at the neckline and temples.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Crew Cuts",
-      "desc": "Short, classic and low-maintenance."
+      "desc": "Short, classic and low-maintenance.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Trims",
-      "desc": "Keep your length and tighten everything up."
+      "desc": "Keep your length and tighten everything up.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Razor Line-Ups",
-      "desc": "Crisp edges with a straight razor finish."
+      "desc": "Crisp edges with a straight razor finish.",
+      "source": "Listed specialties (Yelp)"
     },
     {
       "name": "Kids' Cuts",
-      "desc": "Patient barbers for little ones (and picky parents)."
+      "desc": "Patient barbers for little ones (and picky parents).",
+      "source": "Mentioned throughout customer reviews"
     }
   ],
   "servicesNote": "Pricing isn't posted online. Call (707) 673-7601 for current prices. Payment: cash or Zelle only.",
@@ -117,26 +124,71 @@
   "reviewsTitle": "Fairfield's go-to chair",
   "reviews": [
     {
-      "text": "Just got a cut from Chris and it was honestly one of the best I've had. He took his time, paid attention to every detail, and the fade came out super clean.",
+      "text": "Woke up this morning took a quick glance in the mirror; and thought to myself \"Dam C!!!! you did a great job on the haircut....Thnx Bro!!\" Cya on the nxt1",
       "author": "Google reviewer",
-      "source": "May 2025"
+      "source": "Google",
+      "date": "Oct 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533"
     },
     {
-      "text": "Best haircut I've had in my two years in Cali and I'll definitely be here every month… a legit cut for a legit price.",
-      "author": "T'Arris B."
+      "text": "Best haircut I’ve had in my two years in Cali and I’ll definitely be here every month. I recommend this shop to anyone who wants a legit cut for a legit price (don’t forget to tip). They make sure you’re not looking in the mirror afterwards wondering why you still go to them.",
+      "author": "T'Arris B.",
+      "source": "Yelp",
+      "stars": 5,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
     },
     {
-      "text": "C's cuts has been my go-to place for almost 15 years for my hair cut needs.",
+      "text": "Found my new go to barber in Fairfield. Chris and Christine are cool people, and all the barbers know what they’re doing. My first time I got a fresh fade from Christine. They take their time to give you the best cut for your money. Definitely recommend checking them out. Support your local Filipino shop!",
+      "author": "Thomas A.",
+      "source": "Yelp",
+      "stars": 5,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
+    },
+    {
+      "text": "Just got a cut from Chris and it was honestly one of the best I’ve had. He took his time, paid attention to every detail, and the fade came out super clean. The top was shaped perfectly, and you can tell he genuinely cares about his clients. He’s down to earth, easy to talk to, and really takes pride in what he does. If you’re looking for someone who doesn’t rush and delivers high-quality work, Chris is the one.",
       "author": "Google reviewer",
-      "source": "Oct 2024"
+      "source": "Google",
+      "date": "May 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533"
     },
     {
-      "text": "Found my new go to barber in Fairfield. Chris and Christine are cool people, and all the barbers know what they're doing.",
-      "author": "Thomas A."
+      "text": "C’s Barbershop is great. I get my haircut by Chris. He’s a stand up guy — a great barber and friend. Always offers good conversation and takes pride in his craft. I always leave the shop feeling good about myself. My friend also gets his haircut by Chris’ wife, and she is talented as well. Affordable prices and great company has me coming back as a regular!",
+      "author": "James R.",
+      "source": "Yelp",
+      "stars": 5,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
     },
     {
-      "text": "I have two young boys and I can be very picky on who cuts their hair… Let me just say that I'm very impressed!!",
-      "author": "Jeanette A."
+      "text": "C's cuts has been my go-to place for almost 15 years for my hair cut needs. The environment is always great, and well-rounded barbers with steady hands are always hard to find, especially ones for such a great price. I truly recommend everybody to get their cuts, line ups, and fades at C's. You won't regret how great you look and feel afterward",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Oct 2024",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533"
+    },
+    {
+      "text": "Chris and Christine takes their time to cut my hair. They are both very skilled barbers. Highly recommended if you want a nice clean and sharp looking haircut. Hint: go to either Chris and Christine first for your first time haircut.",
+      "author": "Alexander C.",
+      "source": "Yelp",
+      "stars": 5,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
+    },
+    {
+      "text": "I’ve been coming to this place for a couple years now, and they’ve always been really kind and understanding. Before finding this place I had a really rough time finding someone who could cut my hair the way I like it, and by my surprise I found it down the street from me. 100/100 I’d recommend this place, and if you’re into a more chilled out vibe this is the place.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Aug 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533"
+    },
+    {
+      "text": "I have two young boys and I can be very picky on who cuts their hair. I tend to have the usual people cut their hair but unfortunately none of them were available. I decided to go where my nephew always goes, C’s Barbershop. Let me just say that I’m very impressed !! Shoutout to the talented female who cut their hair! I wish I knew her name! I will definitely be bringing them back to her :)",
+      "author": "Jeanette A.",
+      "source": "Yelp",
+      "stars": 5,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
     }
   ],
   "hours": [
@@ -164,5 +216,94 @@
     "title": "Need a fresh cut?",
     "text": "Walk in, or call ahead to grab a spot. Cash or Zelle."
   },
-  "siteUrl": "https://leger-web-studio.github.io/cs-cuts-fairfield/"
+  "siteUrl": "https://leger-web-studio.github.io/cs-cuts-fairfield/",
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 4.8,
+      "count": 135,
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533"
+    },
+    {
+      "source": "Yelp",
+      "value": 4.5,
+      "count": 34,
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield"
+    }
+  ],
+  "ratingsNote": "Google rating from the Google Business Profile. Yelp rating (listed as \"C's Barber Shop\") as shown on Yelp-powered listings on Yahoo Local and MapQuest.",
+  "reviewsNote": "Quoted word for word from public Google and Yelp reviews. Google doesn't show reviewer names in the public excerpts we used.",
+  "amenitiesTitle": "Before you come in",
+  "amenities": [
+    {
+      "label": "Walk-ins welcome",
+      "note": "Yelp lists the shop as not appointment-only"
+    },
+    {
+      "label": "Cash or Zelle",
+      "note": "Per BestProsInTown’s review summary. Yelp: credit cards not accepted"
+    },
+    {
+      "label": "Private lot parking",
+      "note": "Per Yelp. A Google reviewer mentions off-street parking, a lit lot, and front and back entrances"
+    },
+    {
+      "label": "Bike parking",
+      "note": "Per Yelp"
+    },
+    {
+      "label": "Wheelchair accessible",
+      "note": "Per Yelp"
+    },
+    {
+      "label": "Kids' cuts",
+      "note": "Many reviews mention cuts for kids"
+    },
+    {
+      "label": "Established 2010",
+      "note": "Per Yelp"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need an appointment?",
+      "a": "No. Yelp lists C's Cuts as not appointment-only, so you can walk in. One Google reviewer also mentions getting an appointment when needed. Call (707) 673-7601 to check the wait."
+    },
+    {
+      "q": "Do you take credit cards?",
+      "a": "No. Payment is cash or Zelle. Yelp lists the shop as not accepting credit cards."
+    },
+    {
+      "q": "What are the hours?",
+      "a": "Monday to Saturday, 10 AM to 5 PM. Closed Sunday. These are the Google listing hours; some directories show later closing times, so call ahead."
+    },
+    {
+      "q": "Where do I park?",
+      "a": "There's a private parking lot (per Yelp). A Google reviewer notes the shop has two entrances, one in front and one in back."
+    },
+    {
+      "q": "Do you cut kids’ hair?",
+      "a": "Yes. Lots of reviews come from parents bringing their sons in."
+    },
+    {
+      "q": "How long has the shop been open?",
+      "a": "Since 2010, per the shop's Yelp listing."
+    },
+    {
+      "q": "Is the shop wheelchair accessible?",
+      "a": "Yes, per Yelp."
+    }
+  ],
+  "socials": [
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=C%27s%20Cuts%202240%20N%20Texas%20St%20Fairfield%20CA%2094533",
+      "label": "Google reviews"
+    },
+    {
+      "type": "yelp",
+      "url": "https://www.yelp.com/biz/cs-barber-shop-fairfield",
+      "label": "Yelp"
+    }
+  ]
 }

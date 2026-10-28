@@ -3,10 +3,10 @@
   "monogram": "C",
   "niche": "barber",
   "schemaType": "BarberShop",
-  "eyebrow": "Barbershop · Downtown Napa · Since 2004",
+  "eyebrow": "Barbershop · Downtown Napa · Since 2005",
   "tagline": "Downtown Napa's walk-in barbershop. Precision cuts, beards, and straight-razor work, first come, first served.",
   "seoTitle": "Chateau Barber Shop | Walk-in Barber in Downtown Napa, CA",
-  "description": "Chateau Barber Shop at 1521 3rd St, downtown Napa. Walk-in barbershop since 2004. Precision haircuts, beards, straight razor shaves. Rated 4.9 on Google. (707) 255-7662.",
+  "description": "Chateau Barber Shop at 1521 3rd St, downtown Napa. Walk-in barbershop run by owner San Yankee since June 2005. Precision haircuts, beards, straight razor shaves. Rated 4.9 on Google, 5.0 on Yelp. (707) 255-7662.",
   "phone": "+17072557662",
   "phoneDisplay": "(707) 255-7662",
   "address": {
@@ -25,7 +25,7 @@
     "label": "Call the shop",
     "short": "Call"
   },
-  "ogImage": "images/listing.jpg",
+  "ogImage": "images/storefront.jpg",
   "theme": {
     "font": "Playfair+Display:wght@600;700|Inter:wght@400;600;800",
     "head": "'Playfair Display',Georgia,serif",
@@ -44,113 +44,181 @@
     "stripe": "repeating-linear-gradient(-45deg,#7a1f2b 0 18px,#f7f3ec 18px 36px,#1f2a44 36px 54px,#f7f3ec 54px 72px)"
   },
   "highlights": [
-    "Est. 2004",
+    "20 years on Third St",
     "Walk-ins only, first come first served",
     "Cash only",
+    "4.9★ Google · 5.0★ Yelp",
     "Downtown Napa",
     "Wheelchair accessible"
   ],
   "about": {
     "kicker": "Our story",
-    "title": "A downtown Napa institution.",
+    "title": "Twenty years of cuts and camaraderie.",
     "body": [
-      "Chateau Barber Shop was previously owned by Phil Enlow of Napa. In 2004 he sold the business to Santysouk \"San\" Yankee, and in 2013 San brought on Napa native Giancarlo \"G\" Fradella.",
-      "The specialties are precision haircuts, beards, straight-razor shaves and line work. No appointments: walk in, grab a seat, and become part of the family."
+      "Owner Santysouk \"San\" Yankee is originally from Laos, where she learned to cut and style men's hair and ran her own salon. She came to the U.S. in 2001, went to barber school in Sacramento, and opened Chateau Barber Shop at 1521 Third St., the former home of Phil's Barber Shop, in June 2005 with the support of her late husband (Napa Valley Register).",
+      "Twenty years later the shop is one of the main barbershops in Napa, with lines out the door and regulars coming from Sonoma, Vallejo and even San Francisco. The specialties are precision haircuts, beards, straight-razor shaves and line work. No appointments: walk in, grab a seat, and become part of the family."
     ],
     "facts": [
       {
         "value": "4.9★",
-        "label": "Google rating"
+        "label": "Google (122)"
       },
       {
-        "value": "122",
-        "label": "Google reviews"
+        "value": "5.0★",
+        "label": "Yelp (145)"
       },
       {
-        "value": "2004",
-        "label": "San takes the chair"
+        "value": "2005",
+        "label": "San opens the shop"
       }
     ],
-    "image": "images/interior.jpg",
+    "image": "images/shop-floor.jpg",
     "imageAlt": "Inside Chateau Barber Shop"
   },
   "servicesKicker": "Specialties",
   "servicesTitle": "What we do",
   "services": [
     {
-      "name": "Precision Haircuts",
-      "desc": "Traditional gentlemen's cuts and the latest trends."
+      "name": "Standard Haircut",
+      "price": "$35",
+      "desc": "Precision cuts, traditional gentlemen's cuts and the latest trends.",
+      "source": "Price per Napa Valley Register, Apr 2025"
+    },
+    {
+      "name": "Kids (10 & under) and Seniors (65+)",
+      "price": "$25",
+      "desc": "Reduced price noted by a Yelp reviewer.",
+      "source": "Price per a Yelp review, Jul 2024 (may have changed)"
     },
     {
       "name": "Beards",
-      "desc": "Beard trims and shaping."
+      "desc": "Beard trims and shaping.",
+      "source": "Yelp specialties · Fresha lists Beard Trim"
     },
     {
       "name": "Straight Razor Shaves",
-      "desc": "Classic straight-razor shave."
+      "desc": "Classic straight-razor and hot towel shave.",
+      "source": "Yelp specialties · Fresha lists Hot Towel Shave"
     },
     {
       "name": "Line Work",
-      "desc": "Clean straight-razor lines and edges."
-    },
-    {
-      "name": "Kids' Cuts",
-      "desc": "Families have brought their kids here for years."
+      "desc": "Clean straight-razor lines and edges.",
+      "source": "Yelp specialties"
     }
   ],
-  "servicesNote": "Prices aren't posted online. Cash only. Call (707) 255-7662 with questions.",
+  "servicesNote": "The shop doesn't post a price list online. Cash only. Call (707) 255-7662 with questions.",
   "teamTitle": "Behind the chair",
   "team": [
     {
       "name": "San",
-      "role": "Owner since 2004"
+      "role": "Santysouk Yankee · Owner since 2005",
+      "bio": "Originally from Laos, San honed her craft there before immigrating in 2001. She says 90% of her customers come back weekly to monthly. (Napa Valley Register, Apr 2025)"
     }
   ],
   "galleryTitle": "At the Chateau",
   "gallery": [
     {
-      "src": "images/kids-cut.jpg",
-      "alt": "Kid's haircut"
+      "src": "images/storefront.jpg",
+      "alt": "Chateau Barber Shop storefront and barber pole"
+    },
+    {
+      "src": "images/side-part.jpg",
+      "alt": "Classic side part"
+    },
+    {
+      "src": "images/shop-floor.jpg",
+      "alt": "Barber chairs and framed photos"
+    },
+    {
+      "src": "images/fresh-cut.jpg",
+      "alt": "Fresh cut, front and side"
+    },
+    {
+      "src": "images/logo-sign.jpg",
+      "alt": "Chateau Barber Shop sign"
+    },
+    {
+      "src": "images/before-after.jpg",
+      "alt": "Before and after haircut"
+    },
+    {
+      "src": "images/chairs.jpg",
+      "alt": "Inside the shop"
     },
     {
       "src": "images/classic-cut.jpg",
       "alt": "Classic short cut"
-    },
-    {
-      "src": "images/cape.jpg",
-      "alt": "Chateau Barber Shop cape"
-    },
-    {
-      "src": "images/interior.jpg",
-      "alt": "Inside the shop"
     }
   ],
-  "galleryNote": "Photos from the shop's public business listing.",
+  "galleryNote": "Photos from the shop's public business listings.",
   "reviews": [
     {
-      "text": "Been coming here for 10 years and I wouldn't go anywhere else…",
-      "author": "Pablo T.",
-      "source": "Yelp"
+      "text": "People typically wait for the owner, but Andrea would always give a perfect cut, spending the time to pay close attention to detail. I like that a bald fade was truly a bald fade when coming here, some places arent willing to fully shave down to the skin when asked. This place was my go-to while living in the area and was always worth the drive for me. Miss coming here and will definitely go back when Im local.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jan 2026",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
     },
     {
-      "text": "I have brought my grandson here for his haircuts for a couple of years. It's walk-in service and even if you have to wait it's never very long. San and her guys always do a great job.",
-      "author": "Denise L.",
-      "source": "Yelp"
+      "text": "San, is great with kids when I first started taking my son there he was two and a half He's 15 now Love this place super quick super professional and does a great job !!",
+      "author": "Adam W.",
+      "source": "Yelp",
+      "date": "Mar 2026",
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
     },
     {
-      "text": "Best and most consistent barber shop in the valley hands down. After a few cuts, you'll never trust another barber",
-      "author": "Jay R.",
-      "source": "Yelp"
+      "text": "It is absolutely fabulous the owner's been cutting my hair for the past 15 years",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Oct 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
+    },
+    {
+      "text": "San has been doing my hair since I was young and I've had 4 people ever doing my hair and she has done the best she is my favorite barber ever!and I totally recommend this barber shop.",
+      "author": "Nikolas R.",
+      "source": "Yelp",
+      "date": "May 2025",
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
+    },
+    {
+      "text": "San is an amazing barber always friendly and can get you feeling brand new. If you are having a bad day go get a haircut but keep the negativity at home. If busy you should wait it's worth it.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jul 2024",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
+    },
+    {
+      "text": "There's a long line, it's cash only and they have $30 haircuts; kids 10 and under, and seniors 65 and older $25. San is skilled and did an excellent job quickly.",
+      "author": "Wayne G.",
+      "source": "Yelp",
+      "date": "Jul 2024",
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
     },
     {
       "text": "San is amazing! I’ve been coming here for 10+ years. It’s First Come First Serve but she is efficient! After the first time I came she remembered my style. She’s the best. People wait for her for a reason.",
-      "author": "Google review",
-      "source": "Dec 2023"
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2023",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
     },
     {
-      "text": "San has given me the best haircuts for over 10yrs! Thank you & it’s good to be back in Napa. Really friendly local crew.",
-      "author": "Google review",
-      "source": "Mar 2020"
+      "text": "San is the best in the business always delivers a fresh cut. Good prices Wait time not bad. Street parking and a parking lot. Downtown Napa.",
+      "author": "John T.",
+      "source": "Yelp",
+      "date": "Feb 2024",
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
+    },
+    {
+      "text": "We found our new spot to take my 5 year old for an amazing, quick, friendly, and stylish cut! San was amazing with my son and he loved getting to pick his own lollipop.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Jul 2020",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
     }
   ],
   "hours": [
@@ -191,5 +259,117 @@
   },
   "slug": "chateau-barber-shop-napa",
   "teamIntro": "Ask for San, or take the next open chair.",
-  "siteUrl": "https://leger-web-studio.github.io/chateau-barber-shop-napa/"
+  "siteUrl": "https://leger-web-studio.github.io/chateau-barber-shop-napa/",
+  "heroImage": "images/storefront.jpg",
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 4.9,
+      "count": 122,
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559"
+    },
+    {
+      "source": "Yelp",
+      "value": 5.0,
+      "count": 145,
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
+    }
+  ],
+  "ratingsNote": "Yelp rating and count as shown on Yelp's listing via Yahoo Local (Oct 2026).",
+  "press": [
+    {
+      "text": "My business has grown tremendously from initially being an unknown barbershop with just myself cutting hair to being one of the main barbershops in Napa. Through excellent customer reviews and word of mouth, I have been able to grow my business into what it is today.",
+      "source": "Napa Valley Register",
+      "title": "San Yankee, “Cuts and camaraderie,” Apr 22, 2025",
+      "url": "https://napavalleyregister.com/business/san-yankee-chateau-barber-shop-napa/article_6afa35bb-180f-421f-8b1f-81a082fc4950.html"
+    },
+    {
+      "text": "Having Winston’s next door has helped many people find my barber shop. Also, sometimes while waiting in line for a haircut customers will stop by Winston’s for something delicious to eat. We love being neighbors with them",
+      "source": "Napa Valley Register",
+      "title": "San Yankee, Apr 22, 2025",
+      "url": "https://napavalleyregister.com/business/san-yankee-chateau-barber-shop-napa/article_6afa35bb-180f-421f-8b1f-81a082fc4950.html"
+    },
+    {
+      "text": "We have people coming from Sonoma, Vallejo and sometimes even San Francisco",
+      "source": "Napa Valley Register",
+      "title": "San Yankee, “Chateau Barber Shop celebrates decade of service,” Dec 15, 2015",
+      "url": "https://napavalleyregister.com/business/chateau-barber-shop-celebrates-decade-of-service/article_26fc57db-4550-588f-8a20-742de348c257.html"
+    }
+  ],
+  "pressTitle": "San in her own words",
+  "reviewsNote": "Quoted word for word from public Google and Yelp reviews (Yelp text via Yahoo Local; some may be shortened there). Google doesn't show reviewer names in the public excerpts we used.",
+  "amenities": [
+    {
+      "label": "Walk-ins only",
+      "note": "First come, first served. No appointments"
+    },
+    {
+      "label": "Cash only",
+      "note": "Per Yelp and reviewers"
+    },
+    {
+      "label": "Wheelchair accessible",
+      "note": "Per Yelp"
+    },
+    {
+      "label": "Street parking & a parking lot",
+      "note": "Per a Yelp reviewer. Between Church St/4th St and School St"
+    },
+    {
+      "label": "Great with kids",
+      "note": "Reviewers mention kids picking a lollipop"
+    },
+    {
+      "label": "Food next door",
+      "note": "Winston’s is next door, per the owner"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do you take appointments?",
+      "a": "No. Chateau is walk-in only, first come first served. The owner says there are sometimes lines out the door, and reviewers say the wait is worth it."
+    },
+    {
+      "q": "Is it cash only?",
+      "a": "Yes, cash only."
+    },
+    {
+      "q": "How much is a haircut?",
+      "a": "A standard haircut was $35 per the Napa Valley Register (April 2025). A 2024 Yelp review mentions $25 for kids 10 and under and seniors 65+. Call (707) 255-7662 for current prices."
+    },
+    {
+      "q": "What are the hours?",
+      "a": "Tuesday to Friday 9 AM–6 PM, Saturday 9 AM–4 PM. Closed Sunday and Monday."
+    },
+    {
+      "q": "Where do I park?",
+      "a": "There's street parking and a parking lot nearby, per a Yelp reviewer. The shop is at 1521 3rd St in downtown Napa."
+    },
+    {
+      "q": "How long has the shop been open?",
+      "a": "Owner San Yankee opened Chateau Barber Shop in June 2005 and celebrated 20 years on June 1, 2025."
+    }
+  ],
+  "socials": [
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/the_chateau_barbershop/",
+      "label": "@the_chateau_barbershop"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/293242531597152",
+      "label": "Facebook"
+    },
+    {
+      "type": "yelp",
+      "url": "https://www.yelp.com/biz/chateau-barber-shop-napa",
+      "label": "Yelp"
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=Chateau%20Barber%20Shop%201521%203rd%20St%20Napa%20CA%2094559",
+      "label": "Google reviews"
+    }
+  ]
 }

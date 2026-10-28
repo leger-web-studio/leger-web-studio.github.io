@@ -32,10 +32,11 @@
     "stripe": "repeating-linear-gradient(-45deg,#d62828 0 18px,#f3f4f6 18px 36px,#1d4ed8 36px 54px,#f3f4f6 54px 72px)"
   },
   "highlights": [
-    "5.0★ on Google",
+    "5.0★ Google · 4.9★ Booksy",
     "Walk-ins welcome",
-    "Book online with Booksy",
+    "Book your barber on Booksy",
     "Kids' cuts",
+    "After-hours cuts available",
     "Downtown on Merchant St"
   ],
   "about": {
@@ -48,15 +49,15 @@
     "facts": [
       {
         "value": "5.0★",
-        "label": "Google rating"
+        "label": "Google (227)"
       },
       {
-        "value": "227",
-        "label": "Google reviews"
+        "value": "4.9★",
+        "label": "Booksy (401)"
       },
       {
-        "value": "401",
-        "label": "Booksy reviews"
+        "value": "4",
+        "label": "Barbers on Booksy"
       }
     ],
     "image": "images/booksy-cover.jpg",
@@ -64,75 +65,329 @@
   },
   "servicesKicker": "In the chair",
   "servicesTitle": "Cuts & Services",
-  "servicesIntro": "Each barber sets their own menu and prices on Booksy.",
+  "servicesIntro": "Each barber sets their own menu on Booksy. Here is what they list, with the price range across barbers.",
   "services": [
     {
-      "name": "Haircuts",
-      "desc": "Fades, tapers, and classic cuts for every hair type."
-    },
-    {
-      "name": "Beard Work",
-      "desc": "Beard trims and shaping."
+      "name": "Haircut",
+      "price": "$40–$45+",
+      "desc": "Fades, tapers, combovers. Some barbers include beard work.",
+      "source": "Booksy, barber menus (Oct 2026)"
     },
     {
       "name": "Haircut & Beard",
-      "desc": "The full clean-up in one visit."
-    },
-    {
-      "name": "Razor & Hot Towel",
-      "desc": "Face trim with a razor and a hot towel finish (select barbers)."
+      "price": "$45–$50",
+      "desc": "Haircut with facial hair lined up or a specialty cut with facial hair.",
+      "source": "Booksy, barber menus (Oct 2026)"
     },
     {
       "name": "Kids' Cuts",
-      "desc": "Patient barbers for little ones, including first cuts."
+      "price": "$35–$50",
+      "desc": "Basic and specialty kids’ cuts. Ages and days vary by barber.",
+      "source": "Booksy, barber menus (Oct 2026)"
     },
     {
-      "name": "Designs",
-      "desc": "Freestyle hair designs and parts."
+      "name": "Line Up / Beard",
+      "price": "$25–$30",
+      "desc": "Full line up or beard only.",
+      "source": "Booksy, barber menus (Oct 2026)"
+    },
+    {
+      "name": "Razor Shave & Hot Towel",
+      "price": "$65+",
+      "desc": "Full razor shave, or “The final kut” haircut with razor face trim and hot towel.",
+      "source": "Booksy, barber menus (Oct 2026)"
+    },
+    {
+      "name": "Women's Haircut",
+      "price": "$45",
+      "source": "Booksy, Hollywood The Barber"
+    },
+    {
+      "name": "Gray Coverage Color",
+      "price": "$50",
+      "desc": "Hair coloring to cover grays.",
+      "source": "Booksy, Hollywood The Barber"
+    },
+    {
+      "name": "Shampoo & Condition",
+      "price": "$30+",
+      "source": "Booksy, Hollywood The Barber"
+    },
+    {
+      "name": "Big Chop",
+      "price": "$60+",
+      "source": "Booksy, Hollywood The Barber"
+    },
+    {
+      "name": "After / Before Hours",
+      "price": "$70+",
+      "source": "Booksy, barber menus (Oct 2026)"
+    },
+    {
+      "name": "Monthly Membership",
+      "price": "$200",
+      "desc": "Weekly haircuts with beard, recurring appointments, hot towel massage.",
+      "source": "Booksy, Patrick"
     }
   ],
-  "servicesNote": "Prices vary by barber. See current prices and open times on Booksy, or call (707) 685-9136.",
+  "servicesNote": "Prices as listed on Booksy in October 2026 and may change. Tap a barber below for their full menu, or check Booksy.",
   "teamTitle": "Pick your barber",
-  "teamIntro": "Barbers currently listed on the shop's Booksy page.",
+  "teamIntro": "Barbers currently listed on the shop's Booksy page, with their ratings and menus from Booksy.",
   "team": [
     {
       "name": "Hollywood The Barber",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+      "role": "Paul Pratt · Barber",
+      "rating": 5.0,
+      "reviewCount": 307,
+      "url": "https://booksy.com/en-us/196333_hollywood-the-barber_barber-shop_134729_vacaville",
+      "cta": "Book Hollywood",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Men’s regular haircut, no facial hair",
+          "price": "$45"
+        },
+        {
+          "name": "Men’s haircut w/ facial hair lined up",
+          "price": "$45+"
+        },
+        {
+          "name": "Men’s specialty w/ facial hair",
+          "price": "$50"
+        },
+        {
+          "name": "Men’s specialty, no facial hair",
+          "price": "$45+"
+        },
+        {
+          "name": "The final kut: haircut, razor face trim, hot towel",
+          "price": "$65+"
+        },
+        {
+          "name": "Kids specialty cuts",
+          "price": "$50"
+        },
+        {
+          "name": "Kids 7–12 basic",
+          "price": "$40+"
+        },
+        {
+          "name": "Kids under 6 (not Thu/Fri/Sat)",
+          "price": "$40"
+        },
+        {
+          "name": "Women haircut",
+          "price": "$45"
+        },
+        {
+          "name": "Hair coloring to cover grays",
+          "price": "$50"
+        },
+        {
+          "name": "Shampoo & condition",
+          "price": "$30+"
+        },
+        {
+          "name": "Big chop",
+          "price": "$60+"
+        },
+        {
+          "name": "After hours haircuts",
+          "price": "$70+"
+        }
+      ]
     },
     {
       "name": "Patrick",
       "role": "Barber",
-      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+      "instagram": "peezysofaded",
+      "rating": 4.9,
+      "reviewCount": 58,
+      "bio": "My name is Patrick I am currently a barber located in Vacaville. I specialize in fades tapers, combovers, beards, razor shaves",
+      "url": "https://booksy.com/en-us/593397_patrick_barber-shop_134729_vacaville",
+      "cta": "Book Patrick",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Full haircut",
+          "price": "$45"
+        },
+        {
+          "name": "Kid’s haircut",
+          "price": "$35"
+        },
+        {
+          "name": "Full line up",
+          "price": "$30"
+        },
+        {
+          "name": "Full razor shaves",
+          "price": "$65"
+        },
+        {
+          "name": "After/before hours",
+          "price": "$70"
+        },
+        {
+          "name": "Monthly membership",
+          "price": "$200",
+          "desc": "Weekly haircuts with beard, recurring appointments, hot towel massage"
+        }
+      ]
     },
     {
       "name": "Marethebarber",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+      "role": "Amare Crawford · Barber",
+      "instagram": "maretthebarber",
+      "rating": 4.7,
+      "reviewCount": 25,
+      "url": "https://booksy.com/en-us/1366045_marethebarber_barber-shop_134729_vacaville",
+      "cta": "Book Mare",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Full haircut (beard included)",
+          "price": "$45"
+        },
+        {
+          "name": "Kids cut (8 and up)",
+          "price": "$35"
+        },
+        {
+          "name": "Lineup",
+          "price": "$30"
+        },
+        {
+          "name": "Specialty cut",
+          "price": "$50"
+        }
+      ]
     },
     {
       "name": "Luis",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+      "role": "Luis Morales · Barber",
+      "instagram": "svt.fadez",
+      "rating": 5.0,
+      "reviewCount": 11,
+      "url": "https://booksy.com/en-us/1711890_luis_barber-shop_134729_vacaville",
+      "cta": "Book Luis",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut",
+          "price": "$40"
+        },
+        {
+          "name": "Beard",
+          "price": "$25"
+        },
+        {
+          "name": "Haircut & beard",
+          "price": "$45"
+        },
+        {
+          "name": "Kid’s haircut",
+          "price": "$35"
+        }
+      ]
     }
   ],
   "galleryTitle": "From the shop",
   "gallery": [
     {
+      "src": "images/taper.jpg",
+      "alt": "Taper fade, side view"
+    },
+    {
       "src": "images/design-cut.jpg",
       "alt": "Freestyle hair design"
     },
     {
+      "src": "images/skin-fade.jpg",
+      "alt": "Skin fade with a sharp part"
+    },
+    {
+      "src": "images/beard-lineup.jpg",
+      "alt": "Beard line-up in the shop"
+    },
+    {
       "src": "images/afro-cut.jpg",
       "alt": "Shaped afro and line-up"
+    },
+    {
+      "src": "images/fade-side.jpg",
+      "alt": "Low fade, side profile"
+    },
+    {
+      "src": "images/fade-pair.jpg",
+      "alt": "Two fresh fades"
+    },
+    {
+      "src": "images/chair.jpg",
+      "alt": "Barber chair at Final Kuts"
     }
   ],
-  "galleryNote": "Photos from the shop's public business listing.",
+  "galleryNote": "Photos from the shop's public business listings.",
   "reviews": [
     {
-      "text": "…Patrick is very GOODat what he does. I would recommend his services anytime. Very professional, kind and patient.",
-      "author": "Patrice J.",
-      "source": "Google"
+      "text": "Best spot in town, hands down. No matter who you get, they're all great & always take care of everyone that walks through the door. The atmosphere is lively & the conversations are entertaining. I highly recommend everyone to check out Final Kuts.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688"
+    },
+    {
+      "text": "Paul is professional, reliable and his shop is pleasant and very clean. He does an excellent job on my hair!!!!",
+      "author": "Andrea",
+      "source": "Booksy",
+      "date": "Oct 2026",
+      "url": "https://booksy.com/en-us/196333_hollywood-the-barber_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "My son doesn’t like getting haircuts and Patrick was very patient and understanding. The shop is clean and always good vibes when we visit.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Feb 2026",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688"
+    },
+    {
+      "text": "Great experience. My third time going in for a cut with Mare. Friendly, professional and attentive. I am very happy with the cut. Everyone in the shop is very friendly. Great place for a cut and shave. I recommend.",
+      "author": "Rick",
+      "source": "Booksy",
+      "date": "Aug 2026",
+      "url": "https://booksy.com/en-us/1366045_marethebarber_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "Amare took our walk-in for my 1year old son’s mullet haircut and not only perfected exactly what I wanted, but also did it in a timely manner which is critically important when cutting a child’s hair! I’m very pleased! I think I’ve found my son’s barber!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688"
+    },
+    {
+      "text": "Great service Luis is an exceptional barber who pays attention to detail. I left feeling confident highly recommend",
+      "author": "Peezy",
+      "source": "Booksy",
+      "date": "Aug 2026",
+      "url": "https://booksy.com/en-us/1711890_luis_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "Andrew is an exceptional barber! He listened to what we needed and cut my son's hair perfectly- crisp and clean. The barbershop is friendly, comfortable professional and close to places to have a bite while you wait for someone.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688"
+    },
+    {
+      "text": "Patrick is excellent! Super friendly and chill environment",
+      "author": "Vincent",
+      "source": "Booksy",
+      "date": "Sep 2026",
+      "url": "https://booksy.com/en-us/593397_patrick_barber-shop_134729_vacaville"
     },
     {
       "text": "This is a great barber shop, friendly professional and great cuts. Great for walk ins..",
@@ -142,16 +397,6 @@
     {
       "text": "Great atmosphere. My son got a regular hair cut from Paul. He was very attentive, asking questions to ensure he got what he wanted.",
       "author": "Arminthia S.",
-      "source": "Yelp"
-    },
-    {
-      "text": "…Great service, Amare does a phenomenal job everytime. Definitely gotta check him out.",
-      "author": "Horace S.",
-      "source": "Yelp"
-    },
-    {
-      "text": "These guys really know how to cut hair. My son sees Brian but you really can't go wrong with any of the barbers.",
-      "author": "Richard B.",
       "source": "Yelp"
     }
   ],
@@ -193,5 +438,106 @@
     "text": "Pick your barber and grab a time on Booksy, or just walk in."
   },
   "slug": "final-kuts-vacaville",
-  "siteUrl": "https://leger-web-studio.github.io/final-kuts-vacaville/"
+  "siteUrl": "https://leger-web-studio.github.io/final-kuts-vacaville/",
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 5.0,
+      "count": 227,
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688"
+    },
+    {
+      "source": "Booksy",
+      "value": 4.9,
+      "count": 401,
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
+    }
+  ],
+  "reviewsNote": "Quoted word for word from public Google, Booksy and Yelp reviews (Yelp text via MapQuest's Yelp-powered listing). Google doesn't show reviewer names in the public excerpts we used. Booksy reviews come from confirmed clients.",
+  "amenities": [
+    {
+      "label": "Walk-ins welcome",
+      "note": "Reviewers on Google and Yelp mention walk-ins"
+    },
+    {
+      "label": "Online booking",
+      "note": "Every barber takes appointments on Booksy"
+    },
+    {
+      "label": "Kids' cuts",
+      "note": "Kids’ menus on Booksy; Hollywood’s under-6 cuts aren’t offered Thu–Sat"
+    },
+    {
+      "label": "Credit cards accepted",
+      "note": "Listed on Patrick’s Booksy page"
+    },
+    {
+      "label": "Parking space",
+      "note": "Listed on Patrick’s Booksy page"
+    },
+    {
+      "label": "Accessible for people with disabilities",
+      "note": "Listed on Patrick’s Booksy page"
+    },
+    {
+      "label": "Wi-Fi",
+      "note": "Listed on Booksy"
+    },
+    {
+      "label": "After-hours appointments",
+      "note": "Offered by Hollywood and Patrick on Booksy ($70+)"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can I walk in?",
+      "a": "Yes. Reviewers mention walk-ins, and one Google reviewer’s 1-year-old got a walk-in cut. To skip the wait, book your barber on Booksy."
+    },
+    {
+      "q": "How do I book a specific barber?",
+      "a": "Each barber has their own Booksy page: Hollywood The Barber, Patrick, Marethebarber and Luis. Use the Book buttons above."
+    },
+    {
+      "q": "How much is a haircut?",
+      "a": "On Booksy, a standard men’s haircut is $40–$45 depending on the barber, as of October 2026. Check Booksy for current prices."
+    },
+    {
+      "q": "Do you cut kids’ hair?",
+      "a": "Yes. Kids’ cuts are $35–$50 on Booksy. Mare takes kids 8 and up, and Hollywood’s under-6 cuts aren’t available Thursday to Saturday."
+    },
+    {
+      "q": "Do you offer after-hours cuts?",
+      "a": "Yes. Hollywood lists after-hours haircuts at $70+, and Patrick lists after/before-hours cuts at $70 on Booksy."
+    },
+    {
+      "q": "Do you take cards?",
+      "a": "Patrick’s Booksy page lists credit cards as accepted. Call (707) 685-9136 to confirm for other barbers."
+    },
+    {
+      "q": "What are the hours?",
+      "a": "Mon 10 AM–6 PM, Tue–Fri 10 AM–7 PM, Sat 9 AM–6 PM, closed Sunday, per Google. Other directories list slightly different hours, so check Booksy or call."
+    }
+  ],
+  "socials": [
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/final_kuts/",
+      "label": "@final_kuts"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/1090522654670466",
+      "label": "Facebook"
+    },
+    {
+      "type": "booksy",
+      "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville",
+      "label": "Booksy"
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=Final%20Kuts%20Barbershop%20348%20Merchant%20St%20Ste%20A%20Vacaville%20CA%2095688",
+      "label": "Google reviews"
+    }
+  ]
 }

@@ -52,7 +52,7 @@
         "label": "Google (176)"
       },
       {
-        "value": "1,331",
+        "value": "1,332",
         "label": "Booksy reviews"
       },
       {
@@ -65,105 +65,478 @@
   },
   "servicesKicker": "Menu",
   "servicesTitle": "Cuts & Prices",
-  "servicesIntro": "Sample prices from MartyTheBarber's Booksy menu. Each barber sets their own menu.",
+  "servicesIntro": "MartyTheBarber's Booksy menu, plus services on the shop's Yelp listing. Each barber sets their own menu; tap a barber below for theirs.",
   "services": [
     {
       "name": "Haircut",
       "price": "$40",
-      "desc": "Fades, tapers, burst fade, mohawk, comb over, and more."
+      "desc": "Fades, tapers, burst fade, mohawk, comb over, and more.",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Haircut & Beard Work",
-      "price": "$60"
+      "price": "$60",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Haircut & Traditional Shave",
       "price": "$75",
-      "desc": "Any haircut plus a clean razor shave with hot towel, lather and steam."
+      "desc": "Any haircut plus a clean razor shave with hot towel, lather and steam.",
+      "source": "Booksy, MartyTheBarber"
+    },
+    {
+      "name": "Haircut w/ Nose Wax",
+      "price": "$50",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Traditional Shave",
       "price": "$40",
-      "desc": "Hot towel, steam, hot lather and straight razor."
+      "desc": "Hot towel, steam, hot lather and straight razor.",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Haircut & Shampoo",
-      "price": "$50"
+      "price": "$50",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "The Full Service",
       "price": "$100",
-      "desc": "Haircut and traditional shave plus two extras (brow wax, nose wax, hot towel, shampoo or facial massage)."
+      "desc": "Haircut and traditional shave plus two extras (brow wax, nose wax, hot towel, shampoo or facial massage).",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Haircut / Shear Work (2\"+ off the top)",
       "price": "$50",
-      "desc": "Any length longer than an 8 guard, cut to the contour of the style you want."
+      "desc": "Any length longer than an 8 guard, cut to the contour of the style you want.",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "LE / FD / Military",
-      "price": "$40"
+      "price": "$40",
+      "source": "Booksy, MartyTheBarber"
     },
     {
       "name": "Senior Haircut (65+)",
-      "price": "$30"
+      "price": "$30",
+      "source": "Booksy, MartyTheBarber"
+    },
+    {
+      "name": "Head Shave",
+      "source": "Yelp services list"
+    },
+    {
+      "name": "Children's Cut",
+      "source": "Yelp services list (prices vary by barber on Booksy)"
+    },
+    {
+      "name": "Neck Trim",
+      "source": "Yelp services list"
+    },
+    {
+      "name": "Line Up",
+      "source": "Yelp services list"
     }
   ],
-  "servicesNote": "Prices as listed on Booksy for MartyTheBarber. Other barbers' prices may differ, so check Booksy for current pricing.",
+  "servicesNote": "Prices as listed on Booksy in October 2026 and may change. Yelp-listed services show no price online.",
   "teamTitle": "The crew",
-  "teamIntro": "Barbers currently listed on the shop's Booksy page.",
+  "teamIntro": "Barbers currently listed on the shop's Booksy page, with ratings, Instagram and menus as shown on Booksy.",
   "team": [
     {
       "name": "MartyTheBarber",
-      "role": "Owner · Barber",
-      "url": "https://booksy.com/en-us/263621_martythebarber_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "Fadezbyeli",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "FooFades",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "ThatBoy_Reezy",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "Smoovehud",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "Cutsbylyric",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "losblendzz",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
-    },
-    {
-      "name": "Joe (Big Money) Lopez",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+      "role": "Martin Laguillo · Owner",
+      "rating": 4.9,
+      "reviewCount": 621,
+      "url": "https://booksy.com/en-us/263621_martythebarber_barber-shop_134729_vacaville",
+      "cta": "Book Marty",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut",
+          "price": "$40"
+        },
+        {
+          "name": "Haircut & beard",
+          "price": "$60"
+        },
+        {
+          "name": "LE/FD/Military",
+          "price": "$40"
+        },
+        {
+          "name": "Senior 65+",
+          "price": "$30"
+        },
+        {
+          "name": "Shear work",
+          "price": "$50"
+        },
+        {
+          "name": "Transformation",
+          "price": "$60"
+        },
+        {
+          "name": "Haircut & shampoo",
+          "price": "$50"
+        },
+        {
+          "name": "Haircut w/ nose wax",
+          "price": "$50"
+        },
+        {
+          "name": "Haircut + traditional shave w/ hot towel",
+          "price": "$75"
+        },
+        {
+          "name": "The full service",
+          "price": "$100"
+        },
+        {
+          "name": "Traditional shave",
+          "price": "$40"
+        }
+      ]
     },
     {
       "name": "Hercuts",
-      "role": "Barber",
-      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+      "role": "Viviana Figuera · Barber",
+      "instagram": "____hercuts",
+      "rating": 5.0,
+      "reviewCount": 80,
+      "bio": "Offering well blended, professional haircuts of all lengths for all genders and ages",
+      "url": "https://booksy.com/en-us/658054_hercuts_barber-shop_134729_vacaville",
+      "cta": "Book Viv",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut",
+          "price": "$40"
+        },
+        {
+          "name": "Haircut & beard",
+          "price": "$55"
+        },
+        {
+          "name": "Beard trim (line up only)",
+          "price": "$20"
+        },
+        {
+          "name": "Beard grooming (no razor, no haircut)",
+          "price": "$35"
+        },
+        {
+          "name": "Traditional shave (face or head)",
+          "price": "$60"
+        },
+        {
+          "name": "Haven’t seen you in a while (5+ weeks)",
+          "price": "$60+"
+        },
+        {
+          "name": "Presidential service",
+          "price": "$100",
+          "desc": "Haircut & beard with hot towels, steam, straight razor line up, shampoo & conditioner"
+        },
+        {
+          "name": "Holiday haircut (Thanksgiving/Christmas Eve/NYE)",
+          "price": "$75"
+        },
+        {
+          "name": "After/before hour haircut",
+          "price": "$80+"
+        },
+        {
+          "name": "Children’s cut"
+        },
+        {
+          "name": "Line up"
+        }
+      ]
+    },
+    {
+      "name": "Smoovehud",
+      "role": "Hudson · Barber",
+      "instagram": "ttelwehh",
+      "rating": 5.0,
+      "reviewCount": 140,
+      "url": "https://booksy.com/en-us/1273269_smoovehud_barber-shop_134729_vacaville",
+      "cta": "Book Hudson",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut (includes facial hair)",
+          "price": "$50"
+        },
+        {
+          "name": "Military",
+          "price": "$40"
+        },
+        {
+          "name": "Holidays",
+          "price": "$70+"
+        },
+        {
+          "name": "Mobile male haircut",
+          "price": "$150+"
+        }
+      ]
+    },
+    {
+      "name": "losblendzz",
+      "role": "Carlos Tapia · Barber",
+      "rating": 4.9,
+      "reviewCount": 137,
+      "url": "https://booksy.com/en-us/593463_losblendzz_barber-shop_134729_vacaville",
+      "cta": "Book Carlos",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut",
+          "price": "$45"
+        },
+        {
+          "name": "Haircut/mustache & goatee",
+          "price": "$50"
+        },
+        {
+          "name": "Haircut/beard",
+          "price": "$55"
+        },
+        {
+          "name": "Haircut & eyebrows",
+          "price": "$50"
+        },
+        {
+          "name": "Transformation",
+          "price": "$60"
+        }
+      ]
+    },
+    {
+      "name": "Fadezbyeli",
+      "role": "Eli · Barber",
+      "instagram": "fvckel1",
+      "rating": 4.9,
+      "reviewCount": 97,
+      "bio": "Here too bring you the best quality service and haircuts!",
+      "url": "https://booksy.com/en-us/1244424_fadezbyeli-martysbarbershop_barber-shop_134729_vacaville",
+      "cta": "Book Eli",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Men's haircut",
+          "price": "$40+"
+        },
+        {
+          "name": "Haircut & beard",
+          "price": "$50+"
+        },
+        {
+          "name": "Military/First Responder",
+          "price": "$35+"
+        },
+        {
+          "name": "Military/FRS haircut & beard",
+          "price": "$45+"
+        },
+        {
+          "name": "Kids (no under 7)",
+          "price": "$40+"
+        },
+        {
+          "name": "Beard trim",
+          "price": "$25+"
+        },
+        {
+          "name": "Holiday haircut",
+          "price": "$50+"
+        }
+      ]
+    },
+    {
+      "name": "FooFades",
+      "role": "Elias · Barber",
+      "instagram": "FooFades",
+      "rating": 4.9,
+      "reviewCount": 91,
+      "url": "https://booksy.com/en-us/1221111_foofades_barber-shop_134729_vacaville",
+      "cta": "Book FooFades",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Male haircut",
+          "price": "$40+"
+        },
+        {
+          "name": "Military",
+          "price": "$35"
+        },
+        {
+          "name": "Haircut & beard",
+          "price": "$45+"
+        },
+        {
+          "name": "Haircut + nose waxing",
+          "price": "$50"
+        },
+        {
+          "name": "Transformation cut",
+          "price": "$50"
+        }
+      ]
+    },
+    {
+      "name": "Cutsbylyric",
+      "role": "Deshawn Brown · Barber",
+      "instagram": "lyricfadeem",
+      "rating": 4.8,
+      "reviewCount": 91,
+      "url": "https://booksy.com/en-us/966835_cutsbylyric_barber-shop_134729_vacaville",
+      "cta": "Book Lyric",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Full cut/no face",
+          "price": "$50"
+        },
+        {
+          "name": "Full cut w/ beard",
+          "price": "$60"
+        },
+        {
+          "name": "Kid’s haircut",
+          "price": "$45"
+        },
+        {
+          "name": "Trim only",
+          "price": "$25"
+        },
+        {
+          "name": "Senior citizen service (65+)",
+          "price": "$30"
+        },
+        {
+          "name": "Adult perm w/ cut",
+          "price": "$170"
+        },
+        {
+          "name": "Kid’s perm/cut",
+          "price": "$140"
+        },
+        {
+          "name": "Beard trim/lineup only"
+        },
+        {
+          "name": "Razor head shave & beard work"
+        },
+        {
+          "name": "Kid’s haircut w/ design"
+        }
+      ]
+    },
+    {
+      "name": "Joe (Big Money) Lopez",
+      "role": "Joe Lopez · Barber",
+      "instagram": "bigmoney_cutz",
+      "rating": 5.0,
+      "reviewCount": 52,
+      "url": "https://booksy.com/en-us/966669_joe-big-money-lopez_barber-shop_134729_vacaville",
+      "cta": "Book Joe",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut (bald or gentleman’s) / basic bald fade",
+          "price": "$40"
+        },
+        {
+          "name": "Haircut and beard plus razor",
+          "price": "$55"
+        },
+        {
+          "name": "Hot towel lather razor shave (beard clean-up/line up)",
+          "price": "$35"
+        },
+        {
+          "name": "Traditional hot towel/lather razor shave",
+          "price": "$60"
+        },
+        {
+          "name": "Transformation haircut (haircut + shear work)",
+          "price": "$50"
+        },
+        {
+          "name": "Presidential service",
+          "price": "$100",
+          "desc": "Full service haircut with beard work, hot towel, and your choice of facial, shampoo or black mask"
+        },
+        {
+          "name": "After hours",
+          "price": "$80"
+        },
+        {
+          "name": "Nose wax",
+          "price": "$10"
+        }
+      ]
+    },
+    {
+      "name": "ThatBoy_Reezy",
+      "role": "Jared Gruder · Barber",
+      "rating": 5.0,
+      "reviewCount": 23,
+      "url": "https://booksy.com/en-us/1694168_thatboy-reezy_barber-shop_134729_vacaville",
+      "cta": "Book Jared",
+      "servicesSource": "Booksy",
+      "services": [
+        {
+          "name": "Haircut",
+          "price": "$40"
+        },
+        {
+          "name": "Haircut/beard/lineup",
+          "price": "$60"
+        },
+        {
+          "name": "Haircut & shear work",
+          "price": "$50"
+        },
+        {
+          "name": "Beard lineup",
+          "price": "$20"
+        },
+        {
+          "name": "Senior 65+",
+          "price": "$30"
+        }
+      ]
     }
   ],
   "galleryTitle": "Inside Marty's",
   "gallery": [
     {
+      "src": "images/shop-floor.jpg",
+      "alt": "Barber stations inside Marty's"
+    },
+    {
+      "src": "images/taper.jpg",
+      "alt": "Low taper fade"
+    },
+    {
       "src": "images/hot-towel-shave.jpg",
       "alt": "Hot towel shave"
+    },
+    {
+      "src": "images/fade.jpg",
+      "alt": "Fresh fade"
+    },
+    {
+      "src": "images/beard.jpg",
+      "alt": "Beard trim and line-up"
+    },
+    {
+      "src": "images/side-part.jpg",
+      "alt": "Side part with fade"
     },
     {
       "src": "images/kids-fade.jpg",
@@ -172,38 +545,83 @@
     {
       "src": "images/team.jpg",
       "alt": "Barbers at the shop entrance"
-    },
-    {
-      "src": "images/interior.jpg",
-      "alt": "Barber stations inside the shop"
     }
   ],
   "galleryNote": "Photos from the shop's public Booksy and business listings.",
   "reviews": [
     {
-      "text": "Marty's barbershop is truly a special place. The atmosphere and customer service is top notch, not to mention Marty is a great person. The best barbershop in Vacaville without a doubt.",
-      "author": "Google review",
-      "source": "Dec 2025"
+      "text": "Marty’s Barbershop delivers excellent service in a professional and welcoming environment. Marty is highly skilled, consistent and provides great hospitality. My Barber, Foofades is also outstanding, with great attention to detail and overall an amazing guy to talk to.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Feb 2026",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687"
     },
     {
-      "text": "Great people, amazing skills and overall amazing experience. It didn’t feel like going in to just get a cut. I got an experience.",
-      "author": "Google review",
-      "source": "Feb 2026"
+      "text": "Best barber out in Vacaville, never disappointed me every time I came in🫡💯",
+      "author": "Jaden",
+      "source": "Booksy",
+      "date": "Oct 2026",
+      "url": "https://booksy.com/en-us/263621_martythebarber_barber-shop_134729_vacaville"
     },
     {
-      "text": "Best barber shop ever(and I’ve been to a lot)! Viviana kills it every time, even my wife and daughter get their cuts by her. Great environment with even better barbers.",
-      "author": "Google review",
-      "source": "Nov 2025"
+      "text": "I was literally walking out of my doctors appointment thinking about looking for a barber when I crossed paths with the owner. He brought me in and the vibes were amazing. Great people, amazing skills and overall amazing experience. It didn’t feel like going in to just get a cut. I got an experience.You gotta get a fresh cut from these guys.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Feb 2026",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687"
     },
     {
-      "text": "10/10 recommend this shop! Marty cuts my sons hair an always is quick, smooth and always makes my sons experience exceptional.",
-      "author": "Google review",
-      "source": "Nov 2025"
+      "text": "Viv does an amazing job! She’s thorough, detail-oriented, and listens to her clients. Every haircut I’ve gotten from her is great and grows out well between cuts!!",
+      "author": "Kendra",
+      "source": "Booksy",
+      "date": "May 2026",
+      "url": "https://booksy.com/en-us/658054_hercuts_barber-shop_134729_vacaville"
     },
     {
-      "text": "Marty is highly skilled, consistent and provides great hospitality. My Barber, Foofades is also outstanding, with great attention to detail and overall an amazing guy to talk to.",
-      "author": "Google review",
-      "source": "Feb 2026"
+      "text": "Thank you, Hudson for making our first experience at this barbershop and with you great! It is evident you take pride in your craft and the results show for itself. We are very satisfied with our son’s haircut by you. I definitely recommend booking with him. Thank you!",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Dec 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Jared always does a great job. Great attention to Detail and many years of experience. If you’re looking for a new barber,Jared is the guy. He’s been cutting my hair for over 10 years.",
+      "author": "Bradley",
+      "source": "Booksy",
+      "date": "Oct 2026",
+      "url": "https://booksy.com/en-us/1694168_thatboy-reezy_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "He cut my haircut like how I imagined it. Takes his time and doesn’t rush. Cleanest skin mid fade in the area",
+      "author": "Nish",
+      "source": "Booksy",
+      "date": "Sep 2026",
+      "url": "https://booksy.com/en-us/966669_joe-big-money-lopez_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "Carlos provided a great cut along with efficient timing, I would highly recommend his services!👌🏽",
+      "author": "Emani",
+      "source": "Booksy",
+      "date": "Aug 2026",
+      "url": "https://booksy.com/en-us/593463_losblendzz_barber-shop_134729_vacaville"
+    },
+    {
+      "text": "10/10 recommend this shop! Marty cuts my sons hair an always is quick, smooth and always makes my sons experience exceptional. If your not getting your hair cut here your missing out.",
+      "author": "Google reviewer",
+      "source": "Google",
+      "date": "Nov 2025",
+      "stars": 5,
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687"
+    },
+    {
+      "text": "Great haircut, Good convo & Good vibes. Eli got me right. Thanks!",
+      "author": "Alex024",
+      "source": "Booksy",
+      "date": "Aug 2026",
+      "url": "https://booksy.com/en-us/1244424_fadezbyeli-martysbarbershop_barber-shop_134729_vacaville"
     }
   ],
   "hours": [
@@ -238,5 +656,101 @@
     "text": "Book your barber on Booksy in under a minute."
   },
   "slug": "martys-barbershop-vacaville",
-  "siteUrl": "https://leger-web-studio.github.io/martys-barbershop-vacaville/"
+  "siteUrl": "https://leger-web-studio.github.io/martys-barbershop-vacaville/",
+  "ratings": [
+    {
+      "source": "Google",
+      "value": 4.9,
+      "count": 176,
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687"
+    },
+    {
+      "source": "Booksy",
+      "value": 4.9,
+      "count": 1332,
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
+    }
+  ],
+  "reviewsNote": "Quoted word for word from public Google and Booksy reviews. Google doesn't show reviewer names in the public excerpts we used. Booksy reviews come from confirmed clients.",
+  "amenities": [
+    {
+      "label": "Book online",
+      "note": "Every barber takes appointments on Booksy"
+    },
+    {
+      "label": "Sundays by appointment only",
+      "note": "Per Booksy"
+    },
+    {
+      "label": "Wheelchair accessible",
+      "note": "Per Yelp and Booksy"
+    },
+    {
+      "label": "Credit cards accepted",
+      "note": "Per Yelp"
+    },
+    {
+      "label": "Free Wi-Fi",
+      "note": "Per Yelp and Booksy"
+    },
+    {
+      "label": "Parking space",
+      "note": "Listed on barbers’ Booksy pages; Yelp also lists bike parking"
+    },
+    {
+      "label": "Child-friendly",
+      "note": "Listed on barbers’ Booksy pages"
+    },
+    {
+      "label": "Senior & military pricing",
+      "note": "Several barbers list 65+ and military/first responder prices on Booksy"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Do I need an appointment?",
+      "a": "You can book any barber online on Booksy. Per Booksy, Sundays are appointments only. Weekday and Saturday walk-in hours are listed on Google."
+    },
+    {
+      "q": "How much is a haircut?",
+      "a": "On Booksy, a standard haircut runs $40–$50 depending on the barber, as of October 2026. Check Booksy for current prices."
+    },
+    {
+      "q": "Do you offer senior or military discounts?",
+      "a": "Several barbers list senior (65+) cuts at $30 and military/first responder cuts at $35–$40 on Booksy."
+    },
+    {
+      "q": "Do you do hot towel shaves?",
+      "a": "Yes. MartyTheBarber lists a traditional shave at $40 and haircut plus traditional shave with hot towel at $75. Viviana and Joe also list traditional razor shaves."
+    },
+    {
+      "q": "Do you take cards?",
+      "a": "Yes, per the shop’s Yelp listing."
+    },
+    {
+      "q": "Is there Wi-Fi and accessible access?",
+      "a": "Yes. Yelp and Booksy list free Wi-Fi and wheelchair accessibility."
+    },
+    {
+      "q": "What are the hours?",
+      "a": "Mon–Fri 9 AM–6 PM and Sat 9 AM–3 PM per Google. Sundays are by appointment only per Booksy."
+    }
+  ],
+  "socials": [
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/martysbarbershop_/",
+      "label": "@martysbarbershop_"
+    },
+    {
+      "type": "booksy",
+      "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville",
+      "label": "Booksy"
+    },
+    {
+      "type": "google",
+      "url": "https://www.google.com/maps/search/?api=1&query=Marty%27s%20Barbershop%202611%20Nut%20Tree%20Rd%20Ste%20E%20Vacaville%20CA%2095687",
+      "label": "Google reviews"
+    }
+  ]
 }
