@@ -240,3 +240,4 @@ address{font-style:normal;font-size:1.1rem}
 .menu-photos .gallery{margin-top:.8rem}
 @media(max-width:600px){.menu-img img{aspect-ratio:16/9}.menu-cta .btn{flex:1 1 100%;justify-content:center}}
 .menu-card img{aspect-ratio:2/1}
+.menu-body.inline{padding:0}

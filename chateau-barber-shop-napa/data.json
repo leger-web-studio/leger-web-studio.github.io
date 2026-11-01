@@ -6,7 +6,7 @@
   "eyebrow": "Barbershop · Downtown Napa · Since 2005",
   "tagline": "Downtown Napa's walk-in barbershop. Precision cuts, beards, and straight-razor work, first come, first served.",
   "seoTitle": "Chateau Barber Shop | Walk-in Barber in Downtown Napa, CA",
-  "description": "Chateau Barber Shop at 1521 3rd St, downtown Napa. Walk-in barbershop run by owner San Yankee since June 2005. Precision haircuts, beards, straight razor shaves. Rated 4.9 on Google, 5.0 on Yelp. (707) 255-7662.",
+  "description": "Chateau Barber Shop at 1521 3rd St, downtown Napa. Walk-in barbershop run by owner San Yankee since June 2005. Precision haircuts, beards, straight razor shaves. Rated 4.9 stars. (707) 255-7662.",
   "phone": "+17072557662",
   "phoneDisplay": "(707) 255-7662",
   "address": {
@@ -47,7 +47,7 @@
     "20 years on Third St",
     "Walk-ins only, first come first served",
     "Cash only",
-    "4.9★ Google · 5.0★ Yelp",
+    "4.9★ from 122 reviews",
     "Downtown Napa",
     "Wheelchair accessible"
   ],
@@ -55,17 +55,17 @@
     "kicker": "Our story",
     "title": "Twenty years of cuts and camaraderie.",
     "body": [
-      "Owner Santysouk \"San\" Yankee is originally from Laos, where she learned to cut and style men's hair and ran her own salon. She came to the U.S. in 2001, went to barber school in Sacramento, and opened Chateau Barber Shop at 1521 Third St., the former home of Phil's Barber Shop, in June 2005 with the support of her late husband (Napa Valley Register).",
+      "Owner Santysouk \"San\" Yankee is originally from Laos, where she learned to cut and style men's hair and ran her own salon. She came to the U.S. in 2001, went to barber school in Sacramento, and opened Chateau Barber Shop at 1521 Third St., the former home of Phil's Barber Shop, in June 2005 with the support of her late husband.",
       "Twenty years later the shop is one of the main barbershops in Napa, with lines out the door and regulars coming from Sonoma, Vallejo and even San Francisco. The specialties are precision haircuts, beards, straight-razor shaves and line work. No appointments: walk in, grab a seat, and become part of the family."
     ],
     "facts": [
       {
         "value": "4.9★",
-        "label": "Google (122)"
+        "label": "122 reviews"
       },
       {
-        "value": "5.0★",
-        "label": "Yelp (145)"
+        "value": "20 yrs",
+        "label": "On Third St"
       },
       {
         "value": "2005",
@@ -81,29 +81,23 @@
     {
       "name": "Standard Haircut",
       "price": "$35",
-      "desc": "Precision cuts, traditional gentlemen's cuts and the latest trends.",
-      "source": "Price per Napa Valley Register, Apr 2025"
+      "desc": "Precision cuts, traditional gentlemen's cuts and the latest trends."
     },
     {
       "name": "Kids (10 & under) and Seniors (65+)",
-      "price": "$25",
-      "desc": "Reduced price noted by a Yelp reviewer.",
-      "source": "Price per a Yelp review, Jul 2024 (may have changed)"
+      "price": "$25"
     },
     {
       "name": "Beards",
-      "desc": "Beard trims and shaping.",
-      "source": "Yelp specialties · Fresha lists Beard Trim"
+      "desc": "Beard trims and shaping."
     },
     {
       "name": "Straight Razor Shaves",
-      "desc": "Classic straight-razor and hot towel shave.",
-      "source": "Yelp specialties · Fresha lists Hot Towel Shave"
+      "desc": "Classic straight-razor and hot towel shave."
     },
     {
       "name": "Line Work",
-      "desc": "Clean straight-razor lines and edges.",
-      "source": "Yelp specialties"
+      "desc": "Clean straight-razor lines and edges."
     }
   ],
   "servicesNote": "The shop doesn't post a price list online. Cash only. Call (707) 255-7662 with questions.",
@@ -112,7 +106,7 @@
     {
       "name": "San",
       "role": "Santysouk Yankee · Owner since 2005",
-      "bio": "Originally from Laos, San honed her craft there before immigrating in 2001. She says 90% of her customers come back weekly to monthly. (Napa Valley Register, Apr 2025)"
+      "bio": "Originally from Laos, San honed her craft there before immigrating in 2001. 90% of her customers come back weekly to monthly."
     }
   ],
   "galleryTitle": "At the Chateau",
@@ -150,7 +144,6 @@
       "alt": "Classic short cut"
     }
   ],
-  "galleryNote": "Photos from the shop's public business listings.",
   "reviews": [
     {
       "text": "People typically wait for the owner, but Andrea would always give a perfect cut, spending the time to pay close attention to detail. I like that a bald fade was truly a bald fade when coming here, some places arent willing to fully shave down to the skin when asked. This place was my go-to while living in the area and was always worth the drive for me. Miss coming here and will definitely go back when Im local.",
@@ -275,7 +268,6 @@
       "url": "https://www.yelp.com/biz/chateau-barber-shop-napa"
     }
   ],
-  "ratingsNote": "Yelp rating and count as shown on Yelp's listing via Yahoo Local (Oct 2026).",
   "press": [
     {
       "text": "My business has grown tremendously from initially being an unknown barbershop with just myself cutting hair to being one of the main barbershops in Napa. Through excellent customer reviews and word of mouth, I have been able to grow my business into what it is today.",
@@ -297,37 +289,34 @@
     }
   ],
   "pressTitle": "San in her own words",
-  "reviewsNote": "Quoted word for word from public Google and Yelp reviews (Yelp text via Yahoo Local; some may be shortened there). Google doesn't show reviewer names in the public excerpts we used.",
   "amenities": [
     {
       "label": "Walk-ins only",
       "note": "First come, first served. No appointments"
     },
     {
-      "label": "Cash only",
-      "note": "Per Yelp and reviewers"
+      "label": "Cash only"
     },
     {
-      "label": "Wheelchair accessible",
-      "note": "Per Yelp"
+      "label": "Wheelchair accessible"
     },
     {
       "label": "Street parking & a parking lot",
-      "note": "Per a Yelp reviewer. Between Church St/4th St and School St"
+      "note": "Between Church St/4th St and School St"
     },
     {
       "label": "Great with kids",
-      "note": "Reviewers mention kids picking a lollipop"
+      "note": "Kids get to pick a lollipop"
     },
     {
       "label": "Food next door",
-      "note": "Winston’s is next door, per the owner"
+      "note": "Winston’s is right next door"
     }
   ],
   "faq": [
     {
       "q": "Do you take appointments?",
-      "a": "Nope, we're walk-in only, first come, first served. Sometimes there's a line out the door, but reviewers say the wait is worth it."
+      "a": "Nope, we're walk-in only, first come, first served. Sometimes there's a line out the door, but we think it's worth the wait."
     },
     {
       "q": "Is it cash only?",
@@ -335,7 +324,7 @@
     },
     {
       "q": "How much is a haircut?",
-      "a": "A standard haircut was $35 per the Napa Valley Register (April 2025), and a 2024 Yelp review mentions $25 for kids 10 and under and seniors 65+. Give us a call at (707) 255-7662 for current prices."
+      "a": "A standard haircut is about $35, and kids 10 and under and seniors 65+ get a reduced price (around $25). Prices can change, so give us a call at (707) 255-7662."
     },
     {
       "q": "What are the hours?",
@@ -343,7 +332,7 @@
     },
     {
       "q": "Where do I park?",
-      "a": "There's street parking and a parking lot nearby, per a Yelp reviewer. You'll find us at 1521 3rd St in downtown Napa."
+      "a": "There's street parking and a parking lot nearby. You'll find us at 1521 3rd St in downtown Napa."
     },
     {
       "q": "How long has the shop been open?",

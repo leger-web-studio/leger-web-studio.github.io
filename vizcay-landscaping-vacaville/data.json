@@ -8,7 +8,7 @@
   "eyebrow": "Landscaping · Vacaville & Dixon",
   "tagline": "Front and backyard transformations: artificial turf, pavers, irrigation, plants and drought-tolerant designs by Nick and his crew.",
   "seoTitle": "Vizcay Landscaping | Turf, Pavers & Landscape Design in Vacaville, CA",
-  "description": "Vizcay Landscaping, a Vacaville landscape contractor serving Vacaville and Dixon. Artificial turf, pavers, irrigation, lawns, plants and landscape design. Rated 5.0 on Yelp (58 reviews). (707) 590-0660.",
+  "description": "Vizcay Landscaping, a Vacaville landscape contractor serving Vacaville and Dixon. Artificial turf, pavers, irrigation, lawns, plants and landscape design. Rated 5.0 stars (58 reviews). (707) 590-0660.",
   "phone": "+17075900660",
   "phoneDisplay": "(707) 590-0660",
   "address": {
@@ -30,7 +30,7 @@
   "heroImage": "images/turf-front-yard.jpg",
   "ogImage": "images/turf-front-yard.jpg",
   "highlights": [
-    "5.0★ on Yelp (58 reviews)",
+    "5.0★ from 58 reviews",
     "Artificial turf & lawns",
     "Pavers & hardscape",
     "Irrigation",
@@ -42,16 +42,16 @@
     "title": "Yards the neighbors stop to look at.",
     "body": [
       "Vizcay Landscaping is a landscape contractor based in Vacaville, serving Vacaville, Dixon and the surrounding Solano County area. Nick Vizcay and his crew handle full front and backyard projects, from demolition and concrete removal through pavers, irrigation, turf, plants and bark.",
-      "Customers on Yelp give the company 5 stars across 58 reviews, praising great communication, on-time crews, valuable design input and yards left clean and debris-free at the end of each day."
+      "We have 5 stars across 58 reviews. Our customers praise our great communication, on-time crews, valuable design input and yards left clean and debris-free at the end of each day."
     ],
     "facts": [
       {
         "value": "5.0★",
-        "label": "Yelp (58)"
+        "label": "58 reviews"
       },
       {
         "value": "57 of 58",
-        "label": "Five-star Yelp reviews"
+        "label": "Five-star reviews"
       },
       {
         "value": "Mon–Fri",
@@ -66,46 +66,36 @@
   "services": [
     {
       "name": "Landscape design",
-      "desc": "Help refining your ideas, with design suggestions you may not have considered.",
-      "source": "Yelp categories"
+      "desc": "Help refining your ideas, with design suggestions you may not have considered."
     },
     {
       "name": "Artificial turf",
-      "desc": "Turf for front yards, backyards and dog runs.",
-      "source": "Yelp categories"
+      "desc": "Turf for front yards, backyards and dog runs."
     },
     {
-      "name": "Lawn & grass installation",
-      "source": "Yelp categories"
+      "name": "Lawn & grass installation"
     },
     {
       "name": "Pavers installation",
-      "desc": "Paver patios and walkways.",
-      "source": "Yelp categories"
+      "desc": "Paver patios and walkways."
     },
     {
-      "name": "Irrigation installation",
-      "source": "Yelp categories"
+      "name": "Irrigation installation"
     },
     {
       "name": "Plants & bark installation",
-      "desc": "Including drought-resistant landscapes.",
-      "source": "Yelp categories"
+      "desc": "Including drought-resistant landscapes."
     },
     {
       "name": "Full yard renovations",
-      "desc": "Demolition and removal of old concrete, lawn and plants, then the new build.",
-      "source": "Mentioned in customer reviews"
+      "desc": "Demolition and removal of old concrete, lawn and plants, then the new build."
     },
     {
-      "name": "Landscape lighting",
-      "desc": "A reviewer's tip: if Nick suggests adding lighting, don't hesitate.",
-      "source": "Mentioned in customer reviews"
+      "name": "Landscape lighting"
     }
   ],
   "servicesNote": "Every yard is different, so there's no posted price list. Call (707) 590-0660 for a quote.",
   "galleryTitle": "Recent yards",
-  "galleryNote": "Photos from the company's public business listings.",
   "gallery": [
     {
       "src": "images/curb-turf.jpg",
@@ -148,7 +138,6 @@
       "url": "https://www.yelp.com/biz/vizcay-landscaping-vacaville-3"
     }
   ],
-  "ratingsNote": "Yelp rating and count as shown on Yelp's listing via Yahoo Local (Oct 2026): 57 five-star reviews and one one-star review.",
   "reviews": [
     {
       "text": "If I could give Nick 100 Five-star ratings I would! He is kind, helpful, creative, hard-working and always shows up in an emergency ( like a missing broken valve that the previous owner buried in a mystery location in our yard!) He installed our landscaping in both our front and back yards. They are so stunning that neighbors walking their dogs stop to tell us they purposely walk down our street so they can see our yard. (BTW if Nick suggests adding lighting... don't hesitate!)",
@@ -207,7 +196,6 @@
       "url": "https://www.yelp.com/biz/vizcay-landscaping-vacaville-3"
     }
   ],
-  "reviewsNote": "Quoted word for word from public Yelp and BestProsInTown reviews. Yelp text is as shown on Yelp-powered listings (MapQuest/Yahoo), which shorten longer reviews (“...”).",
   "amenitiesTitle": "Good to know",
   "amenities": [
     {
@@ -216,15 +204,14 @@
     },
     {
       "label": "Design input",
-      "note": "Reviewers say the team helped refine their ideas"
+      "note": "We help refine your ideas"
     },
     {
       "label": "Clean job site",
-      "note": "Reviewers say the yard is left debris-free each day"
+      "note": "We leave the yard debris-free each day"
     },
     {
-      "label": "Emergency help",
-      "note": "A reviewer says Nick shows up in an emergency"
+      "label": "Emergency help"
     }
   ],
   "faq": [
@@ -238,7 +225,7 @@
     },
     {
       "q": "Do you do drought-tolerant landscaping?",
-      "a": "Yes! Reviewers describe front yards we've transformed into drought-resistant landscapes."
+      "a": "Yes! We've transformed front yards into drought-resistant landscapes."
     },
     {
       "q": "How do I get a quote?",
@@ -246,7 +233,7 @@
     },
     {
       "q": "Who will I work with?",
-      "a": "Reviewers worked directly with me, Nick Vizcay, and my crew, and say communication is great from start to finish."
+      "a": "You'll work directly with me, Nick Vizcay, and my crew, with great communication from start to finish."
     }
   ],
   "socials": [

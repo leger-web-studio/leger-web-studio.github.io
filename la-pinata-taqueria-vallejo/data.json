@@ -6,7 +6,7 @@
   "eyebrow": "Taco truck · 809 Broadway · Vallejo",
   "tagline": "The yellow taco truck on Broadway that made the San Francisco Chronicle's Top Burritos in the Bay Area list. Crunchy suadero, two great salsas, big super burritos.",
   "seoTitle": "La Piñata Taqueria | Taco Truck & Burritos in Vallejo, CA",
-  "description": "La Piñata Taqueria, a taco truck at 809 Broadway, Vallejo, CA. Super burritos, tacos, nachos, quesadillas and tortas. Rated 4.7 on Google. Open Mon–Fri 11am–9pm. (707) 334-8381.",
+  "description": "La Piñata Taqueria, a taco truck at 809 Broadway, Vallejo, CA. Super burritos, tacos, nachos, quesadillas and tortas. Rated 4.7 stars. Open Mon–Fri 11am–9pm. (707) 334-8381.",
   "phone": "+17073348381",
   "phoneDisplay": "(707) 334-8381",
   "address": {
@@ -43,7 +43,7 @@
     "title": "Fresh ingredients. Big flavor. Fair prices.",
     "body": [
       "La Piñata is a yellow lonchera parked at 809 Broadway, serving authentic Mexican food made with fresh, quality ingredients: tacos, tortas, quesadillas, nachos, super burritos and shrimp dishes, plus horchata and agua de jamaica.",
-      "In 2025 Yelp ranked La Piñata #6 on its all-time list of the Top 100 Food Trucks in the US, and the San Francisco Chronicle put it on its Top Burritos in the Bay Area list back in November 2022. Some customers drive in from San Francisco for it."
+      "In 2025 Yelp ranked us #6 on its all-time list of the Top 100 Food Trucks in the US, and the San Francisco Chronicle put us on its Top Burritos in the Bay Area list back in November 2022. Some of our customers drive in from San Francisco for it."
     ],
     "facts": [
       {
@@ -52,11 +52,11 @@
       },
       {
         "value": "4.7★",
-        "label": "Google (276)"
+        "label": "276 reviews"
       },
       {
-        "value": "4.8★",
-        "label": "Yelp (438)"
+        "value": "Mon–Fri",
+        "label": "11 AM–9 PM"
       }
     ],
     "image": "images/tacos.jpg",
@@ -154,7 +154,7 @@
       "closed": true
     }
   ],
-  "hoursNote": "Closed weekends. Cards accepted (a reviewer notes an extra card charge). Catering available, so call to ask.",
+  "hoursNote": "Closed weekends. Cash or card (a small fee may apply on card payments). Catering available, so call to ask.",
   "finalCta": {
     "title": "Hungry yet?",
     "text": "Call ahead and your order will be ready at the truck, Monday through Friday."
@@ -175,7 +175,6 @@
       "url": "https://www.yelp.com/biz/la-pi%C3%B1ata-taqueria-vallejo"
     }
   ],
-  "ratingsNote": "Yelp rating as shown on Apple Maps; Yelp review count as shown on Roadtrippers’ Yelp-powered listing (Oct 2026).",
   "press": [
     {
       "text": "Our latest obsession is this taco truck. Service is always awesome, employees are always pleasant, and service is fast. Today they packed our food [chicken tacos and super carne asada burritos] with everything extra: plenty of red and green salsa, chips and extra grilled onion/jalapeno. Everything was delicious.",
@@ -190,42 +189,40 @@
     }
   ],
   "pressTitle": "Ranked and reviewed",
-  "reviewsNote": "Quoted word for word from public Google and Yelp reviews. Yelp excerpts are shortened where Yelp's public listings shorten them (…). Google doesn't show reviewer names in the public excerpts we used.",
   "amenitiesTitle": "Know before you go",
   "amenities": [
     {
       "label": "Takeout",
-      "note": "Food comes neatly wrapped to go, per reviewers"
+      "note": "Food comes neatly wrapped to go"
     },
     {
       "label": "Phone orders",
-      "note": "Google reviewers say they take orders over the phone, so you can skip the wait"
+      "note": "Call ahead and skip the wait"
     },
     {
       "label": "Catering",
-      "note": "Per Visit Vallejo and Apple Maps"
+      "note": "Call the truck to ask"
     },
     {
       "label": "Cash or card",
-      "note": "A Google reviewer notes an extra charge for cards (Aug 2025)"
+      "note": "A small fee may apply on card payments"
     },
     {
-      "label": "Street parking",
-      "note": "Per Apple Maps and reviewers"
+      "label": "Street parking"
     },
     {
       "label": "Outdoor seating",
-      "note": "Picnic tables, per Yelp and reviewers"
+      "note": "Picnic tables"
     },
     {
       "label": "Busiest Fridays around 6 PM",
-      "note": "Google popular times; waits up to ~15 min"
+      "note": "Waits can run up to ~15 min"
     }
   ],
   "faq": [
     {
       "q": "Can I call ahead and order?",
-      "a": "Yes! Google reviewers say we take orders over the phone, which helps you skip the line. Call us at (707) 334-8381."
+      "a": "Yes! Call us at (707) 334-8381 to order ahead and skip the line."
     },
     {
       "q": "What are the hours?",
@@ -233,15 +230,15 @@
     },
     {
       "q": "Do you take cards?",
-      "a": "Yes, we take cash and cards. Heads up: a Google reviewer noted an extra charge for paying by card (August 2025)."
+      "a": "Yes, we take cash and cards. A small fee may apply on card payments."
     },
     {
       "q": "What should I order?",
-      "a": "The suadero super burrito is the one the San Francisco Chronicle singled out. Reviewers also rave about our al pastor, lengua, carnitas and shrimp burritos."
+      "a": "Try the suadero super burrito, the one the San Francisco Chronicle singled out. Our al pastor, lengua, carnitas and shrimp burritos are big favorites too."
     },
     {
       "q": "Do you cater?",
-      "a": "Yes, we do catering, per Visit Vallejo and Apple Maps. Call the truck to ask."
+      "a": "Yes, we do catering. Call the truck to ask."
     },
     {
       "q": "Is there seating and parking?",
@@ -249,7 +246,7 @@
     },
     {
       "q": "When is it busiest?",
-      "a": "Per Google popular times, Friday around 6 PM, with waits up to about 15 minutes."
+      "a": "Friday around 6 PM is our busiest time, with waits up to about 15 minutes."
     }
   ],
   "socials": [
@@ -274,20 +271,16 @@
     "kicker": "Menu",
     "title": "What's on the board",
     "nav": "Menu",
-    "intro": "Tacos, super burritos, tortas, nachos and quesadillas, straight from the menu board on the truck.",
+    "intro": "Tacos, super burritos, tortas, nachos and quesadillas.",
     "buttonLabel": "See the full menu & prices",
     "pageTitle": "Menu",
     "metaDescription": "La Piñata Taqueria menu and prices: tacos, super burritos, tortas, super nachos, super quesadillas, drinks and extras. 809 Broadway, Vallejo, CA.",
-    "source": "Transcribed from a customer photo of the menu board on the truck, posted on Google Maps",
-    "date": "Aug 2026",
-    "sourceNote": "Where the Aug 2026 photo was hard to read, we checked it against a sharper Apr 2026 photo of the same board. Online menu listings show some older prices.",
     "sections": [
       {
         "name": "Tacos",
         "image": {
           "src": "images/tacos-plate.jpg",
-          "alt": "Plate of La Piñata tacos topped with cilantro, onion, radish and carrots",
-          "caption": "Customer photo · Google Maps · Jul 2026"
+          "alt": "Plate of La Piñata tacos topped with cilantro, onion, radish and carrots"
         },
         "items": [
           {
@@ -314,8 +307,7 @@
         "name": "Burritos",
         "image": {
           "src": "images/burrito-cut.jpg",
-          "alt": "La Piñata super burrito cut open on foil",
-          "caption": "Customer photo · Google Maps · ~Dec 2025"
+          "alt": "La Piñata super burrito cut open on foil"
         },
         "items": [
           {
@@ -346,7 +338,7 @@
         "image": {
           "src": "images/chips-salsas-pickled-veggies.jpg",
           "alt": "Chips, red and green salsa, pickled carrots and a grilled jalapeño from La Piñata",
-          "caption": "Chips, salsas & pickled veggies · Customer photo · Google Maps · Apr 2026"
+          "caption": "Chips, salsas & pickled veggies"
         },
         "items": [
           {
@@ -403,81 +395,39 @@
           }
         ]
       }
-    ],
-    "sourceImages": [
-      {
-        "src": "images/menu-board-aug-2026.jpg",
-        "alt": "La Piñata truck with its menu board, Aug 2026",
-        "caption": "Menu board · Google Maps customer photo (Nita S) · Aug 2026"
-      },
-      {
-        "src": "images/menu-board-apr-2026.jpg",
-        "alt": "Close-up of the La Piñata menu board, Apr 2026",
-        "caption": "Menu board close-up · Google Maps customer review photo · Apr 2026 (older prices)"
-      }
-    ],
-    "flags": [
-      {
-        "item": "Lengua Burrito",
-        "issue": "Price unreadable on the Aug 2026 board (looks like '07'; probably $17, since it was $16 on the Apr 2026 board and every other price went up $1). Left blank."
-      },
-      {
-        "item": "Can Soda",
-        "issue": "$2 on both the Apr and Aug 2026 boards (faint on Aug). Third-party listing (MenuToEat, Jun 2026) says $3. Used the board."
-      },
-      {
-        "item": "Super Veggie / Super Shrimp Burrito",
-        "issue": "Aug 2026 board: $14 / $18. Third-party listing (Jun 2026) and Apr 2026 board: $13 / $17. Used the newest board."
-      },
-      {
-        "item": "Tacos",
-        "issue": "Aug 2026 board: $3.50; Apr 2026 board: $3.00. Third-party listing had no taco price."
-      }
-    ],
-    "photosUsed": {
-      "menu-board-aug-2026.jpg": "Google Maps, Nita S, Aug 2026",
-      "menu-board-apr-2026.jpg": "Google Maps review photo, Mlkel Mikel, ~Apr 2026"
-    }
+    ]
   },
   "galleryTitle": "Straight from the truck",
   "gallery": [
     {
       "src": "images/tacos-plate.jpg",
       "alt": "Plate of tacos with cilantro, onion, radish, carrots and lime",
-      "caption": "Tacos · Google Maps · Jul 2026"
+      "caption": "Tacos"
     },
     {
       "src": "images/burrito-plate.jpg",
       "alt": "Super burrito on a plate with pickled carrots and a cup of horchata",
-      "caption": "Super burrito · Google Maps · Jul 2026"
+      "caption": "Super burrito"
     },
     {
       "src": "images/chips-salsas-pickled-veggies.jpg",
       "alt": "Chips, red and green salsa, pickled carrots and a grilled jalapeño",
-      "caption": "Chips, salsas & pickled veggies · Google Maps · Apr 2026"
+      "caption": "Chips, salsas & pickled veggies"
     },
     {
       "src": "images/burrito-cut.jpg",
       "alt": "Burrito cut open on foil",
-      "caption": "Burrito · Google Maps · ~Dec 2025"
+      "caption": "Burrito"
     },
     {
       "src": "images/burrito-closeup.jpg",
       "alt": "Close-up of a burrito filled with meat, rice and cheese",
-      "caption": "Burrito · Google Maps · ~Dec 2025"
+      "caption": "Burrito"
     },
     {
       "src": "images/burrito-foil.jpg",
       "alt": "Burrito wrapped in foil, bitten open",
-      "caption": "Burrito · Google Maps · Apr 2026"
+      "caption": "Burrito to go"
     }
-  ],
-  "galleryNote": "Customer photos of La Piñata's food from the business's public Google Maps listing.",
-  "photoSources": {
-    "hero-tacos.jpg / tacos-plate.jpg": "Google Maps photo, Jul 2026 (uploader shown as 'First Name')",
-    "burrito-plate.jpg": "Google Maps photo, Forking_in_Public, Jul 2026",
-    "chips-salsas-pickled-veggies.jpg": "Google Maps photo, Mlkel Mikel, Apr 2026",
-    "burrito-cut.jpg / burrito-closeup.jpg": "Google Maps review photos, Liann Amagan, ~Dec 2025 ('11 months ago')",
-    "burrito-foil.jpg": "Google Maps photo, Bleeda, Apr 2026"
-  }
+  ]
 }

@@ -21,7 +21,7 @@
   "eyebrow": "Handyman · Vacaville, CA · Rowmack Inc.",
   "tagline": "The handyman that can. Bob Mackert brings 25+ years of experience to repairs, installs and carpentry around your home, one project at a time.",
   "seoTitle": "Romack Home Maintenance Services (Rowmack Inc.) | Handyman in Vacaville, CA",
-  "description": "Romack Home Maintenance Services (Rowmack Inc.), Vacaville handyman Robert \"Bob\" Mackert. Sheetrock, texturing, doors, flooring, furniture assembly, fixtures and repairs. Rated 4.9 on Google. (707) 317-8126.",
+  "description": "Romack Home Maintenance Services (Rowmack Inc.), Vacaville handyman Robert \"Bob\" Mackert. Sheetrock, texturing, doors, flooring, furniture assembly, fixtures and repairs. Rated 4.9 stars. (707) 317-8126.",
   "phone": "+17073178126",
   "phoneDisplay": "(707) 317-8126",
   "address": {
@@ -43,7 +43,7 @@
   "heroImage": "images/cedar-steps.jpg",
   "ogImage": "images/cedar-steps.jpg",
   "highlights": [
-    "4.9★ on Google (39 reviews)",
+    "4.9★ from 39 reviews",
     "25+ years experience",
     "Often same-day response",
     "Cleans up after every job",
@@ -54,13 +54,13 @@
     "kicker": "Meet Bob",
     "title": "One project at a time.",
     "body": [
-      "Romack Home Maintenance Services, also known as Rowmack Inc., is Vacaville handyman Robert \"Bob\" Mackert. In his own words he has over 25 years of experience, and if your project involves wood and/or houses, his list of skills goes on, from simple to custom.",
-      "Customers say Bob responds fast, often the same day, shows up on time, charges fair prices and cleans up behind himself. Many call him back for project after project around the house."
+      "Romack Home Maintenance Services, also known as Rowmack Inc., is me, Vacaville handyman Robert \"Bob\" Mackert. I have over 25 years of experience, and if your project involves wood and/or houses, my list of skills goes on, from simple to custom.",
+      "I respond fast, often the same day, show up on time, charge fair prices and clean up behind myself. Many customers call me back for project after project around the house."
     ],
     "facts": [
       {
         "value": "4.9★",
-        "label": "Google (39)"
+        "label": "39 reviews"
       },
       {
         "value": "25+ yrs",
@@ -79,51 +79,41 @@
   "services": [
     {
       "name": "Sheetrock & texturing",
-      "desc": "Sheetrock repairs and ceiling texturing.",
-      "source": "Owner's Yelp bio and listings"
+      "desc": "Sheetrock repairs and ceiling texturing."
     },
     {
       "name": "Door installation & repair",
-      "desc": "Interior, exterior and side garage doors installed, adjusted and fixed.",
-      "source": "Verified by the business on Yelp"
+      "desc": "Interior, exterior and side garage doors installed, adjusted and fixed."
     },
     {
       "name": "Flooring installation & repair",
-      "desc": "Laminate floors and baseboards.",
-      "source": "Verified by the business on Yelp"
+      "desc": "Laminate floors and baseboards."
     },
     {
       "name": "Furniture assembly",
-      "desc": "Desks and more, put together fast.",
-      "source": "Verified by the business on Yelp"
+      "desc": "Desks and more, put together fast."
     },
     {
       "name": "Carpentry",
-      "desc": "Wood projects from simple to custom.",
-      "source": "Verified by the business on Yelp"
+      "desc": "Wood projects from simple to custom."
     },
     {
-      "name": "Dry rot removal & replacement",
-      "source": "Owner's Yelp bio"
+      "name": "Dry rot removal & replacement"
     },
     {
-      "name": "Caulking",
-      "source": "Verified by the business on Yelp"
+      "name": "Caulking"
     },
     {
       "name": "Plumbing repairs",
-      "desc": "Shower heads and other fixture swaps.",
-      "source": "BestProsInTown listing"
+      "desc": "Shower heads and other fixture swaps."
     },
     {
       "name": "Fixture & appliance installs",
-      "desc": "Ceiling fans and over-the-range microwaves, with old appliances hauled away.",
-      "source": "Mentioned in customer reviews"
+      "desc": "Ceiling fans and over-the-range microwaves, with old appliances hauled away."
     }
   ],
-  "servicesNote": "No prices are posted online. Reviewers describe Bob's pricing as fair and reasonable. Call or text (707) 317-8126 to talk through your project.",
+  "servicesNote": "I don't post prices online, but I keep my pricing fair and reasonable. Call or text (707) 317-8126 to talk through your project.",
   "galleryTitle": "Recent projects",
-  "galleryNote": "Photos from the business's public listings.",
   "gallery": [
     {
       "src": "images/tile-shower.jpg",
@@ -252,13 +242,11 @@
       "url": "https://www.google.com/maps/search/?api=1&query=Romack%20Home%20maintenance%20services%20Vacaville%20CA%2095687"
     }
   ],
-  "reviewsNote": "Quoted word for word from public Google and BestProsInTown reviews; “…” marks where the public excerpt was cut off. Google doesn't show reviewer names in the public excerpts we used.",
   "press": [
     {
-      "title": "From Bob's Yelp profile",
+      "title": "In Bob's words",
       "text": "Handyman services, With the one project at a time attitude. laminate floor installation, Doors installed, With over 25 yrs experience, If your project involves wood and/or houses, My list of skills goes on, From simple to custom, You get what you want with Rowmack .inc Simply put, The handyman that can.",
-      "source": "Robert Mackert, owner (Yelp)",
-      "url": "https://www.yelp.com/biz/rowmack-vacaville-3"
+      "source": "Robert Mackert, owner"
     }
   ],
   "pressTitle": "In Bob's words",
@@ -266,20 +254,18 @@
   "amenitiesTitle": "Good to know",
   "amenities": [
     {
-      "label": "Credit cards accepted",
-      "note": "Per Yelp and BestProsInTown"
+      "label": "Credit cards accepted"
     },
     {
       "label": "Fast response",
-      "note": "Reviewers report same-day and within-the-hour visits"
+      "note": "Often same-day, sometimes within the hour"
     },
     {
       "label": "Cleans up the work area",
-      "note": "Mentioned across reviews"
+      "note": "I clean up after every job"
     },
     {
-      "label": "Old appliances hauled away",
-      "note": "Per a Google review"
+      "label": "Old appliances hauled away"
     },
     {
       "label": "Open Saturdays",
@@ -289,7 +275,7 @@
   "faq": [
     {
       "q": "Is Romack the same as Rowmack Inc.?",
-      "a": "Yes, that's me. I'm Robert \"Bob\" Mackert, and my business appears as Romack Home Maintenance Services on Google and as Rowmack Inc. on Yelp and in reviews."
+      "a": "Yes, that's me. I'm Robert \"Bob\" Mackert, and my business goes by both Romack Home Maintenance Services and Rowmack Inc."
     },
     {
       "q": "What kinds of jobs do you take?",
@@ -297,11 +283,11 @@
     },
     {
       "q": "How quickly can you come out?",
-      "a": "Often fast. Reviewers describe same-day responses, and visits within an hour or an hour and a half."
+      "a": "Often fast. I can often respond the same day, sometimes within an hour or an hour and a half."
     },
     {
       "q": "How much does it cost?",
-      "a": "My prices aren't posted online. Customers describe my pricing as fair, affordable and upfront. Call or text me at (707) 317-8126 to describe your project."
+      "a": "I don't post prices online, but I keep my pricing fair, affordable and upfront. Call or text me at (707) 317-8126 to describe your project."
     },
     {
       "q": "What are your hours?",
@@ -354,7 +340,7 @@
       "closed": true
     }
   ],
-  "hoursNote": "Hours as listed on Google. Call or text to schedule a visit.",
+  "hoursNote": "Call or text to schedule a visit.",
   "finalCta": {
     "title": "Got a project list?",
     "text": "Call or text Bob at (707) 317-8126 and get it handled, one project at a time."

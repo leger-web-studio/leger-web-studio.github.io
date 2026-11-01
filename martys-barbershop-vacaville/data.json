@@ -6,7 +6,7 @@
   "eyebrow": "Barbershop · Nut Tree Rd · Vacaville",
   "tagline": "Rustic-modern shop, a crew of talented barbers, and one philosophy: if you look good, you'll always feel good.",
   "seoTitle": "Marty's Barbershop | Barber on Nut Tree Rd, Vacaville, CA",
-  "description": "Marty's Barbershop, 2611 Nut Tree Rd Ste E, Vacaville, CA. Rated 4.9 on Google and Booksy. Haircuts, fades, hot towel shaves, kids' cuts. Book online. (707) 660-8108.",
+  "description": "Marty's Barbershop, 2611 Nut Tree Rd Ste E, Vacaville, CA. Rated 4.9 stars. Haircuts, fades, hot towel shaves, kids' cuts. Book online. (707) 660-8108.",
   "phone": "+17076608108",
   "phoneDisplay": "(707) 660-8108",
   "address": {
@@ -32,7 +32,7 @@
     "accent": "#c8102e"
   },
   "highlights": [
-    "4.9★ Google · 4.9★ Booksy",
+    "4.9★ from 176 reviews",
     "Book online",
     "Sundays by appointment",
     "Kids & seniors",
@@ -44,20 +44,20 @@
     "title": "Not just a cut. An experience.",
     "body": [
       "Marty's is a rustic-modern barbershop on Nut Tree Road with a great vibe and a deep bench of barbers. The shop's philosophy: \"If you look good, you will always feel good.\"",
-      "Owner Marty and his team have more than 1,300 reviews on Booksy at a 4.9 average. Book your barber online, or call the shop."
+      "Marty and our team have more than 1,300 client reviews at a 4.9 average. Book your barber online, or call the shop."
     ],
     "facts": [
       {
         "value": "4.9★",
-        "label": "Google (176)"
+        "label": "176 reviews"
       },
       {
         "value": "1,332",
-        "label": "Booksy reviews"
+        "label": "Client reviews for our barbers"
       },
       {
         "value": "9",
-        "label": "Barbers on Booksy"
+        "label": "Barbers to book"
       }
     ],
     "image": "images/interior.jpg",
@@ -65,83 +65,69 @@
   },
   "servicesKicker": "Menu",
   "servicesTitle": "Cuts & Prices",
-  "servicesIntro": "MartyTheBarber's Booksy menu, plus services on the shop's Yelp listing. Each barber sets their own menu; tap a barber below for theirs.",
+  "servicesIntro": "Marty's menu, plus more services we offer. Each barber sets their own menu; tap a barber below for theirs.",
   "services": [
     {
       "name": "Haircut",
       "price": "$40",
-      "desc": "Fades, tapers, burst fade, mohawk, comb over, and more.",
-      "source": "Booksy, MartyTheBarber"
+      "desc": "Fades, tapers, burst fade, mohawk, comb over, and more."
     },
     {
       "name": "Haircut & Beard Work",
-      "price": "$60",
-      "source": "Booksy, MartyTheBarber"
+      "price": "$60"
     },
     {
       "name": "Haircut & Traditional Shave",
       "price": "$75",
-      "desc": "Any haircut plus a clean razor shave with hot towel, lather and steam.",
-      "source": "Booksy, MartyTheBarber"
+      "desc": "Any haircut plus a clean razor shave with hot towel, lather and steam."
     },
     {
       "name": "Haircut w/ Nose Wax",
-      "price": "$50",
-      "source": "Booksy, MartyTheBarber"
+      "price": "$50"
     },
     {
       "name": "Traditional Shave",
       "price": "$40",
-      "desc": "Hot towel, steam, hot lather and straight razor.",
-      "source": "Booksy, MartyTheBarber"
+      "desc": "Hot towel, steam, hot lather and straight razor."
     },
     {
       "name": "Haircut & Shampoo",
-      "price": "$50",
-      "source": "Booksy, MartyTheBarber"
+      "price": "$50"
     },
     {
       "name": "The Full Service",
       "price": "$100",
-      "desc": "Haircut and traditional shave plus two extras (brow wax, nose wax, hot towel, shampoo or facial massage).",
-      "source": "Booksy, MartyTheBarber"
+      "desc": "Haircut and traditional shave plus two extras (brow wax, nose wax, hot towel, shampoo or facial massage)."
     },
     {
       "name": "Haircut / Shear Work (2\"+ off the top)",
       "price": "$50",
-      "desc": "Any length longer than an 8 guard, cut to the contour of the style you want.",
-      "source": "Booksy, MartyTheBarber"
+      "desc": "Any length longer than an 8 guard, cut to the contour of the style you want."
     },
     {
       "name": "LE / FD / Military",
-      "price": "$40",
-      "source": "Booksy, MartyTheBarber"
+      "price": "$40"
     },
     {
       "name": "Senior Haircut (65+)",
-      "price": "$30",
-      "source": "Booksy, MartyTheBarber"
+      "price": "$30"
     },
     {
-      "name": "Head Shave",
-      "source": "Yelp services list"
+      "name": "Head Shave"
     },
     {
-      "name": "Children's Cut",
-      "source": "Yelp services list (prices vary by barber on Booksy)"
+      "name": "Children's Cut"
     },
     {
-      "name": "Neck Trim",
-      "source": "Yelp services list"
+      "name": "Neck Trim"
     },
     {
-      "name": "Line Up",
-      "source": "Yelp services list"
+      "name": "Line Up"
     }
   ],
-  "servicesNote": "Prices as listed on Booksy in October 2026 and may change. Yelp-listed services show no price online.",
+  "servicesNote": "Prices may change. Services without a price vary by barber, so check when you book.",
   "teamTitle": "The crew",
-  "teamIntro": "Barbers currently listed on the shop's Booksy page, with ratings, Instagram and menus as shown on Booksy.",
+  "teamIntro": "Pick your barber and book online.",
   "team": [
     {
       "name": "MartyTheBarber",
@@ -150,7 +136,6 @@
       "reviewCount": 621,
       "url": "https://booksy.com/en-us/263621_martythebarber_barber-shop_134729_vacaville",
       "cta": "Book Marty",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut",
@@ -207,7 +192,6 @@
       "bio": "Offering well blended, professional haircuts of all lengths for all genders and ages",
       "url": "https://booksy.com/en-us/658054_hercuts_barber-shop_134729_vacaville",
       "cta": "Book Viv",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut",
@@ -262,7 +246,6 @@
       "reviewCount": 140,
       "url": "https://booksy.com/en-us/1273269_smoovehud_barber-shop_134729_vacaville",
       "cta": "Book Hudson",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut (includes facial hair)",
@@ -289,7 +272,6 @@
       "reviewCount": 137,
       "url": "https://booksy.com/en-us/593463_losblendzz_barber-shop_134729_vacaville",
       "cta": "Book Carlos",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut",
@@ -322,7 +304,6 @@
       "bio": "Here too bring you the best quality service and haircuts!",
       "url": "https://booksy.com/en-us/1244424_fadezbyeli-martysbarbershop_barber-shop_134729_vacaville",
       "cta": "Book Eli",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Men's haircut",
@@ -362,7 +343,6 @@
       "reviewCount": 91,
       "url": "https://booksy.com/en-us/1221111_foofades_barber-shop_134729_vacaville",
       "cta": "Book FooFades",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Male haircut",
@@ -394,7 +374,6 @@
       "reviewCount": 91,
       "url": "https://booksy.com/en-us/966835_cutsbylyric_barber-shop_134729_vacaville",
       "cta": "Book Lyric",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Full cut/no face",
@@ -443,7 +422,6 @@
       "reviewCount": 52,
       "url": "https://booksy.com/en-us/966669_joe-big-money-lopez_barber-shop_134729_vacaville",
       "cta": "Book Joe",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut (bald or gentleman’s) / basic bald fade",
@@ -487,7 +465,6 @@
       "reviewCount": 23,
       "url": "https://booksy.com/en-us/1694168_thatboy-reezy_barber-shop_134729_vacaville",
       "cta": "Book Jared",
-      "servicesSource": "Booksy",
       "services": [
         {
           "name": "Haircut",
@@ -547,7 +524,6 @@
       "alt": "Barbers at the shop entrance"
     }
   ],
-  "galleryNote": "Photos from the shop's public Booksy and business listings.",
   "reviews": [
     {
       "text": "Marty’s Barbershop delivers excellent service in a professional and welcoming environment. Marty is highly skilled, consistent and provides great hospitality. My Barber, Foofades is also outstanding, with great attention to detail and overall an amazing guy to talk to.",
@@ -650,7 +626,7 @@
       "closed": true
     }
   ],
-  "hoursNote": "Walk-in hours from Google. Per Booksy, Sundays are by appointment only.",
+  "hoursNote": "Sundays are by appointment only.",
   "finalCta": {
     "title": "Look good. Feel good.",
     "text": "Book your barber on Booksy in under a minute."
@@ -671,69 +647,63 @@
       "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
     }
   ],
-  "reviewsNote": "Quoted word for word from public Google and Booksy reviews. Google doesn't show reviewer names in the public excerpts we used. Booksy reviews come from confirmed clients.",
   "amenities": [
     {
       "label": "Book online",
-      "note": "Every barber takes appointments on Booksy"
+      "note": "Every barber takes appointments online"
     },
     {
-      "label": "Sundays by appointment only",
-      "note": "Per Booksy"
+      "label": "Sundays by appointment only"
     },
     {
-      "label": "Wheelchair accessible",
-      "note": "Per Yelp and Booksy"
+      "label": "Wheelchair accessible"
     },
     {
-      "label": "Credit cards accepted",
-      "note": "Per Yelp"
+      "label": "Credit cards accepted"
     },
     {
-      "label": "Free Wi-Fi",
-      "note": "Per Yelp and Booksy"
+      "label": "Free Wi-Fi"
     },
     {
       "label": "Parking space",
-      "note": "Listed on barbers’ Booksy pages; Yelp also lists bike parking"
+      "note": "Bike parking too"
     },
     {
-      "label": "Child-friendly",
-      "note": "Listed on barbers’ Booksy pages"
+      "label": "Child-friendly"
     },
     {
       "label": "Senior & military pricing",
-      "note": "Several barbers list 65+ and military/first responder prices on Booksy"
+      "note": "Several barbers offer 65+ and military/first responder prices"
     }
   ],
   "faq": [
     {
       "q": "Do I need an appointment?",
-      "a": "You can book any of us online on Booksy. Per Booksy, Sundays are appointments only. Our weekday and Saturday walk-in hours are listed on Google."
+      "a": "You can book any of us online. Sundays are by appointment only, and walk-ins are welcome during our weekday and Saturday hours."
     },
     {
       "q": "How much is a haircut?",
-      "a": "On Booksy, a standard haircut runs $40–$50 depending on the barber, as of October 2026. Check Booksy for current prices."
+      "a": "A standard haircut runs $40–$50, depending on the barber. Check your barber's booking page for current prices."
     },
     {
       "q": "Do you offer senior or military discounts?",
-      "a": "Several of our barbers list senior (65+) cuts at $30 and military/first responder cuts at $35–$40 on Booksy."
+      "a": "Yes. Several of our barbers offer senior (65+) cuts at $30 and military/first responder cuts at $35–$40."
     },
     {
       "q": "Do you do hot towel shaves?",
-      "a": "We sure do. MartyTheBarber lists a traditional shave at $40 and a haircut plus traditional shave with hot towel at $75. Viviana and Joe also list traditional razor shaves."
+      "a": "We sure do. Marty does a traditional shave for $40, and a haircut plus traditional shave with hot towel for $75. Viviana and Joe also do traditional razor shaves."
     },
     {
       "q": "Do you take cards?",
-      "a": "Yes, we take cards, per our Yelp listing."
+      "a": "Yes, we take cards."
     },
     {
       "q": "Is there Wi-Fi and accessible access?",
-      "a": "Yes. Yelp and Booksy list free Wi-Fi and wheelchair accessibility for our shop."
+      "a": "Yes. We have free Wi-Fi, and the shop is wheelchair accessible."
     },
     {
       "q": "What are the hours?",
-      "a": "We're open Mon–Fri 9 AM–6 PM and Sat 9 AM–3 PM per Google. Sundays are by appointment only per Booksy."
+      "a": "We're open Mon–Fri 9 AM–6 PM and Sat 9 AM–3 PM. Sundays are by appointment only."
     }
   ],
   "socials": [
