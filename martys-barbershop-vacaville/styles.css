@@ -9,7 +9,7 @@ h1,h2,h3{font-family:var(--font-head);line-height:1.05;margin:0 0 .4em;letter-sp
 h2{font-size:clamp(1.9rem,4.5vw,2.8rem);text-transform:var(--head-case,none)}
 h3{font-size:1.2rem}
 .wrap{width:min(1120px,100% - 2.5rem);margin-inline:auto}
-.skip{position:absolute;left:-9999px}.skip:focus{left:1rem;top:1rem;z-index:99;background:#fff;color:#000;padding:.5rem 1rem}
+.skip{position:absolute;top:0;inset-inline-start:0;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.skip:focus{width:auto;height:auto;clip-path:none;inset-inline-start:1rem;top:1rem;z-index:99;background:#fff;color:#000;padding:.5rem 1rem}
 .kicker{color:var(--accent);font-weight:700;text-transform:uppercase;letter-spacing:.18em;font-size:.78rem;margin:0 0 .5rem}
 .section{padding:clamp(3.5rem,8vw,6rem) 0}
 .section.alt{background:var(--surface)}
@@ -30,7 +30,7 @@ h3{font-size:1.2rem}
 /* top bar */
 .topbar{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .topbar-in{display:flex;align-items:center;gap:1rem;height:64px}
-.brand{display:flex;align-items:center;gap:.6rem;text-decoration:none;font-family:var(--font-head);font-size:1.25rem;font-weight:700;text-transform:var(--head-case,none);letter-spacing:var(--head-tracking,0);margin-right:auto}
+.brand{display:flex;align-items:center;gap:.6rem;text-decoration:none;font-family:var(--font-head);font-size:1.25rem;font-weight:700;text-transform:var(--head-case,none);letter-spacing:var(--head-tracking,0);margin-inline-end:auto}
 .brand-mark{width:34px;height:34px;border-radius:8px;display:grid;place-items:center;background:var(--accent);color:var(--accent-ink);font-size:1rem}
 .nav{display:none;gap:1.5rem}
 .nav a{text-decoration:none;color:var(--muted);font-weight:600;font-size:.95rem}.nav a:hover{color:var(--text)}
@@ -114,9 +114,9 @@ address{font-style:normal;font-size:1.1rem}
 .phone-link{font-size:1.4rem;font-weight:800;text-decoration:none;color:var(--accent)}
 .hours{width:100%;border-collapse:collapse;margin-top:1rem;max-width:420px}
 .hours td{padding:.55rem .25rem;border-bottom:1px solid var(--line)}
-.hours td:last-child{text-align:right;color:var(--muted)}
+.hours td:last-child{text-align:end;color:var(--muted)}
 .hours tr.today td{font-weight:800;color:var(--text)}
-.hours tr.today td:first-child::after{content:" · today";color:var(--accent);font-size:.8rem}
+.hours tr.today td:first-child::after{content:" · " var(--today-label,"today");color:var(--accent);font-size:.8rem}
 .map{border-radius:calc(var(--radius) * 2);overflow:hidden;min-height:340px;border:1px solid var(--line);background:var(--surface)}
 .map iframe{width:100%;height:100%;min-height:340px;border:0;display:block}
 
@@ -168,7 +168,7 @@ address{font-style:normal;font-size:1.1rem}
 .amenities li b::before{content:"✓ ";color:var(--accent)}
 .amenities li span{color:var(--muted);font-size:.85rem}
 .press{display:grid;gap:1rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
-.press-item{margin:0;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:var(--radius);padding:1.1rem 1.2rem}
+.press-item{margin:0;background:var(--card);border:1px solid var(--line);border-inline-start:4px solid var(--accent);border-radius:var(--radius);padding:1.1rem 1.2rem}
 .press-item blockquote{margin:0 0 .6rem;font-size:1.02rem;line-height:1.5}
 .press-item figcaption{font-size:.85rem;color:var(--muted)}
 .press-item a,.review figcaption a,.rating-card a{color:var(--accent);font-weight:700;text-decoration:none}
@@ -241,3 +241,28 @@ address{font-style:normal;font-size:1.1rem}
 @media(max-width:600px){.menu-img img{aspect-ratio:16/9}.menu-cta .btn{flex:1 1 100%;justify-content:center}}
 .menu-card img{aspect-ratio:2/1}
 .menu-body.inline{padding:0}
+
+/* ---------- languages ---------- */
+.lang-pick{position:relative;display:inline-flex;align-items:center;gap:.3rem;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.35rem .6rem;background:var(--card);flex:none}
+.lang-pick svg{width:16px;height:16px;flex:none}
+.lang-pick select{appearance:none;-webkit-appearance:none;background:transparent;border:0;color:var(--text);font:600 .85rem/1.2 var(--font-body);padding:0 .1rem;cursor:pointer;max-width:7.5rem}
+.lang-pick select:focus{outline:none}.lang-pick:focus-within{outline:2px solid var(--accent);outline-offset:2px}
+.lang-pick select option{color:#111;background:#fff}
+.i18n-wait body{visibility:hidden}
+a.rating-badge{color:inherit;text-decoration:none}a.rating-badge:hover{text-decoration:underline}.rating-badge .ext{font-size:.8em;opacity:.8;margin-inline-start:.3rem}
+a.fact{text-decoration:none;color:inherit}a.fact:hover b{text-decoration:underline}
+.highlights a{color:inherit;text-underline-offset:3px}
+/* system font fallbacks so every script renders (display fonts are Latin-only) */
+:root{--sys-fallback:"Noto Sans","Noto Sans SC","Noto Sans CJK SC","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans Gurmukhi","Raavi","Noto Sans Devanagari","Kohinoor Devanagari","Nirmala UI","Mangal","Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic","Noto Sans Arabic","Noto Naskh Arabic","Geeza Pro","Segoe UI",system-ui,sans-serif}
+html:is([lang=vi],[lang=zh],[lang=pa],[lang=hi],[lang=ko],[lang=ar]){--font-head:"Inter",var(--sys-fallback);--font-body:"Inter",var(--sys-fallback);--head-tracking:0}
+html[lang=zh]{--font-head:"Inter","Noto Sans SC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",var(--sys-fallback);--font-body:"Inter","Noto Sans SC","Noto Sans CJK SC","PingFang SC","Microsoft YaHei",var(--sys-fallback)}
+html[lang=ko]{--font-head:"Inter","Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic",var(--sys-fallback);--font-body:"Inter","Noto Sans KR","Noto Sans CJK KR","Apple SD Gothic Neo","Malgun Gothic",var(--sys-fallback)}
+html[lang=ar] *{letter-spacing:0!important}
+html:is([lang=pa],[lang=hi]) body{line-height:1.75}
+html[lang=es]{--today-label:"hoy"}html[lang=tl]{--today-label:"ngayon"}html[lang=vi]{--today-label:"hôm nay"}html[lang=zh]{--today-label:"今天"}html[lang=pa]{--today-label:"ਅੱਜ"}html[lang=hi]{--today-label:"आज"}html[lang=ko]{--today-label:"오늘"}html[lang=ar]{--today-label:"اليوم"}
+/* RTL: phone numbers, addresses and prices stay left-to-right inside Arabic text */
+[dir=rtl] a[href^="tel:"],[dir=rtl] .menu-price,[dir=rtl] .price{direction:ltr;unicode-bidi:isolate}
+[dir=rtl] address,[dir=rtl] .footer-in>div:first-child{unicode-bidi:plaintext;text-align:start}
+html:is([lang=pa],[lang=hi],[lang=ar],[lang=vi]) :is(h1,h2,h3){line-height:1.35}
+@media(max-width:600px){.btn{white-space:normal;text-align:center;max-width:100%}}
+@media(max-width:600px){.brand{font-size:1.05rem;line-height:1.15;min-width:0;gap:.5rem}.brand>span:last-child{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}}

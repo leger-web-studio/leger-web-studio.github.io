@@ -267,5 +267,1176 @@
   "finalCta": {
     "title": "Ready for a yard you'll love?",
     "text": "Call Nick's team at (707) 590-0660 to talk through your project."
+  },
+  "yelpUrl": "https://www.yelp.com/biz/vizcay-landscaping-vacaville-3#reviews",
+  "i18n": {
+    "es": {
+      "seoTitle": "Vizcay Landscaping | Césped, adoquines y diseño de jardines en Vacaville, CA",
+      "description": "Vizcay Landscaping, contratista de jardinería en Vacaville que atiende Vacaville y Dixon. Césped artificial, adoquines, riego, pasto, plantas y diseño de jardines. Calificación de 5.0 estrellas (58 reseñas). (707) 590-0660.",
+      "eyebrow": "Jardinería · Vacaville y Dixon",
+      "tagline": "Transformamos jardines delanteros y traseros: césped artificial, adoquines, riego, plantas y diseños resistentes a la sequía, de la mano de Nick y su equipo.",
+      "servicesKicker": "Servicios",
+      "servicesTitle": "Lo que hacemos",
+      "servicesNote": "Cada jardín es diferente, así que no tenemos una lista de precios publicada. Llama al (707) 590-0660 para una cotización.",
+      "amenitiesTitle": "Bueno saber",
+      "galleryTitle": "Jardines recientes",
+      "hoursNote": "Llama para una cotización. Trabajamos a domicilio, no tenemos local.",
+      "highlights": [
+        "5.0★ de 58 reseñas",
+        "Césped artificial y pasto",
+        "Adoquines y obra exterior",
+        "Riego",
+        "Diseño de jardines",
+        "Obra limpia todos los días"
+      ],
+      "about": {
+        "kicker": "El equipo",
+        "title": "Jardines que los vecinos se detienen a ver.",
+        "imageAlt": "Jardín delantero con plantas resistentes a la sequía",
+        "body": [
+          "Vizcay Landscaping es un contratista de jardinería con sede en Vacaville que atiende Vacaville, Dixon y los alrededores del condado de Solano. Nick Vizcay y su equipo se encargan de proyectos completos de jardín delantero y trasero, desde la demolición y el retiro de concreto hasta adoquines, riego, césped, plantas y corteza.",
+          "Tenemos 5 estrellas en 58 reseñas. Nuestros clientes destacan nuestra buena comunicación, la puntualidad del equipo, las ideas de diseño y que dejamos los jardines limpios y sin escombros al final de cada día."
+        ],
+        "facts": [
+          {
+            "label": "58 reseñas"
+          },
+          {
+            "value": "57 de 58",
+            "label": "Reseñas de cinco estrellas"
+          },
+          {
+            "value": "Lun–Vie",
+            "label": "7 AM–7 PM"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "Diseño de jardines",
+          "desc": "Te ayudamos a afinar tus ideas, con sugerencias de diseño que quizá no habías considerado."
+        },
+        {
+          "name": "Césped artificial",
+          "desc": "Césped para jardines delanteros, traseros y áreas para perros."
+        },
+        {
+          "name": "Instalación de pasto"
+        },
+        {
+          "name": "Instalación de adoquines",
+          "desc": "Patios y caminos de adoquín."
+        },
+        {
+          "name": "Instalación de riego"
+        },
+        {
+          "name": "Instalación de plantas y corteza",
+          "desc": "Incluidos jardines resistentes a la sequía."
+        },
+        {
+          "name": "Renovación completa de jardines",
+          "desc": "Demolición y retiro de concreto, pasto y plantas viejas, y luego la nueva obra."
+        },
+        {
+          "name": "Iluminación de jardines"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "Atendemos Vacaville y Dixon",
+          "note": "Condado de Solano"
+        },
+        {
+          "label": "Ideas de diseño",
+          "note": "Te ayudamos a afinar tus ideas"
+        },
+        {
+          "label": "Obra limpia",
+          "note": "Dejamos el jardín sin escombros cada día"
+        },
+        {
+          "label": "Atención de emergencias"
+        }
+      ],
+      "faq": [
+        {
+          "q": "¿Qué zonas atienden?",
+          "a": "Atendemos Vacaville y Dixon, en el condado de Solano."
+        },
+        {
+          "q": "¿Qué tipo de proyectos hacen?",
+          "a": "Diseño de jardines, césped artificial, instalación de pasto, adoquines, riego, plantas y corteza, hasta renovaciones completas de jardín delantero y trasero que empiezan retirando concreto, pasto y plantas viejas."
+        },
+        {
+          "q": "¿Hacen jardines resistentes a la sequía?",
+          "a": "¡Sí! Hemos transformado jardines delanteros en paisajes resistentes a la sequía."
+        },
+        {
+          "q": "¿Cómo pido una cotización?",
+          "a": "Llámanos al (707) 590-0660, de lunes a viernes de 7 AM a 7 PM."
+        },
+        {
+          "q": "¿Con quién voy a trabajar?",
+          "a": "Trabajarás directamente conmigo, Nick Vizcay, y con mi equipo, con buena comunicación de principio a fin."
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "Césped en jardín delantero junto a la entrada de autos"
+        },
+        {
+          "alt": "Jardín delantero iluminado al atardecer"
+        },
+        {
+          "alt": "Césped artificial en el patio trasero"
+        },
+        {
+          "alt": "Arriate con corteza y piedra"
+        },
+        {
+          "alt": "Borde curvo de pasto junto a un camino"
+        },
+        {
+          "alt": "Instalación de pasto en jardín delantero"
+        },
+        {
+          "alt": "Plantas resistentes a la sequía"
+        },
+        {
+          "alt": "Jardín delantero terminado con césped"
+        }
+      ],
+      "finalCta": {
+        "title": "¿Listo para un jardín que te encante?",
+        "text": "Llama al equipo de Nick al (707) 590-0660 para platicar sobre tu proyecto."
+      },
+      "cta": {
+        "label": "Llama para cotizar",
+        "short": "Cotizar"
+      }
+    },
+    "tl": {
+      "seoTitle": "Vizcay Landscaping | Turf, Pavers at Landscape Design sa Vacaville, CA",
+      "description": "Vizcay Landscaping, landscape contractor sa Vacaville na nagseserbisyo sa Vacaville at Dixon. Artificial turf, pavers, irigasyon, damuhan, halaman at landscape design. May 5.0 na bituin (58 review). (707) 590-0660.",
+      "eyebrow": "Landscaping · Vacaville at Dixon",
+      "tagline": "Pagbabago ng harapan at likod-bahay: artificial turf, pavers, irigasyon, halaman at disenyong matibay sa tagtuyot, gawa ni Nick at ng kanyang crew.",
+      "servicesKicker": "Mga serbisyo",
+      "servicesTitle": "Ang ginagawa namin",
+      "servicesNote": "Iba-iba ang bawat bakuran, kaya walang nakapaskil na listahan ng presyo. Tumawag sa (707) 590-0660 para sa quote.",
+      "amenitiesTitle": "Dapat mong malaman",
+      "galleryTitle": "Mga bagong bakuran",
+      "hoursNote": "Tumawag para sa quote. Pumupunta kami sa inyo, wala kaming storefront.",
+      "highlights": [
+        "5.0★ mula sa 58 review",
+        "Artificial turf at damuhan",
+        "Pavers at hardscape",
+        "Irigasyon",
+        "Landscape design",
+        "Malinis na job site araw-araw"
+      ],
+      "about": {
+        "kicker": "Ang crew",
+        "title": "Mga bakurang hinihintuan ng mga kapitbahay para tingnan.",
+        "imageAlt": "Harapang may mga halamang matibay sa tagtuyot",
+        "body": [
+          "Ang Vizcay Landscaping ay isang landscape contractor na nakabase sa Vacaville, na nagseserbisyo sa Vacaville, Dixon at mga kalapit na lugar sa Solano County. Si Nick Vizcay at ang kanyang crew ang humahawak ng buong proyekto sa harapan at likod-bahay, mula sa demolisyon at pagtanggal ng lumang semento hanggang sa pavers, irigasyon, turf, halaman at bark.",
+          "May 5 bituin kami sa 58 review. Pinupuri ng aming mga customer ang maayos naming komunikasyon, ang crew na laging nasa oras, ang mahahalagang mungkahi sa disenyo at ang bakurang malinis at walang kalat sa pagtatapos ng bawat araw."
+        ],
+        "facts": [
+          {
+            "label": "58 review"
+          },
+          {
+            "value": "57 sa 58",
+            "label": "Five-star na review"
+          },
+          {
+            "value": "Lun–Biy",
+            "label": "7 AM–7 PM"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "Landscape design",
+          "desc": "Tulong sa pagpino ng mga ideya mo, kasama ang mga mungkahing disenyo na baka hindi mo pa naiisip."
+        },
+        {
+          "name": "Artificial turf",
+          "desc": "Turf para sa harapan, likod-bahay at dog run."
+        },
+        {
+          "name": "Pagkakabit ng damuhan at grass"
+        },
+        {
+          "name": "Pagkakabit ng pavers",
+          "desc": "Mga patio at daanan na pavers."
+        },
+        {
+          "name": "Pagkakabit ng irigasyon"
+        },
+        {
+          "name": "Pagkakabit ng halaman at bark",
+          "desc": "Kasama ang mga landscape na matibay sa tagtuyot."
+        },
+        {
+          "name": "Buong renovation ng bakuran",
+          "desc": "Demolisyon at pagtanggal ng lumang semento, damuhan at halaman, saka ang bagong gawa."
+        },
+        {
+          "name": "Landscape lighting"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "Nagseserbisyo sa Vacaville at Dixon",
+          "note": "Solano County"
+        },
+        {
+          "label": "Mungkahi sa disenyo",
+          "note": "Tinutulungan ka naming pinuhin ang mga ideya mo"
+        },
+        {
+          "label": "Malinis na job site",
+          "note": "Iniiwan naming walang kalat ang bakuran araw-araw"
+        },
+        {
+          "label": "Tulong sa emergency"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Saang mga lugar kayo nagseserbisyo?",
+          "a": "Nagseserbisyo kami sa Vacaville at Dixon sa Solano County."
+        },
+        {
+          "q": "Anong klaseng proyekto ang ginagawa ninyo?",
+          "a": "Landscape design, artificial turf, pagkakabit ng damuhan, pavers, irigasyon, halaman at bark, hanggang sa buong renovation ng harapan at likod-bahay na nagsisimula sa pagtanggal ng lumang semento, damuhan at halaman."
+        },
+        {
+          "q": "Gumagawa ba kayo ng landscaping na matibay sa tagtuyot?",
+          "a": "Oo! Nagawa na naming landscape na matibay sa tagtuyot ang mga harapang bakuran."
+        },
+        {
+          "q": "Paano ako makakakuha ng quote?",
+          "a": "Tawagan kami sa (707) 590-0660, Lunes–Biyernes 7 AM–7 PM."
+        },
+        {
+          "q": "Sino ang makakatrabaho ko?",
+          "a": "Direkta mo akong makakatrabaho, si Nick Vizcay, kasama ang crew ko, na may maayos na komunikasyon mula simula hanggang matapos."
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "Turf sa harapan sa tabi ng driveway"
+        },
+        {
+          "alt": "Harapang bakuran na may ilaw sa takipsilim"
+        },
+        {
+          "alt": "Artificial turf sa likod-bahay"
+        },
+        {
+          "alt": "Taniman na may bark at bato"
+        },
+        {
+          "alt": "Pakurbang gilid ng damuhan sa tabi ng daanan"
+        },
+        {
+          "alt": "Pagkakabit ng damuhan sa harapan"
+        },
+        {
+          "alt": "Mga halamang matibay sa tagtuyot"
+        },
+        {
+          "alt": "Tapos na harapang may turf"
+        }
+      ],
+      "finalCta": {
+        "title": "Handa ka na ba sa bakurang magugustuhan mo?",
+        "text": "Tawagan ang team ni Nick sa (707) 590-0660 para pag-usapan ang proyekto mo."
+      },
+      "cta": {
+        "label": "Tumawag para sa quote",
+        "short": "Quote"
+      }
+    },
+    "vi": {
+      "seoTitle": "Vizcay Landscaping | Cỏ nhân tạo, gạch lát & thiết kế sân vườn ở Vacaville, CA",
+      "description": "Vizcay Landscaping, nhà thầu cảnh quan ở Vacaville, phục vụ Vacaville và Dixon. Cỏ nhân tạo, gạch lát, hệ thống tưới, bãi cỏ, cây trồng và thiết kế sân vườn. Được đánh giá 5.0 sao (58 đánh giá). (707) 590-0660.",
+      "eyebrow": "Cảnh quan sân vườn · Vacaville & Dixon",
+      "tagline": "Làm mới sân trước và sân sau: cỏ nhân tạo, gạch lát, hệ thống tưới, cây trồng và thiết kế chịu hạn, do Nick và đội của anh thực hiện.",
+      "servicesKicker": "Dịch vụ",
+      "servicesTitle": "Những việc chúng tôi làm",
+      "servicesNote": "Mỗi khu sân mỗi khác, nên chúng tôi không đăng bảng giá. Gọi (707) 590-0660 để được báo giá.",
+      "amenitiesTitle": "Thông tin hữu ích",
+      "galleryTitle": "Sân vườn gần đây",
+      "hoursNote": "Gọi để được báo giá. Chúng tôi đến tận nơi, không có cửa tiệm.",
+      "highlights": [
+        "5.0★ từ 58 đánh giá",
+        "Cỏ nhân tạo & bãi cỏ",
+        "Gạch lát & công trình ngoài trời",
+        "Hệ thống tưới",
+        "Thiết kế sân vườn",
+        "Công trường sạch sẽ mỗi ngày"
+      ],
+      "about": {
+        "kicker": "Đội thợ",
+        "title": "Những khu sân khiến hàng xóm phải dừng lại ngắm.",
+        "imageAlt": "Sân trước trồng cây chịu hạn",
+        "body": [
+          "Vizcay Landscaping là nhà thầu cảnh quan có trụ sở ở Vacaville, phục vụ Vacaville, Dixon và khu vực lân cận thuộc quận Solano. Nick Vizcay và đội của anh nhận trọn gói sân trước và sân sau, từ phá dỡ và dọn bê tông cũ đến gạch lát, hệ thống tưới, cỏ, cây trồng và vỏ cây phủ gốc.",
+          "Chúng tôi được 5 sao trên 58 đánh giá. Khách hàng khen chúng tôi trao đổi tốt, đội thợ đúng giờ, góp ý thiết kế giá trị và để lại khu sân sạch sẽ, không rác vụn vào cuối mỗi ngày."
+        ],
+        "facts": [
+          {
+            "label": "58 đánh giá"
+          },
+          {
+            "value": "57 trên 58",
+            "label": "Đánh giá năm sao"
+          },
+          {
+            "value": "T2–T6",
+            "label": "7 giờ sáng–7 giờ tối"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "Thiết kế sân vườn",
+          "desc": "Giúp bạn hoàn thiện ý tưởng, với những gợi ý thiết kế có thể bạn chưa nghĩ tới."
+        },
+        {
+          "name": "Cỏ nhân tạo",
+          "desc": "Cỏ cho sân trước, sân sau và khu chạy cho chó."
+        },
+        {
+          "name": "Trồng bãi cỏ"
+        },
+        {
+          "name": "Lát gạch",
+          "desc": "Sân hiên và lối đi lát gạch."
+        },
+        {
+          "name": "Lắp hệ thống tưới"
+        },
+        {
+          "name": "Trồng cây & phủ vỏ cây",
+          "desc": "Bao gồm cả cảnh quan chịu hạn."
+        },
+        {
+          "name": "Cải tạo toàn bộ sân",
+          "desc": "Phá dỡ và dọn bê tông, bãi cỏ và cây cũ, sau đó thi công mới."
+        },
+        {
+          "name": "Đèn chiếu sáng sân vườn"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "Phục vụ Vacaville & Dixon",
+          "note": "Quận Solano"
+        },
+        {
+          "label": "Góp ý thiết kế",
+          "note": "Chúng tôi giúp bạn hoàn thiện ý tưởng"
+        },
+        {
+          "label": "Công trường sạch sẽ",
+          "note": "Mỗi ngày chúng tôi để sân sạch, không rác vụn"
+        },
+        {
+          "label": "Hỗ trợ khẩn cấp"
+        }
+      ],
+      "faq": [
+        {
+          "q": "Các anh phục vụ những khu vực nào?",
+          "a": "Chúng tôi phục vụ Vacaville và Dixon ở quận Solano."
+        },
+        {
+          "q": "Các anh làm những loại công trình nào?",
+          "a": "Thiết kế sân vườn, cỏ nhân tạo, trồng bãi cỏ, lát gạch, hệ thống tưới, cây trồng và vỏ cây, cho đến cải tạo toàn bộ sân trước và sân sau, bắt đầu từ việc dọn bê tông, bãi cỏ và cây cũ."
+        },
+        {
+          "q": "Các anh có làm cảnh quan chịu hạn không?",
+          "a": "Có! Chúng tôi đã biến nhiều sân trước thành cảnh quan chịu hạn."
+        },
+        {
+          "q": "Làm sao để được báo giá?",
+          "a": "Gọi cho chúng tôi theo số (707) 590-0660, Thứ Hai–Thứ Sáu 7 giờ sáng–7 giờ tối."
+        },
+        {
+          "q": "Tôi sẽ làm việc với ai?",
+          "a": "Bạn sẽ làm việc trực tiếp với tôi, Nick Vizcay, và đội của tôi, trao đổi rõ ràng từ đầu đến cuối."
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "Cỏ sân trước dọc lối xe vào"
+        },
+        {
+          "alt": "Sân trước lên đèn lúc chạng vạng"
+        },
+        {
+          "alt": "Cỏ nhân tạo ở sân sau"
+        },
+        {
+          "alt": "Bồn cây phủ vỏ cây và đá"
+        },
+        {
+          "alt": "Mép cỏ uốn cong dọc lối đi"
+        },
+        {
+          "alt": "Trồng bãi cỏ sân trước"
+        },
+        {
+          "alt": "Cây trồng chịu hạn"
+        },
+        {
+          "alt": "Sân trước lát cỏ đã hoàn thiện"
+        }
+      ],
+      "finalCta": {
+        "title": "Sẵn sàng có một khu sân bạn yêu thích?",
+        "text": "Gọi cho đội của Nick theo số (707) 590-0660 để bàn về công trình của bạn."
+      },
+      "cta": {
+        "label": "Gọi để báo giá",
+        "short": "Báo giá"
+      }
+    },
+    "zh": {
+      "seoTitle": "Vizcay Landscaping | 加州瓦卡维尔草坪、铺砖与园林设计",
+      "description": "Vizcay Landscaping，瓦卡维尔园林承包商，服务瓦卡维尔和迪克森。人造草坪、铺砖、灌溉、草坪、植物和园林设计。评分 5.0 星（58 条评价）。(707) 590-0660。",
+      "eyebrow": "园林绿化 · 瓦卡维尔与迪克森",
+      "tagline": "前院和后院改造：人造草坪、铺砖、灌溉、植物和耐旱设计，由 Nick 和他的团队完成。",
+      "servicesKicker": "服务项目",
+      "servicesTitle": "我们的服务",
+      "servicesNote": "每个院子都不一样，所以没有公开价目表。请致电 (707) 590-0660 获取报价。",
+      "amenitiesTitle": "温馨提示",
+      "galleryTitle": "近期作品",
+      "hoursNote": "致电获取报价。上门服务，没有门店。",
+      "highlights": [
+        "58 条评价，5.0★",
+        "人造草坪与草地",
+        "铺砖与硬景观",
+        "灌溉",
+        "园林设计",
+        "每天保持工地整洁"
+      ],
+      "about": {
+        "kicker": "我们的团队",
+        "title": "邻居路过都要停下来看的院子。",
+        "imageAlt": "种满耐旱植物的前院",
+        "body": [
+          "Vizcay Landscaping 是一家总部位于瓦卡维尔的园林承包商，服务瓦卡维尔、迪克森及索拉诺县周边地区。Nick Vizcay 和他的团队承接完整的前院和后院项目，从拆除、清运旧混凝土，到铺砖、灌溉、草坪、植物和树皮覆盖。",
+          "我们在 58 条评价中获得 5 星。客户称赞我们沟通顺畅、团队准时、设计建议很有价值，而且每天收工时院子都干干净净、没有杂物。"
+        ],
+        "facts": [
+          {
+            "label": "58 条评价"
+          },
+          {
+            "value": "58 条中 57 条",
+            "label": "五星评价"
+          },
+          {
+            "value": "周一至周五",
+            "label": "上午 7 点至晚上 7 点"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "园林设计",
+          "desc": "帮你完善想法，提供你可能没想到的设计建议。"
+        },
+        {
+          "name": "人造草坪",
+          "desc": "适用于前院、后院和狗狗活动区的草坪。"
+        },
+        {
+          "name": "草坪铺设"
+        },
+        {
+          "name": "铺砖施工",
+          "desc": "铺砖露台和步道。"
+        },
+        {
+          "name": "灌溉系统安装"
+        },
+        {
+          "name": "植物种植与树皮覆盖",
+          "desc": "包括耐旱景观。"
+        },
+        {
+          "name": "整院翻新",
+          "desc": "拆除并清运旧混凝土、草坪和植物，然后重新施工。"
+        },
+        {
+          "name": "园林照明"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "服务瓦卡维尔与迪克森",
+          "note": "索拉诺县"
+        },
+        {
+          "label": "设计建议",
+          "note": "我们帮你完善想法"
+        },
+        {
+          "label": "工地整洁",
+          "note": "每天收工都清理干净"
+        },
+        {
+          "label": "紧急服务"
+        }
+      ],
+      "faq": [
+        {
+          "q": "你们服务哪些地区？",
+          "a": "我们服务索拉诺县的瓦卡维尔和迪克森。"
+        },
+        {
+          "q": "你们做哪些项目？",
+          "a": "园林设计、人造草坪、草坪铺设、铺砖、灌溉、植物和树皮覆盖，直到从清除旧混凝土、草坪和植物开始的整个前后院翻新。"
+        },
+        {
+          "q": "你们做耐旱园林吗？",
+          "a": "做！我们已经把不少前院改造成了耐旱景观。"
+        },
+        {
+          "q": "怎么获取报价？",
+          "a": "请致电 (707) 590-0660，周一至周五上午 7 点至晚上 7 点。"
+        },
+        {
+          "q": "我会和谁对接？",
+          "a": "你会直接和我——Nick Vizcay——以及我的团队合作，从头到尾沟通顺畅。"
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "车道旁的前院草坪"
+        },
+        {
+          "alt": "黄昏亮灯的前院景观"
+        },
+        {
+          "alt": "后院人造草坪"
+        },
+        {
+          "alt": "铺有树皮和石头的花坛"
+        },
+        {
+          "alt": "步道旁弯曲的草坪边缘"
+        },
+        {
+          "alt": "前院草坪铺设"
+        },
+        {
+          "alt": "耐旱植物种植"
+        },
+        {
+          "alt": "完工的前院草坪"
+        }
+      ],
+      "finalCta": {
+        "title": "想要一个你爱的院子吗？",
+        "text": "致电 Nick 的团队 (707) 590-0660，聊聊你的项目。"
+      },
+      "cta": {
+        "label": "致电获取报价",
+        "short": "报价"
+      }
+    },
+    "pa": {
+      "seoTitle": "Vizcay Landscaping | ਵਾਕਾਵਿਲ, CA ਵਿੱਚ ਘਾਹ, ਪੇਵਰ ਅਤੇ ਬਗ਼ੀਚਾ ਡਿਜ਼ਾਈਨ",
+      "description": "Vizcay Landscaping, ਵਾਕਾਵਿਲ ਦਾ ਲੈਂਡਸਕੇਪ ਠੇਕੇਦਾਰ, ਵਾਕਾਵਿਲ ਅਤੇ ਡਿਕਸਨ ਵਿੱਚ ਸੇਵਾ। ਨਕਲੀ ਘਾਹ, ਪੇਵਰ, ਸਿੰਚਾਈ, ਲਾਅਨ, ਪੌਦੇ ਅਤੇ ਬਗ਼ੀਚਾ ਡਿਜ਼ਾਈਨ। 5.0 ਸਟਾਰ ਰੇਟਿੰਗ (58 ਰਿਵਿਊ)। (707) 590-0660।",
+      "eyebrow": "ਲੈਂਡਸਕੇਪਿੰਗ · ਵਾਕਾਵਿਲ ਅਤੇ ਡਿਕਸਨ",
+      "tagline": "ਅਗਲੇ ਅਤੇ ਪਿਛਲੇ ਵਿਹੜੇ ਦਾ ਨਵਾਂ ਰੂਪ: ਨਕਲੀ ਘਾਹ, ਪੇਵਰ, ਸਿੰਚਾਈ, ਪੌਦੇ ਅਤੇ ਸੋਕਾ-ਸਹਿਣ ਵਾਲੇ ਡਿਜ਼ਾਈਨ, Nick ਅਤੇ ਉਸਦੀ ਟੀਮ ਵੱਲੋਂ।",
+      "servicesKicker": "ਸੇਵਾਵਾਂ",
+      "servicesTitle": "ਅਸੀਂ ਕੀ ਕਰਦੇ ਹਾਂ",
+      "servicesNote": "ਹਰ ਵਿਹੜਾ ਵੱਖਰਾ ਹੁੰਦਾ ਹੈ, ਇਸ ਲਈ ਕੋਈ ਕੀਮਤ ਸੂਚੀ ਨਹੀਂ ਪਾਈ। ਕੋਟੇਸ਼ਨ ਲਈ (707) 590-0660 'ਤੇ ਕਾਲ ਕਰੋ।",
+      "amenitiesTitle": "ਜਾਣਨ ਯੋਗ ਗੱਲਾਂ",
+      "galleryTitle": "ਨਵੇਂ ਵਿਹੜੇ",
+      "hoursNote": "ਕੋਟੇਸ਼ਨ ਲਈ ਕਾਲ ਕਰੋ। ਅਸੀਂ ਤੁਹਾਡੇ ਕੋਲ ਆਉਂਦੇ ਹਾਂ, ਕੋਈ ਦੁਕਾਨ ਨਹੀਂ।",
+      "highlights": [
+        "58 ਰਿਵਿਊਆਂ ਤੋਂ 5.0★",
+        "ਨਕਲੀ ਘਾਹ ਅਤੇ ਲਾਅਨ",
+        "ਪੇਵਰ ਅਤੇ ਹਾਰਡਸਕੇਪ",
+        "ਸਿੰਚਾਈ",
+        "ਬਗ਼ੀਚਾ ਡਿਜ਼ਾਈਨ",
+        "ਹਰ ਰੋਜ਼ ਸਾਫ਼ ਕੰਮ ਵਾਲੀ ਥਾਂ"
+      ],
+      "about": {
+        "kicker": "ਟੀਮ",
+        "title": "ਅਜਿਹੇ ਵਿਹੜੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਗੁਆਂਢੀ ਰੁਕ ਕੇ ਦੇਖਦੇ ਹਨ।",
+        "imageAlt": "ਸੋਕਾ-ਸਹਿਣ ਵਾਲੇ ਪੌਦਿਆਂ ਵਾਲਾ ਅਗਲਾ ਵਿਹੜਾ",
+        "body": [
+          "Vizcay Landscaping ਵਾਕਾਵਿਲ ਵਿੱਚ ਸਥਿਤ ਲੈਂਡਸਕੇਪ ਠੇਕੇਦਾਰ ਹੈ, ਜੋ ਵਾਕਾਵਿਲ, ਡਿਕਸਨ ਅਤੇ ਸੋਲਾਨੋ ਕਾਉਂਟੀ ਦੇ ਆਲੇ-ਦੁਆਲੇ ਸੇਵਾ ਦਿੰਦਾ ਹੈ। Nick Vizcay ਅਤੇ ਉਸਦੀ ਟੀਮ ਅਗਲੇ ਅਤੇ ਪਿਛਲੇ ਵਿਹੜੇ ਦੇ ਪੂਰੇ ਪ੍ਰੋਜੈਕਟ ਸੰਭਾਲਦੀ ਹੈ, ਢਾਹੁਣ ਅਤੇ ਪੁਰਾਣਾ ਕੰਕਰੀਟ ਹਟਾਉਣ ਤੋਂ ਲੈ ਕੇ ਪੇਵਰ, ਸਿੰਚਾਈ, ਘਾਹ, ਪੌਦੇ ਅਤੇ ਛਿੱਲ ਤੱਕ।",
+          "ਸਾਡੇ ਕੋਲ 58 ਰਿਵਿਊਆਂ ਵਿੱਚ 5 ਸਟਾਰ ਹਨ। ਸਾਡੇ ਗਾਹਕ ਸਾਡੀ ਵਧੀਆ ਗੱਲਬਾਤ, ਸਮੇਂ ਸਿਰ ਆਉਣ ਵਾਲੀ ਟੀਮ, ਕੀਮਤੀ ਡਿਜ਼ਾਈਨ ਸੁਝਾਵਾਂ ਅਤੇ ਹਰ ਦਿਨ ਦੇ ਅੰਤ ਵਿੱਚ ਸਾਫ਼-ਸੁਥਰੇ ਵਿਹੜੇ ਦੀ ਤਾਰੀਫ਼ ਕਰਦੇ ਹਨ।"
+        ],
+        "facts": [
+          {
+            "label": "58 ਰਿਵਿਊ"
+          },
+          {
+            "value": "58 ਵਿੱਚੋਂ 57",
+            "label": "ਪੰਜ-ਸਟਾਰ ਰਿਵਿਊ"
+          },
+          {
+            "value": "ਸੋਮ–ਸ਼ੁੱਕਰ",
+            "label": "ਸਵੇਰੇ 7–ਸ਼ਾਮ 7"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "ਬਗ਼ੀਚਾ ਡਿਜ਼ਾਈਨ",
+          "desc": "ਤੁਹਾਡੇ ਵਿਚਾਰਾਂ ਨੂੰ ਨਿਖਾਰਨ ਵਿੱਚ ਮਦਦ, ਅਜਿਹੇ ਡਿਜ਼ਾਈਨ ਸੁਝਾਵਾਂ ਨਾਲ ਜੋ ਸ਼ਾਇਦ ਤੁਸੀਂ ਸੋਚੇ ਨਾ ਹੋਣ।"
+        },
+        {
+          "name": "ਨਕਲੀ ਘਾਹ",
+          "desc": "ਅਗਲੇ ਵਿਹੜੇ, ਪਿਛਲੇ ਵਿਹੜੇ ਅਤੇ ਕੁੱਤਿਆਂ ਦੇ ਦੌੜਨ ਵਾਲੀ ਥਾਂ ਲਈ ਘਾਹ।"
+        },
+        {
+          "name": "ਲਾਅਨ ਅਤੇ ਘਾਹ ਲਗਾਉਣਾ"
+        },
+        {
+          "name": "ਪੇਵਰ ਲਗਾਉਣਾ",
+          "desc": "ਪੇਵਰ ਵਾਲੇ ਪੈਟੀਓ ਅਤੇ ਰਸਤੇ।"
+        },
+        {
+          "name": "ਸਿੰਚਾਈ ਲਗਾਉਣਾ"
+        },
+        {
+          "name": "ਪੌਦੇ ਅਤੇ ਛਿੱਲ ਲਗਾਉਣਾ",
+          "desc": "ਸੋਕਾ-ਸਹਿਣ ਵਾਲੇ ਲੈਂਡਸਕੇਪ ਸਮੇਤ।"
+        },
+        {
+          "name": "ਪੂਰੇ ਵਿਹੜੇ ਦੀ ਨਵੀਨੀਕਰਨ",
+          "desc": "ਪੁਰਾਣਾ ਕੰਕਰੀਟ, ਲਾਅਨ ਅਤੇ ਪੌਦੇ ਢਾਹੁਣਾ ਤੇ ਹਟਾਉਣਾ, ਫਿਰ ਨਵਾਂ ਕੰਮ।"
+        },
+        {
+          "name": "ਬਗ਼ੀਚੇ ਦੀ ਰੋਸ਼ਨੀ"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "ਵਾਕਾਵਿਲ ਅਤੇ ਡਿਕਸਨ ਵਿੱਚ ਸੇਵਾ",
+          "note": "ਸੋਲਾਨੋ ਕਾਉਂਟੀ"
+        },
+        {
+          "label": "ਡਿਜ਼ਾਈਨ ਸੁਝਾਅ",
+          "note": "ਅਸੀਂ ਤੁਹਾਡੇ ਵਿਚਾਰਾਂ ਨੂੰ ਨਿਖਾਰਦੇ ਹਾਂ"
+        },
+        {
+          "label": "ਸਾਫ਼ ਕੰਮ ਵਾਲੀ ਥਾਂ",
+          "note": "ਅਸੀਂ ਹਰ ਰੋਜ਼ ਵਿਹੜੇ ਨੂੰ ਮਲਬੇ ਤੋਂ ਸਾਫ਼ ਛੱਡਦੇ ਹਾਂ"
+        },
+        {
+          "label": "ਐਮਰਜੈਂਸੀ ਮਦਦ"
+        }
+      ],
+      "faq": [
+        {
+          "q": "ਤੁਸੀਂ ਕਿਹੜੇ ਇਲਾਕਿਆਂ ਵਿੱਚ ਸੇਵਾ ਦਿੰਦੇ ਹੋ?",
+          "a": "ਅਸੀਂ ਸੋਲਾਨੋ ਕਾਉਂਟੀ ਵਿੱਚ ਵਾਕਾਵਿਲ ਅਤੇ ਡਿਕਸਨ ਵਿੱਚ ਸੇਵਾ ਦਿੰਦੇ ਹਾਂ।"
+        },
+        {
+          "q": "ਤੁਸੀਂ ਕਿਹੋ ਜਿਹੇ ਪ੍ਰੋਜੈਕਟ ਕਰਦੇ ਹੋ?",
+          "a": "ਬਗ਼ੀਚਾ ਡਿਜ਼ਾਈਨ, ਨਕਲੀ ਘਾਹ, ਲਾਅਨ ਲਗਾਉਣਾ, ਪੇਵਰ, ਸਿੰਚਾਈ, ਪੌਦੇ ਅਤੇ ਛਿੱਲ, ਅਤੇ ਅਗਲੇ-ਪਿਛਲੇ ਵਿਹੜੇ ਦੀ ਪੂਰੀ ਨਵੀਨੀਕਰਨ ਜੋ ਪੁਰਾਣਾ ਕੰਕਰੀਟ, ਲਾਅਨ ਅਤੇ ਪੌਦੇ ਹਟਾਉਣ ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ।"
+        },
+        {
+          "q": "ਕੀ ਤੁਸੀਂ ਸੋਕਾ-ਸਹਿਣ ਵਾਲੀ ਲੈਂਡਸਕੇਪਿੰਗ ਕਰਦੇ ਹੋ?",
+          "a": "ਹਾਂ! ਅਸੀਂ ਕਈ ਅਗਲੇ ਵਿਹੜਿਆਂ ਨੂੰ ਸੋਕਾ-ਸਹਿਣ ਵਾਲੇ ਲੈਂਡਸਕੇਪ ਵਿੱਚ ਬਦਲਿਆ ਹੈ।"
+        },
+        {
+          "q": "ਮੈਨੂੰ ਕੋਟੇਸ਼ਨ ਕਿਵੇਂ ਮਿਲੇਗੀ?",
+          "a": "ਸਾਨੂੰ (707) 590-0660 'ਤੇ ਕਾਲ ਕਰੋ, ਸੋਮਵਾਰ–ਸ਼ੁੱਕਰਵਾਰ ਸਵੇਰੇ 7–ਸ਼ਾਮ 7।"
+        },
+        {
+          "q": "ਮੈਂ ਕਿਸ ਨਾਲ ਕੰਮ ਕਰਾਂਗਾ?",
+          "a": "ਤੁਸੀਂ ਸਿੱਧਾ ਮੇਰੇ, Nick Vizcay, ਅਤੇ ਮੇਰੀ ਟੀਮ ਨਾਲ ਕੰਮ ਕਰੋਗੇ, ਸ਼ੁਰੂ ਤੋਂ ਅਖ਼ੀਰ ਤੱਕ ਵਧੀਆ ਗੱਲਬਾਤ ਨਾਲ।"
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "ਡਰਾਈਵਵੇਅ ਦੇ ਨਾਲ ਅਗਲੇ ਵਿਹੜੇ ਦਾ ਘਾਹ"
+        },
+        {
+          "alt": "ਸ਼ਾਮ ਵੇਲੇ ਰੋਸ਼ਨੀ ਵਾਲਾ ਅਗਲਾ ਵਿਹੜਾ"
+        },
+        {
+          "alt": "ਪਿਛਲੇ ਵਿਹੜੇ ਦਾ ਨਕਲੀ ਘਾਹ"
+        },
+        {
+          "alt": "ਛਿੱਲ ਅਤੇ ਪੱਥਰ ਵਾਲੀ ਕਿਆਰੀ"
+        },
+        {
+          "alt": "ਰਸਤੇ ਦੇ ਨਾਲ ਮੁੜਵਾਂ ਲਾਅਨ ਕਿਨਾਰਾ"
+        },
+        {
+          "alt": "ਅਗਲੇ ਵਿਹੜੇ ਵਿੱਚ ਲਾਅਨ ਲਗਾਉਣਾ"
+        },
+        {
+          "alt": "ਸੋਕਾ-ਸਹਿਣ ਵਾਲੇ ਪੌਦੇ"
+        },
+        {
+          "alt": "ਤਿਆਰ ਘਾਹ ਵਾਲਾ ਅਗਲਾ ਵਿਹੜਾ"
+        }
+      ],
+      "finalCta": {
+        "title": "ਅਜਿਹੇ ਵਿਹੜੇ ਲਈ ਤਿਆਰ ਜੋ ਤੁਹਾਨੂੰ ਪਸੰਦ ਆਵੇ?",
+        "text": "ਆਪਣੇ ਪ੍ਰੋਜੈਕਟ ਬਾਰੇ ਗੱਲ ਕਰਨ ਲਈ Nick ਦੀ ਟੀਮ ਨੂੰ (707) 590-0660 'ਤੇ ਕਾਲ ਕਰੋ।"
+      },
+      "cta": {
+        "label": "ਕੋਟੇਸ਼ਨ ਲਈ ਕਾਲ ਕਰੋ",
+        "short": "ਕੋਟੇਸ਼ਨ"
+      }
+    },
+    "hi": {
+      "seoTitle": "Vizcay Landscaping | वाकाविल, CA में घास, पेवर और बगीचा डिज़ाइन",
+      "description": "Vizcay Landscaping, वाकाविल का लैंडस्केप ठेकेदार, वाकाविल और डिक्सन में सेवा। आर्टिफ़िशियल घास, पेवर, सिंचाई, लॉन, पौधे और बगीचा डिज़ाइन। 5.0 स्टार रेटिंग (58 रिव्यू)। (707) 590-0660।",
+      "eyebrow": "लैंडस्केपिंग · वाकाविल और डिक्सन",
+      "tagline": "आगे और पीछे के आँगन का कायाकल्प: आर्टिफ़िशियल घास, पेवर, सिंचाई, पौधे और सूखा-सहनशील डिज़ाइन, Nick और उनकी टीम द्वारा।",
+      "servicesKicker": "सेवाएँ",
+      "servicesTitle": "हम क्या करते हैं",
+      "servicesNote": "हर आँगन अलग होता है, इसलिए कोई तय रेट लिस्ट नहीं है। कोटेशन के लिए (707) 590-0660 पर कॉल करें।",
+      "amenitiesTitle": "जानने लायक बातें",
+      "galleryTitle": "हाल के आँगन",
+      "hoursNote": "कोटेशन के लिए कॉल करें। हम आपके यहाँ आते हैं, कोई दुकान नहीं है।",
+      "highlights": [
+        "58 रिव्यू से 5.0★",
+        "आर्टिफ़िशियल घास और लॉन",
+        "पेवर और हार्डस्केप",
+        "सिंचाई",
+        "बगीचा डिज़ाइन",
+        "हर दिन साफ़ काम की जगह"
+      ],
+      "about": {
+        "kicker": "टीम",
+        "title": "ऐसे आँगन जिन्हें पड़ोसी रुककर देखते हैं।",
+        "imageAlt": "सूखा-सहनशील पौधों वाला आगे का आँगन",
+        "body": [
+          "Vizcay Landscaping वाकाविल में स्थित एक लैंडस्केप ठेकेदार है, जो वाकाविल, डिक्सन और आसपास के सोलानो काउंटी इलाके में सेवा देता है। Nick Vizcay और उनकी टीम आगे और पीछे के आँगन के पूरे प्रोजेक्ट संभालती है, तोड़फोड़ और पुराना कंक्रीट हटाने से लेकर पेवर, सिंचाई, घास, पौधे और छाल तक।",
+          "हमें 58 रिव्यू में 5 स्टार मिले हैं। हमारे ग्राहक हमारी बढ़िया बातचीत, समय पर आने वाली टीम, काम के डिज़ाइन सुझावों और हर दिन के अंत में साफ़-सुथरे, मलबे से मुक्त आँगन की तारीफ़ करते हैं।"
+        ],
+        "facts": [
+          {
+            "label": "58 रिव्यू"
+          },
+          {
+            "value": "58 में से 57",
+            "label": "फ़ाइव-स्टार रिव्यू"
+          },
+          {
+            "value": "सोम–शुक्र",
+            "label": "सुबह 7–शाम 7"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "बगीचा डिज़ाइन",
+          "desc": "आपके विचारों को निखारने में मदद, ऐसे डिज़ाइन सुझावों के साथ जो शायद आपने न सोचे हों।"
+        },
+        {
+          "name": "आर्टिफ़िशियल घास",
+          "desc": "आगे के आँगन, पीछे के आँगन और कुत्तों के दौड़ने की जगह के लिए घास।"
+        },
+        {
+          "name": "लॉन और घास लगाना"
+        },
+        {
+          "name": "पेवर लगाना",
+          "desc": "पेवर वाले पैटियो और रास्ते।"
+        },
+        {
+          "name": "सिंचाई लगाना"
+        },
+        {
+          "name": "पौधे और छाल लगाना",
+          "desc": "सूखा-सहनशील लैंडस्केप सहित।"
+        },
+        {
+          "name": "पूरे आँगन का नवीनीकरण",
+          "desc": "पुराना कंक्रीट, लॉन और पौधे तोड़ना और हटाना, फिर नया निर्माण।"
+        },
+        {
+          "name": "बगीचे की लाइटिंग"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "वाकाविल और डिक्सन में सेवा",
+          "note": "सोलानो काउंटी"
+        },
+        {
+          "label": "डिज़ाइन सुझाव",
+          "note": "हम आपके विचारों को निखारते हैं"
+        },
+        {
+          "label": "साफ़ काम की जगह",
+          "note": "हम हर दिन आँगन को मलबे से साफ़ छोड़ते हैं"
+        },
+        {
+          "label": "इमरजेंसी मदद"
+        }
+      ],
+      "faq": [
+        {
+          "q": "आप किन इलाकों में सेवा देते हैं?",
+          "a": "हम सोलानो काउंटी में वाकाविल और डिक्सन में सेवा देते हैं।"
+        },
+        {
+          "q": "आप किस तरह के प्रोजेक्ट करते हैं?",
+          "a": "बगीचा डिज़ाइन, आर्टिफ़िशियल घास, लॉन लगाना, पेवर, सिंचाई, पौधे और छाल, और आगे-पीछे के आँगन का पूरा नवीनीकरण जो पुराना कंक्रीट, लॉन और पौधे हटाने से शुरू होता है।"
+        },
+        {
+          "q": "क्या आप सूखा-सहनशील लैंडस्केपिंग करते हैं?",
+          "a": "हाँ! हमने कई आगे के आँगनों को सूखा-सहनशील लैंडस्केप में बदला है।"
+        },
+        {
+          "q": "कोटेशन कैसे मिलेगा?",
+          "a": "हमें (707) 590-0660 पर कॉल करें, सोमवार–शुक्रवार सुबह 7–शाम 7।"
+        },
+        {
+          "q": "मैं किसके साथ काम करूँगा?",
+          "a": "आप सीधे मेरे, Nick Vizcay, और मेरी टीम के साथ काम करेंगे, शुरू से आख़िर तक बढ़िया बातचीत के साथ।"
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "ड्राइववे के किनारे आगे के आँगन की घास"
+        },
+        {
+          "alt": "शाम को रोशनी वाला आगे का आँगन"
+        },
+        {
+          "alt": "पीछे के आँगन में आर्टिफ़िशियल घास"
+        },
+        {
+          "alt": "छाल और पत्थर वाली क्यारी"
+        },
+        {
+          "alt": "रास्ते के किनारे घुमावदार लॉन"
+        },
+        {
+          "alt": "आगे के आँगन में लॉन लगाना"
+        },
+        {
+          "alt": "सूखा-सहनशील पौधे"
+        },
+        {
+          "alt": "तैयार घास वाला आगे का आँगन"
+        }
+      ],
+      "finalCta": {
+        "title": "ऐसे आँगन के लिए तैयार जो आपको पसंद आए?",
+        "text": "अपने प्रोजेक्ट पर बात करने के लिए Nick की टीम को (707) 590-0660 पर कॉल करें।"
+      },
+      "cta": {
+        "label": "कोटेशन के लिए कॉल करें",
+        "short": "कोटेशन"
+      }
+    },
+    "ko": {
+      "seoTitle": "Vizcay Landscaping | 캘리포니아 바카빌 인조잔디, 페이버 및 조경 디자인",
+      "description": "Vizcay Landscaping, 바카빌과 딕슨을 담당하는 바카빌 조경 업체. 인조잔디, 페이버, 관개 시설, 잔디, 식재 및 조경 디자인. 평점 5.0점(리뷰 58개). (707) 590-0660.",
+      "eyebrow": "조경 · 바카빌 & 딕슨",
+      "tagline": "앞마당과 뒷마당을 새롭게: 인조잔디, 페이버, 관개 시설, 식재, 가뭄에 강한 디자인까지, Nick과 그의 팀이 해 드립니다.",
+      "servicesKicker": "서비스",
+      "servicesTitle": "저희가 하는 일",
+      "servicesNote": "마당마다 다르기 때문에 정해진 가격표는 없습니다. 견적은 (707) 590-0660으로 전화 주세요.",
+      "amenitiesTitle": "알아 두실 점",
+      "galleryTitle": "최근 작업한 마당",
+      "hoursNote": "견적은 전화로 문의하세요. 직접 방문하며 매장은 없습니다.",
+      "highlights": [
+        "리뷰 58개, 평점 5.0★",
+        "인조잔디 & 잔디밭",
+        "페이버 & 하드스케이프",
+        "관개 시설",
+        "조경 디자인",
+        "매일 깨끗한 작업 현장"
+      ],
+      "about": {
+        "kicker": "저희 팀",
+        "title": "이웃들이 발길을 멈추고 보는 마당.",
+        "imageAlt": "가뭄에 강한 식물을 심은 앞마당",
+        "body": [
+          "Vizcay Landscaping은 바카빌에 기반을 둔 조경 업체로, 바카빌, 딕슨 및 솔라노 카운티 인근 지역을 담당합니다. Nick Vizcay와 팀이 철거와 기존 콘크리트 제거부터 페이버, 관개 시설, 잔디, 식재, 바크 멀칭까지 앞마당과 뒷마당 전체 공사를 맡습니다.",
+          "리뷰 58개에서 별점 5점을 받았습니다. 고객분들은 원활한 소통, 시간을 잘 지키는 팀, 유익한 디자인 제안, 그리고 매일 작업이 끝나면 잔해 없이 깨끗하게 정리된 마당을 칭찬해 주십니다."
+        ],
+        "facts": [
+          {
+            "label": "리뷰 58개"
+          },
+          {
+            "value": "58개 중 57개",
+            "label": "별 다섯 개 리뷰"
+          },
+          {
+            "value": "월–금",
+            "label": "오전 7시–오후 7시"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "조경 디자인",
+          "desc": "생각지 못한 디자인 제안으로 아이디어를 다듬어 드립니다."
+        },
+        {
+          "name": "인조잔디",
+          "desc": "앞마당, 뒷마당, 반려견 놀이 공간용 인조잔디."
+        },
+        {
+          "name": "잔디 시공"
+        },
+        {
+          "name": "페이버 시공",
+          "desc": "페이버 파티오와 산책로."
+        },
+        {
+          "name": "관개 시설 설치"
+        },
+        {
+          "name": "식재 및 바크 멀칭",
+          "desc": "가뭄에 강한 조경 포함."
+        },
+        {
+          "name": "마당 전체 리모델링",
+          "desc": "기존 콘크리트, 잔디, 식물을 철거하고 새로 시공합니다."
+        },
+        {
+          "name": "조경 조명"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "바카빌 & 딕슨 담당",
+          "note": "솔라노 카운티"
+        },
+        {
+          "label": "디자인 제안",
+          "note": "아이디어를 함께 다듬어 드립니다"
+        },
+        {
+          "label": "깨끗한 작업 현장",
+          "note": "매일 잔해 없이 마당을 정리합니다"
+        },
+        {
+          "label": "긴급 지원"
+        }
+      ],
+      "faq": [
+        {
+          "q": "어느 지역을 담당하시나요?",
+          "a": "솔라노 카운티의 바카빌과 딕슨을 담당합니다."
+        },
+        {
+          "q": "어떤 공사를 하시나요?",
+          "a": "조경 디자인, 인조잔디, 잔디 시공, 페이버, 관개 시설, 식재와 바크 멀칭부터 기존 콘크리트, 잔디, 식물 철거로 시작하는 앞마당·뒷마당 전체 리모델링까지 합니다."
+        },
+        {
+          "q": "가뭄에 강한 조경도 하시나요?",
+          "a": "네! 여러 앞마당을 가뭄에 강한 조경으로 바꿔 드렸습니다."
+        },
+        {
+          "q": "견적은 어떻게 받나요?",
+          "a": "(707) 590-0660으로 월요일–금요일 오전 7시–오후 7시에 전화 주세요."
+        },
+        {
+          "q": "누구와 함께 일하게 되나요?",
+          "a": "저 Nick Vizcay와 저희 팀이 직접 맡아, 처음부터 끝까지 원활하게 소통해 드립니다."
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "진입로를 따라 깐 앞마당 잔디"
+        },
+        {
+          "alt": "해 질 녘 조명이 켜진 앞마당"
+        },
+        {
+          "alt": "뒷마당 인조잔디"
+        },
+        {
+          "alt": "바크와 돌로 꾸민 화단"
+        },
+        {
+          "alt": "산책로를 따라 곡선으로 다듬은 잔디 가장자리"
+        },
+        {
+          "alt": "앞마당 잔디 시공"
+        },
+        {
+          "alt": "가뭄에 강한 식재"
+        },
+        {
+          "alt": "완공된 인조잔디 앞마당"
+        }
+      ],
+      "finalCta": {
+        "title": "마음에 쏙 드는 마당, 준비되셨나요?",
+        "text": "(707) 590-0660으로 Nick의 팀에 전화하셔서 공사 내용을 상의하세요."
+      },
+      "cta": {
+        "label": "전화로 견적 받기",
+        "short": "견적"
+      }
+    },
+    "ar": {
+      "seoTitle": "Vizcay Landscaping | عشب صناعي وبلاط وتصميم حدائق في فاكافيل، كاليفورنيا",
+      "description": "Vizcay Landscaping، مقاول تنسيق حدائق في فاكافيل يخدم فاكافيل وديكسون. عشب صناعي، بلاط أرضيات، ري، مسطحات خضراء، نباتات وتصميم حدائق. تقييم 5.0 نجوم (58 تقييمًا). (707) 590-0660.",
+      "eyebrow": "تنسيق حدائق · فاكافيل وديكسون",
+      "tagline": "تحويل الحدائق الأمامية والخلفية: عشب صناعي، بلاط، ري، نباتات وتصاميم تتحمل الجفاف، على يد Nick وفريقه.",
+      "servicesKicker": "الخدمات",
+      "servicesTitle": "ماذا نقدّم",
+      "servicesNote": "كل حديقة مختلفة، لذلك لا توجد قائمة أسعار منشورة. اتصل على (707) 590-0660 للحصول على عرض سعر.",
+      "amenitiesTitle": "معلومات مفيدة",
+      "galleryTitle": "حدائق حديثة",
+      "hoursNote": "اتصل للحصول على عرض سعر. نأتي إليك، وليس لدينا محل.",
+      "highlights": [
+        "5.0★ من 58 تقييمًا",
+        "عشب صناعي ومسطحات خضراء",
+        "بلاط وأعمال صلبة",
+        "الري",
+        "تصميم الحدائق",
+        "موقع عمل نظيف كل يوم"
+      ],
+      "about": {
+        "kicker": "الفريق",
+        "title": "حدائق يتوقف الجيران لمشاهدتها.",
+        "imageAlt": "حديقة أمامية بنباتات تتحمل الجفاف",
+        "body": [
+          "Vizcay Landscaping مقاول تنسيق حدائق مقره فاكافيل، يخدم فاكافيل وديكسون والمناطق المحيطة في مقاطعة سولانو. يتولى Nick Vizcay وفريقه مشاريع الحدائق الأمامية والخلفية كاملةً، من الهدم وإزالة الخرسانة القديمة إلى البلاط والري والعشب والنباتات ونشارة اللحاء.",
+          "حصلنا على 5 نجوم في 58 تقييمًا. يشيد عملاؤنا بتواصلنا الممتاز، والتزام فريقنا بالمواعيد، واقتراحات التصميم القيّمة، وترك الحديقة نظيفة وخالية من المخلفات في نهاية كل يوم."
+        ],
+        "facts": [
+          {
+            "label": "58 تقييمًا"
+          },
+          {
+            "value": "57 من 58",
+            "label": "تقييمات بخمس نجوم"
+          },
+          {
+            "value": "الإثنين–الجمعة",
+            "label": "7 صباحًا–7 مساءً"
+          }
+        ]
+      },
+      "services": [
+        {
+          "name": "تصميم الحدائق",
+          "desc": "نساعدك على تطوير أفكارك، باقتراحات تصميم ربما لم تفكر فيها."
+        },
+        {
+          "name": "عشب صناعي",
+          "desc": "عشب للحدائق الأمامية والخلفية وممرات الكلاب."
+        },
+        {
+          "name": "زراعة المسطحات الخضراء والعشب"
+        },
+        {
+          "name": "تركيب البلاط",
+          "desc": "فناءات وممرات من البلاط."
+        },
+        {
+          "name": "تركيب أنظمة الري"
+        },
+        {
+          "name": "زراعة النباتات ونشارة اللحاء",
+          "desc": "بما في ذلك الحدائق التي تتحمل الجفاف."
+        },
+        {
+          "name": "تجديد الحديقة بالكامل",
+          "desc": "هدم وإزالة الخرسانة والعشب والنباتات القديمة، ثم البناء الجديد."
+        },
+        {
+          "name": "إضاءة الحدائق"
+        }
+      ],
+      "amenities": [
+        {
+          "label": "نخدم فاكافيل وديكسون",
+          "note": "مقاطعة سولانو"
+        },
+        {
+          "label": "اقتراحات التصميم",
+          "note": "نساعدك على تطوير أفكارك"
+        },
+        {
+          "label": "موقع عمل نظيف",
+          "note": "نترك الحديقة خالية من المخلفات كل يوم"
+        },
+        {
+          "label": "مساعدة طارئة"
+        }
+      ],
+      "faq": [
+        {
+          "q": "ما المناطق التي تخدمونها؟",
+          "a": "نخدم فاكافيل وديكسون في مقاطعة سولانو."
+        },
+        {
+          "q": "ما أنواع المشاريع التي تنفذونها؟",
+          "a": "تصميم الحدائق، العشب الصناعي، زراعة المسطحات الخضراء، البلاط، الري، النباتات ونشارة اللحاء، وصولًا إلى التجديد الكامل للحدائق الأمامية والخلفية بدءًا من إزالة الخرسانة والعشب والنباتات القديمة."
+        },
+        {
+          "q": "هل تنفذون حدائق تتحمل الجفاف؟",
+          "a": "نعم! حوّلنا حدائق أمامية إلى مساحات تتحمل الجفاف."
+        },
+        {
+          "q": "كيف أحصل على عرض سعر؟",
+          "a": "اتصل بنا على (707) 590-0660، من الإثنين إلى الجمعة من 7 صباحًا إلى 7 مساءً."
+        },
+        {
+          "q": "مع من سأعمل؟",
+          "a": "ستعمل مباشرة معي، Nick Vizcay، ومع فريقي، بتواصل ممتاز من البداية إلى النهاية."
+        }
+      ],
+      "gallery": [
+        {
+          "alt": "عشب الحديقة الأمامية بجانب ممر السيارات"
+        },
+        {
+          "alt": "حديقة أمامية مضاءة عند الغروب"
+        },
+        {
+          "alt": "عشب صناعي في الحديقة الخلفية"
+        },
+        {
+          "alt": "حوض زراعة بنشارة اللحاء والحجارة"
+        },
+        {
+          "alt": "حافة عشب منحنية بجانب الممر"
+        },
+        {
+          "alt": "زراعة عشب الحديقة الأمامية"
+        },
+        {
+          "alt": "نباتات تتحمل الجفاف"
+        },
+        {
+          "alt": "حديقة أمامية مكتملة بالعشب"
+        }
+      ],
+      "finalCta": {
+        "title": "مستعد لحديقة ستحبها؟",
+        "text": "اتصل بفريق Nick على (707) 590-0660 لنتحدث عن مشروعك."
+      },
+      "cta": {
+        "label": "اتصل لعرض سعر",
+        "short": "عرض سعر"
+      }
+    }
   }
 }
