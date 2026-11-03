@@ -5,7 +5,7 @@
   "schemaType": "BarberShop",
   "eyebrow": "Barbershop · Downtown Vacaville",
   "tagline": "Downtown Vacaville's 5-star barbershop. Clean cuts, good conversation, and barbers who are great with kids.",
-  "heroImage": "images/hero-fade-side.webp",
+  "heroImage": "images/hero-taper.webp",
   "seoTitle": "Final Kuts Barbershop | Barber in Downtown Vacaville, CA",
   "description": "Final Kuts Barbershop at 348 Merchant St Ste A, Vacaville, CA. Rated 5.0 stars. Haircuts, beard work, kids' cuts. Walk in or book online. (707) 685-9136.",
   "phone": "+17076859136",
@@ -31,7 +31,8 @@
   "theme": {
     "accent": "#d62828",
     "stripe": "repeating-linear-gradient(-45deg,#d62828 0 18px,#f3f4f6 18px 36px,#1d4ed8 36px 54px,#f3f4f6 54px 72px)",
-    "heroOverlay": "linear-gradient(180deg,rgba(0,0,0,.5) 0%,rgba(0,0,0,.68) 45%,rgba(0,0,0,.88) 100%)"
+    "heroOverlay": "linear-gradient(180deg,rgba(0,0,0,.5) 0%,rgba(0,0,0,.68) 45%,rgba(0,0,0,.88) 100%)",
+    "heroPosition": "50% 45%"
   },
   "highlights": [
     "5.0★ from 227 reviews",
