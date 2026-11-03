@@ -25,7 +25,7 @@
     "label": "Call to order ahead",
     "short": "Order"
   },
-  "ogImage": "images/hero-tacos.jpg",
+  "ogImage": "og.jpg",
   "theme": {
     "accent": "#e8590c",
     "stripe": "repeating-linear-gradient(90deg,#f2b705 0 40px,#e8590c 40px 80px,#2b8a3e 80px 120px)",
@@ -59,7 +59,7 @@
         "label": "11 AM–9 PM"
       }
     ],
-    "image": "images/tacos.jpg",
+    "image": "images/tacos.webp",
     "imageAlt": "Plate of La Piñata street tacos"
   },
   "reviewsTitle": "Worth the drive",
@@ -266,7 +266,7 @@
       "label": "Google reviews"
     }
   ],
-  "heroImage": "images/hero-tacos.jpg",
+  "heroImage": "images/hero-tacos.webp",
   "menu": {
     "kicker": "Menu",
     "title": "What's on the board",
@@ -279,7 +279,7 @@
       {
         "name": "Tacos",
         "image": {
-          "src": "images/tacos-plate.jpg",
+          "src": "images/tacos-plate.webp",
           "alt": "Plate of La Piñata tacos topped with cilantro, onion, radish and carrots"
         },
         "items": [
@@ -306,7 +306,7 @@
       {
         "name": "Burritos",
         "image": {
-          "src": "images/burrito-cut.jpg",
+          "src": "images/burrito-cut.webp",
           "alt": "La Piñata super burrito cut open on foil"
         },
         "items": [
@@ -336,7 +336,7 @@
         "name": "Tortas, Nachos & Quesadillas",
         "id": "tortas-nachos-quesadillas",
         "image": {
-          "src": "images/chips-salsas-pickled-veggies.jpg",
+          "src": "images/chips-salsas-pickled-veggies.webp",
           "alt": "Chips, red and green salsa, pickled carrots and a grilled jalapeño from La Piñata",
           "caption": "Chips, salsas & pickled veggies"
         },
@@ -400,32 +400,32 @@
   "galleryTitle": "Straight from the truck",
   "gallery": [
     {
-      "src": "images/tacos-plate.jpg",
+      "src": "images/tacos-plate.webp",
       "alt": "Plate of tacos with cilantro, onion, radish, carrots and lime",
       "caption": "Tacos"
     },
     {
-      "src": "images/burrito-plate.jpg",
+      "src": "images/burrito-plate.webp",
       "alt": "Super burrito on a plate with pickled carrots and a cup of horchata",
       "caption": "Super burrito"
     },
     {
-      "src": "images/chips-salsas-pickled-veggies.jpg",
+      "src": "images/chips-salsas-pickled-veggies.webp",
       "alt": "Chips, red and green salsa, pickled carrots and a grilled jalapeño",
       "caption": "Chips, salsas & pickled veggies"
     },
     {
-      "src": "images/burrito-cut.jpg",
+      "src": "images/burrito-cut.webp",
       "alt": "Burrito cut open on foil",
       "caption": "Burrito"
     },
     {
-      "src": "images/burrito-closeup.jpg",
+      "src": "images/burrito-closeup.webp",
       "alt": "Close-up of a burrito filled with meat, rice and cheese",
       "caption": "Burrito"
     },
     {
-      "src": "images/burrito-foil.jpg",
+      "src": "images/burrito-foil.webp",
       "alt": "Burrito wrapped in foil, bitten open",
       "caption": "Burrito to go"
     }
@@ -433,8 +433,8 @@
   "googleReviewsUrl": "https://www.google.com/maps/place/La+Pi%C3%B1ata+Taqueria/@38.1147339,-122.2487791,17z/data=!4m8!3m7!1s0x8085739c1a6761fb:0x55c92816b09cb66b!8m2!3d38.1147339!4d-122.2487791!9m1!1b1",
   "yelpUrl": "https://www.yelp.com/biz/la-pi%C3%B1ata-taqueria-vallejo#reviews",
   "logo": {
-    "mark": "images/logo-truck.svg",
-    "wordmark": "images/logo-wordmark.svg",
+    "mark": "images/logo-truck.min.svg",
+    "wordmark": "images/logo-wordmark.min.svg",
     "alt": "La Piñata Taqueria",
     "faviconBg": "#fbf3e6"
   }

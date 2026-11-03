@@ -27,8 +27,8 @@
     "label": "Call for a quote",
     "short": "Quote"
   },
-  "heroImage": "images/turf-front-yard.jpg",
-  "ogImage": "images/turf-front-yard.jpg",
+  "heroImage": "images/turf-front-yard.webp",
+  "ogImage": "og.jpg",
   "highlights": [
     "5.0★ from 58 reviews",
     "Artificial turf & lawns",
@@ -58,7 +58,7 @@
         "label": "7 AM–7 PM"
       }
     ],
-    "image": "images/drought-tolerant.jpg",
+    "image": "images/drought-tolerant.webp",
     "imageAlt": "Drought-tolerant front yard planting"
   },
   "servicesTitle": "What we do",
@@ -98,35 +98,35 @@
   "galleryTitle": "Recent yards",
   "gallery": [
     {
-      "src": "images/curb-turf.jpg",
+      "src": "images/curb-turf.webp",
       "alt": "Front yard turf along a driveway"
     },
     {
-      "src": "images/front-yard-lighting.jpg",
+      "src": "images/front-yard-lighting.webp",
       "alt": "Front yard landscape at dusk with lighting"
     },
     {
-      "src": "images/backyard-turf.jpg",
+      "src": "images/backyard-turf.webp",
       "alt": "Backyard artificial turf"
     },
     {
-      "src": "images/xeriscape-bed.jpg",
+      "src": "images/xeriscape-bed.webp",
       "alt": "Planted bed with bark and stone"
     },
     {
-      "src": "images/lawn-edge.jpg",
+      "src": "images/lawn-edge.webp",
       "alt": "Curved lawn edge along a walkway"
     },
     {
-      "src": "images/front-lawn.jpg",
+      "src": "images/front-lawn.webp",
       "alt": "Front lawn installation"
     },
     {
-      "src": "images/drought-tolerant.jpg",
+      "src": "images/drought-tolerant.webp",
       "alt": "Drought-tolerant planting"
     },
     {
-      "src": "images/turf-front-yard.jpg",
+      "src": "images/turf-front-yard.webp",
       "alt": "Finished turf front yard"
     }
   ],
@@ -268,5 +268,10 @@
     "title": "Ready for a yard you'll love?",
     "text": "Call Nick's team at (707) 590-0660 to talk through your project."
   },
-  "yelpUrl": "https://www.yelp.com/biz/vizcay-landscaping-vacaville-3#reviews"
+  "yelpUrl": "https://www.yelp.com/biz/vizcay-landscaping-vacaville-3#reviews",
+  "quoteSms": {
+    "label": "Text for a free quote",
+    "short": "Text quote",
+    "body": "Hi Nick, I'd like a free quote for my yard. Here's what I have in mind: "
+  }
 }

@@ -25,7 +25,7 @@
     "label": "Call the shop",
     "short": "Call"
   },
-  "ogImage": "images/storefront.jpg",
+  "ogImage": "og.jpg",
   "theme": {
     "font": "Playfair+Display:wght@600;700|Inter:wght@400;600;800",
     "head": "'Playfair Display',Georgia,serif",
@@ -72,7 +72,7 @@
         "label": "San opens the shop"
       }
     ],
-    "image": "images/shop-floor.jpg",
+    "image": "images/shop-floor.webp",
     "imageAlt": "Inside Chateau Barber Shop"
   },
   "servicesKicker": "Specialties",
@@ -112,35 +112,35 @@
   "galleryTitle": "At the Chateau",
   "gallery": [
     {
-      "src": "images/storefront.jpg",
+      "src": "images/storefront.webp",
       "alt": "Chateau Barber Shop storefront and barber pole"
     },
     {
-      "src": "images/side-part.jpg",
+      "src": "images/side-part.webp",
       "alt": "Classic side part"
     },
     {
-      "src": "images/shop-floor.jpg",
+      "src": "images/shop-floor.webp",
       "alt": "Barber chairs and framed photos"
     },
     {
-      "src": "images/fresh-cut.jpg",
+      "src": "images/fresh-cut.webp",
       "alt": "Fresh cut, front and side"
     },
     {
-      "src": "images/logo-sign.jpg",
+      "src": "images/logo-sign.webp",
       "alt": "Chateau Barber Shop sign"
     },
     {
-      "src": "images/before-after.jpg",
+      "src": "images/before-after.webp",
       "alt": "Before and after haircut"
     },
     {
-      "src": "images/chairs.jpg",
+      "src": "images/chairs.webp",
       "alt": "Inside the shop"
     },
     {
-      "src": "images/classic-cut.jpg",
+      "src": "images/classic-cut.webp",
       "alt": "Classic short cut"
     }
   ],
@@ -253,7 +253,7 @@
   "slug": "chateau-barber-shop-napa",
   "teamIntro": "Ask for San, or take the next open chair.",
   "siteUrl": "https://leger-web-studio.github.io/chateau-barber-shop-napa/",
-  "heroImage": "images/storefront.jpg",
+  "heroImage": "images/storefront.webp",
   "ratings": [
     {
       "source": "Google",

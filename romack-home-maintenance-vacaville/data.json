@@ -40,8 +40,8 @@
     "label": "Call or text Bob",
     "short": "Call"
   },
-  "heroImage": "images/cedar-steps.jpg",
-  "ogImage": "images/cedar-steps.jpg",
+  "heroImage": "images/cedar-steps.webp",
+  "ogImage": "og.jpg",
   "highlights": [
     "4.9★ from 39 reviews",
     "25+ years experience",
@@ -71,7 +71,7 @@
         "label": "Open 6 days"
       }
     ],
-    "image": "images/entry-steps.jpg",
+    "image": "images/entry-steps.webp",
     "imageAlt": "Wood entry steps with railing"
   },
   "servicesTitle": "What Bob does",
@@ -116,35 +116,35 @@
   "galleryTitle": "Recent projects",
   "gallery": [
     {
-      "src": "images/tile-shower.jpg",
+      "src": "images/tile-shower.webp",
       "alt": "Tiled shower wall"
     },
     {
-      "src": "images/fireplace-wall.jpg",
+      "src": "images/fireplace-wall.webp",
       "alt": "Stone fireplace wall"
     },
     {
-      "src": "images/deck-rebuild.jpg",
+      "src": "images/deck-rebuild.webp",
       "alt": "Wood deck under construction"
     },
     {
-      "src": "images/treehouse-deck.jpg",
+      "src": "images/treehouse-deck.webp",
       "alt": "Raised wooden deck"
     },
     {
-      "src": "images/shed.jpg",
+      "src": "images/shed.webp",
       "alt": "Storage shed"
     },
     {
-      "src": "images/garden-bench.jpg",
+      "src": "images/garden-bench.webp",
       "alt": "Wooden garden bench"
     },
     {
-      "src": "images/laminate-floor.jpg",
+      "src": "images/laminate-floor.webp",
       "alt": "Wood-look flooring in a hallway"
     },
     {
-      "src": "images/entry-steps.jpg",
+      "src": "images/entry-steps.webp",
       "alt": "Wood entry steps"
     }
   ],
@@ -346,5 +346,10 @@
     "text": "Call or text Bob at (707) 317-8126 and get it handled, one project at a time."
   },
   "googleReviewsUrl": "https://www.google.com/maps/place/Romack+Home+maintenance+services/@38.3342357,-121.9779348,17z/data=!4m8!3m7!1s0x80853d4c259ea703:0x2839b9bca65479b8!8m2!3d38.3342357!4d-121.9779348!9m1!1b1",
-  "yelpUrl": "https://www.yelp.com/biz/rowmack-vacaville-3#reviews"
+  "yelpUrl": "https://www.yelp.com/biz/rowmack-vacaville-3#reviews",
+  "quoteSms": {
+    "label": "Text for a free quote",
+    "short": "Text quote",
+    "body": "Hi Bob, I'd like a free quote for a project at my house. Here's what I need done: "
+  }
 }

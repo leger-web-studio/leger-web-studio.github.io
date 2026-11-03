@@ -26,8 +26,8 @@
     "label": "Call to get in",
     "short": "Call"
   },
-  "heroImage": "images/storefront.jpg",
-  "ogImage": "images/shop-photo.jpg",
+  "heroImage": "images/storefront.webp",
+  "ogImage": "og.jpg",
   "highlights": [
     "Est. 2010",
     "Walk-ins welcome",
@@ -57,7 +57,7 @@
         "label": "Established"
       }
     ],
-    "image": "images/fade-cut.jpg",
+    "image": "images/fade-cut.webp",
     "imageAlt": "Fresh fade at C's Cuts"
   },
   "servicesTitle": "Cuts & Services",
@@ -97,19 +97,19 @@
   "galleryTitle": "From the shop",
   "gallery": [
     {
-      "src": "images/fade-cut.jpg",
+      "src": "images/fade-cut.webp",
       "alt": "Skin fade with a sharp line-up"
     },
     {
-      "src": "images/textured-cut.jpg",
+      "src": "images/textured-cut.webp",
       "alt": "Fade with longer textured top"
     },
     {
-      "src": "images/storefront.jpg",
+      "src": "images/storefront.webp",
       "alt": "C's Cuts storefront at 2240 N Texas St"
     },
     {
-      "src": "images/storefront-2.jpg",
+      "src": "images/storefront-2.webp",
       "alt": "C's Cuts entrance with barber pole"
     }
   ],

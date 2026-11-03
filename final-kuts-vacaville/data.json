@@ -26,7 +26,7 @@
     "short": "Book",
     "url": "https://booksy.com/en-us/384088_final-kuts_barber-shop_134729_vacaville"
   },
-  "ogImage": "images/booksy-cover.jpg",
+  "ogImage": "og.jpg",
   "theme": {
     "accent": "#d62828",
     "stripe": "repeating-linear-gradient(-45deg,#d62828 0 18px,#f3f4f6 18px 36px,#1d4ed8 36px 54px,#f3f4f6 54px 72px)"
@@ -60,7 +60,7 @@
         "label": "Cuts available"
       }
     ],
-    "image": "images/booksy-cover.jpg",
+    "image": "images/booksy-cover.webp",
     "imageAlt": "Final Kuts logo"
   },
   "servicesKicker": "In the chair",
@@ -280,35 +280,35 @@
   "galleryTitle": "From the shop",
   "gallery": [
     {
-      "src": "images/taper.jpg",
+      "src": "images/taper.webp",
       "alt": "Taper fade, side view"
     },
     {
-      "src": "images/design-cut.jpg",
+      "src": "images/design-cut.webp",
       "alt": "Freestyle hair design"
     },
     {
-      "src": "images/skin-fade.jpg",
+      "src": "images/skin-fade.webp",
       "alt": "Skin fade with a sharp part"
     },
     {
-      "src": "images/beard-lineup.jpg",
+      "src": "images/beard-lineup.webp",
       "alt": "Beard line-up in the shop"
     },
     {
-      "src": "images/afro-cut.jpg",
+      "src": "images/afro-cut.webp",
       "alt": "Shaped afro and line-up"
     },
     {
-      "src": "images/fade-side.jpg",
+      "src": "images/fade-side.webp",
       "alt": "Low fade, side profile"
     },
     {
-      "src": "images/fade-pair.jpg",
+      "src": "images/fade-pair.webp",
       "alt": "Two fresh fades"
     },
     {
-      "src": "images/chair.jpg",
+      "src": "images/chair.webp",
       "alt": "Barber chair at Final Kuts"
     }
   ],

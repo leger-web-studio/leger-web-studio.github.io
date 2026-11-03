@@ -31,8 +31,8 @@
     "label": "Call to book",
     "short": "Call"
   },
-  "heroImage": "images/salon-interior.jpg",
-  "ogImage": "images/salon-interior.jpg",
+  "heroImage": "images/salon-interior.webp",
+  "ogImage": "og.jpg",
   "highlights": [
     "4.8★ from 69 reviews",
     "Walk-ins welcome",
@@ -63,7 +63,7 @@
         "label": "Open Mon–Sat"
       }
     ],
-    "image": "images/red-manicure.jpg",
+    "image": "images/red-manicure.webp",
     "imageAlt": "Fresh red manicure"
   },
   "servicesTitle": "Services",
@@ -112,35 +112,35 @@
   "galleryTitle": "Recent sets",
   "gallery": [
     {
-      "src": "images/gel-colors.jpg",
+      "src": "images/gel-colors.webp",
       "alt": "Multicolor gel manicure"
     },
     {
-      "src": "images/red-nail-art.jpg",
+      "src": "images/red-nail-art.webp",
       "alt": "Red nail art set"
     },
     {
-      "src": "images/silver-glitter.jpg",
+      "src": "images/silver-glitter.webp",
       "alt": "Silver glitter nails"
     },
     {
-      "src": "images/classic-red.jpg",
+      "src": "images/classic-red.webp",
       "alt": "Classic red manicure"
     },
     {
-      "src": "images/lace-nails.jpg",
+      "src": "images/lace-nails.webp",
       "alt": "Long white nails"
     },
     {
-      "src": "images/lilac-gel.jpg",
+      "src": "images/lilac-gel.webp",
       "alt": "Lilac gel nails"
     },
     {
-      "src": "images/natural-nude.jpg",
+      "src": "images/natural-nude.webp",
       "alt": "Natural nude manicure"
     },
     {
-      "src": "images/lavender-nails.jpg",
+      "src": "images/lavender-nails.webp",
       "alt": "Lavender manicure"
     }
   ],

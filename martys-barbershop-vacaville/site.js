@@ -15,7 +15,6 @@
     if (b){
       if (open){ var t=today.filter(function(x){return !x.closed && mins<m(x.c);})[0]; b.textContent=UI.openUntil.replace("{t}",fmt(t.c)); b.className="open-badge is-open"; }
       else { b.textContent=UI.closedNow; b.className="open-badge is-closed"; }
-      b.hidden=false;
     }
     var row = document.querySelector('#hoursTable tr[data-d="'+d+'"]');
     if (row) row.classList.add("today");

@@ -26,8 +26,8 @@
     "short": "Book",
     "url": "https://booksy.com/en-us/1040320_martys-barbershop_barber-shop_134729_vacaville"
   },
-  "heroImage": "images/storefront.jpg",
-  "ogImage": "images/storefront.jpg",
+  "heroImage": "images/storefront.webp",
+  "ogImage": "og.jpg",
   "theme": {
     "accent": "#c8102e"
   },
@@ -60,7 +60,7 @@
         "label": "Barbers to book"
       }
     ],
-    "image": "images/interior.jpg",
+    "image": "images/interior.webp",
     "imageAlt": "Inside Marty's Barbershop"
   },
   "servicesKicker": "Menu",
@@ -492,35 +492,35 @@
   "galleryTitle": "Inside Marty's",
   "gallery": [
     {
-      "src": "images/shop-floor.jpg",
+      "src": "images/shop-floor.webp",
       "alt": "Barber stations inside Marty's"
     },
     {
-      "src": "images/taper.jpg",
+      "src": "images/taper.webp",
       "alt": "Low taper fade"
     },
     {
-      "src": "images/hot-towel-shave.jpg",
+      "src": "images/hot-towel-shave.webp",
       "alt": "Hot towel shave"
     },
     {
-      "src": "images/fade.jpg",
+      "src": "images/fade.webp",
       "alt": "Fresh fade"
     },
     {
-      "src": "images/beard.jpg",
+      "src": "images/beard.webp",
       "alt": "Beard trim and line-up"
     },
     {
-      "src": "images/side-part.jpg",
+      "src": "images/side-part.webp",
       "alt": "Side part with fade"
     },
     {
-      "src": "images/kids-fade.jpg",
+      "src": "images/kids-fade.webp",
       "alt": "Kids' fade"
     },
     {
-      "src": "images/team.jpg",
+      "src": "images/team.webp",
       "alt": "Barbers at the shop entrance"
     }
   ],
